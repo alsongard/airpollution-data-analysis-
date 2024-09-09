@@ -2,7 +2,7 @@
 
 ## Description
 This repository will be used to analyze the different levels of air pollution in different countries and   
-Later on, if hospital data is given for repository diseases led from air pollution we will identify patterns and interesting relationships between the level of air pollution and repository diseases.  
+Later on, if hospital data is available for repository diseases led from air pollution, i will identify patterns and interesting relationships between the level of air pollution and repository diseases.  
 
 
 ## Features   
@@ -20,17 +20,15 @@ Later on, if hospital data is given for repository diseases led from air polluti
 | ozone_aqi_category |   |
 | no2_aqi_value |   |
 | no2_aqi_category |   |
-| pm2.5_aqi_value |  |
-| pm2.5_aqi_category | 
+| pm2.5_aqi_value |  | |
+| pm2.5_aqi_category |  |
 
 
 1. Country_name:  
 Provides the name of the country.  
-
 2. city_name:  
 name of the city in the given country.
-
-3. . Air Quality Index:   
+3.  Air Quality Index:   
 Air Quality Index(AQI) is a numerical value indication how clean or polluted the air is for the given location. AQI ranges for 0 to 500. Higer AQI values indicate polluted air which is poses a significant risk to health. 
 
 **AQI Categories:**   
