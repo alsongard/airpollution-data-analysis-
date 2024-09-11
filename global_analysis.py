@@ -48,28 +48,70 @@ print(f"Highest value of aqi_index : {data_df['aqi_value'].max()}")
 print(f"Lowest value of aqi_index : {data_df['aqi_value'].min()}")
 
 
-#countries with aqi_value of above 150
-countries_high_pollution_bool = data_df['aqi_value'] > 151 
-print(countries_high_pollution_bool.value_counts())   #true =  2488 false = 20547
-countries_high_pollution_df = data_df[countries_high_pollution_bool]
-print(countries_high_pollution_df)
+#countries with aqi_value of above 151 == unhealthy
+country_unhealthy_df = data_df[data_df["aqi_value"] > 151]
+print(f"Country which are unhealthy > 151 aqi_value are : \n {country_unhealthy_df}")
+# create dataset of unhealthy countries
+# country_unhealthy_df.to_csv("./data/country_unhealthy_condition.csv")
+# use value counts to check wich country has the most appearance in the unhealthy
+print(country_unhealthy_df.country_name.value_counts()) 
+# assign to value_count variable for assigment === series object 
+country_unhealthy_series = country_unhealthy_df.country_name.value_counts()
+print(f"The type of country_unhealthy_series is {type(country_unhealthy_series)}")
+# select the top 50 countries which have been repeated
+country_unhealthy_series = country_unhealthy_series[country_unhealthy_series > 10]
+#plot the data using bar
+country_unhealthy_series.plot.bar(width=0.3)
+plt.xlabel("countries")
+plt.ylabel("aqi_value")
+plt.xticks(rotation=45)
+plt.title("Countries  with the most cities with unhealthy Air Quality Index(AQI)")
+plt.show()
+#plot the data using pie chart
+plt.pie(country_unhealthy_series, labels=country_unhealthy_series.index, autopct="%1.1f%%")
+plt.title("Countries  with the most cities with unhealthy Air Quality Index(AQI)")
+plt.show()
+# country_unhealthy_df.to_csv("./data/countries_unhealthy_condition.csv") # already created file
+# print(country_unhealthy_df.country_name.value_counts())
+# print(f"Number of times country appears on unhealthy aqi_value : \n {country_unhealthy_value_counts}")
+
+# plt.bar(country_unhealthy_df, height=10, width=0.5)
 
 # country with the hihest aqi_value
-# country_highest_aqi = data_df['aqi_value'].max()
-# max_row = data_df.nlargest(n = 20, columns="aqi_value")
-# print(max_row)
-
+country_highest_aqi = data_df['aqi_value'].max() # get value of highest air quality index == 500
+max_row = data_df.nlargest(n = 20, columns="aqi_value") # return rows with highest aqi_value
+print(max_row)
+ 
+# get dataframe which has countries with highest aqi_value == 500
 high_aqi_value_df = data_df[data_df["aqi_value"]==500]
 print("dataframe with higherst aqi value equal to 500 is :")
 print(high_aqi_value_df )
 
+# use counts to check which country is repeated more
 print(high_aqi_value_df["country_name"].value_counts())
-
 country_count = high_aqi_value_df["country_name"].value_counts()
 
-#plot the data
+#plot the data is a series object
 plt.pie(country_count, labels=country_count.index, autopct="%1.1f%%")
 plt.title("Country Highest Aqi Value")
 plt.show()
 
 #  autopct="%1.1f%%"  startangle=140
+
+# get cities with the highest aqi value
+print("\n")
+print(data_df)
+print(data_df.info())
+cities_high_aqi_df = data_df[data_df["aqi_value"] == 500] # 103 rows of data
+print(cities_high_aqi_df["city_name"].value_counts()) # 
+city_counts = cities_high_aqi_df["city_name"].value_counts()
+print(type(city_counts))
+print(city_counts.index)
+print(city_counts.values)
+
+# check which values have been repeated
+repeated_values = city_counts.values > 1
+print(f"Repeated values are : \n {repeated_values}") # no city is repeated & hence no need for plotting
+# plt.pie(city_counts, labels=city_counts.index)
+# plt.title("City with highest aqi_values")
+# plt.show()
