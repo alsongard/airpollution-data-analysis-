@@ -6,7 +6,10 @@ import matplotlib.pyplot as plt
 data_df = pd.read_csv("./data/global_air_pollution_data.csv")
 
 print(data_df.head(10)) # 23463 rows and 12 columns
-print(data_df.info())
+print(f"Get info on global_air_pollution_data is : \n {data_df.info()}")
+
+print(f"Shape of the dataframe is : {data_df.shape}")
+
 
 # print only the column names
 columnNames = [col for col in data_df.columns]
