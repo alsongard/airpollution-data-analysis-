@@ -1,9 +1,20 @@
 # AIR QUALITY DYNAMICS
 
 ## Description
-This repository will be used to analyze the different levels of air pollution in different countries and   
-Later on, if hospital data is available for repository diseases led from air pollution, i will identify patterns and interesting relationships between the level of air pollution and repository diseases.  
+This repository will be used to analyze the different levels of air pollution in different countries and later on, if hospital data is available for repository diseases led from air pollution, i will identify patterns and interesting relationships between the level of air pollution and repository diseases.  
 
+# Table of Contents
+1. [Installation]
+1. [Features](#features)
+
+
+## Installation 
+
+**Requirements**
+- python
+- pandas  
+- matplotlib.pyplot
+- streamlit 
 
 ## Features   
 ### Columns/Attributes of the data:   
@@ -11,17 +22,17 @@ Later on, if hospital data is available for repository diseases led from air pol
 | Column | Data Type |
 | ---- | ---- |
 | country_name | object |
-| city_name |  |
+| city_name | object  |
 | aqi_value |  integer |
-| aqi_category |   |
-| co_aqi_value |   |
-| co_aqi_category |   |
-| ozone_aqi_value |   |
-| ozone_aqi_category |   |
-| no2_aqi_value |   |
-| no2_aqi_category |   |
-| pm2.5_aqi_value |  | |
-| pm2.5_aqi_category |  |
+| aqi_category | object  |
+| co_aqi_value | integer  |
+| co_aqi_category | object |
+| ozone_aqi_value | integer |
+| ozone_aqi_category | object  |
+| no2_aqi_value | integer  |
+| no2_aqi_category | object |
+| pm2.5_aqi_value | integer |
+| pm2.5_aqi_category | object  |
 
 
 1. Country_name:  
