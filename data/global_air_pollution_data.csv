@@ -1,4 +1,4 @@
-﻿country_name,city_name,aqi_value,aqi_category,"co_aqi_value	",co_aqi_category,ozone_aqi_value,ozone_aqi_category,no2_aqi_value,no2_aqi_category,pm2.5_aqi_value,pm2.5_aqi_category
+﻿country_name,city_name,aqi_value,aqi_category,co_aqi_value,co_aqi_category,ozone_aqi_value,ozone_aqi_category,no2_aqi_value,no2_aqi_category,pm2.5_aqi_value,pm2.5_aqi_category
 Russian Federation,Praskoveya,51,Moderate,1,Good,36,Good,0,Good,51,Moderate
 Brazil,Presidente Dutra,41,Good,1,Good,5,Good,1,Good,41,Good
 Italy,Priolo Gargallo,66,Moderate,1,Good,39,Good,2,Good,66,Moderate
