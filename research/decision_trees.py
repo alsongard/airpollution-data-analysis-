@@ -1,0 +1,41 @@
+import pandas as pd
+from sklearn  import tree
+from sklearn.tree import DecisionTreeClassifier
+import matplotlib.pyplot as plt
+
+
+data_df = pd.read_csv("./comedy.csv")
+print(data_df)
+
+# convert values of nationality, go and into numerical
+nationality = {
+    "UK" : 0,
+    "USA" : 1,
+    "N": 2
+}
+go_comedy = {
+    "YES" : 1,
+    "NO" : 0
+}
+data_df["Nationality"] = data_df["Nationality"].map(nationality)
+data_df["Go"] = data_df["Go"].map(go_comedy)
+print(data_df)
+
+
+# Extract features from the data set
+features = ["Age", "Experience", "Rank","Nationality", "Go"]
+X_df = data_df[features]
+
+#Extract target from the data set
+target = "Go"
+Y_df = data_df[target]
+
+print(f"Features are : \n {X_df}")
+print(f"Target is : \n {Y_df}")
+
+
+# applying decision tree
+dtree = DecisionTreeClassifier()
+comedy_tree = dtree.fit(X_df, Y_df)
+
+tree.plot_tree(comedy_tree, feature_names=features)
