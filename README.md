@@ -4,7 +4,7 @@
 This repository will be used to analyze the different levels of air pollution in different countries and later on, if hospital data is available for repository diseases led from air pollution, i will identify patterns and interesting relationships between the level of air pollution and repository diseases.  
 
 # Table of Contents
-1. [Installation]
+1. [Installation](#installation)
 1. [Features](#features)
 
 
