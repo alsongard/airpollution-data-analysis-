@@ -9,7 +9,8 @@ This repository will be used to analyze the different levels of air pollution in
 
 
 ## Installation 
-
+1. Virtual environment setup
+``python3 -m venv directory name``
 **Requirements**
 - python
 - pandas  
