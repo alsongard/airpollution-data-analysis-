@@ -95,7 +95,7 @@ st.write("""
 """)
 
 # dataframe based on these conditions
-# remeber to use high_rank
+# remeber to use high_rank_age_low
 left_node_value = high_rank_age_low[high_rank_age_low["Age"] <= 35.5]
 left_node_value
 
