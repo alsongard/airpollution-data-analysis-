@@ -1,3 +1,9 @@
+"""
+    Perform cleaning, analyse data, 
+    In analysing data:
+        1. Get countries with higher and Low AQI value  
+"""
+
 import pandas as pd
 from IPython.display import display
 import matplotlib.pyplot as plt
@@ -6,9 +12,9 @@ import matplotlib.pyplot as plt
 data_df = pd.read_csv("./data/global_air_pollution_data.csv")
 
 print(data_df.head(10)) # 23463 rows and 12 columns
+print(f"Shape of the dataframe is : {data_df.shape}")
 print(f"Get info on global_air_pollution_data is : \n {data_df.info()}")
 
-print(f"Shape of the dataframe is : {data_df.shape}")
 
 
 # print only the column names
@@ -45,8 +51,8 @@ print(data_df.isna().sum())
 print(data_df.info())
 
 
+# STEP 1:
 # get country with the highest aqi_value
-
 print(f"Highest value of aqi_index : {data_df['aqi_value'].max()}")
 print(f"Lowest value of aqi_index : {data_df['aqi_value'].min()}")
 
@@ -55,14 +61,19 @@ print(f"Lowest value of aqi_index : {data_df['aqi_value'].min()}")
 country_unhealthy_df = data_df[data_df["aqi_value"] > 151]
 print(f"Country which are unhealthy > 151 aqi_value are : \n {country_unhealthy_df}")
 # create dataset of unhealthy countries
-# country_unhealthy_df.to_csv("./data/country_unhealthy_condition.csv")
+country_unhealthy_df.to_csv("./data/country_unhealthy_condition.csv")
+
+
 # use value counts to check wich country has the most appearance in the unhealthy
 print(country_unhealthy_df.country_name.value_counts()) 
-# assign to value_count variable for assigment === series object 
+
+# assign to value_count variable for assigment(series object)
 country_unhealthy_series = country_unhealthy_df.country_name.value_counts()
 print(f"The type of country_unhealthy_series is {type(country_unhealthy_series)}")
+
 # select the top 50 countries which have been repeated
 country_unhealthy_series = country_unhealthy_series[country_unhealthy_series > 10]
+
 #plot the data using bar
 country_unhealthy_series.plot.bar(width=0.3)
 plt.xlabel("countries")
@@ -70,11 +81,13 @@ plt.ylabel("aqi_value")
 plt.xticks(rotation=45)
 plt.title("Countries  with the most cities with unhealthy Air Quality Index(AQI)")
 plt.show()
+
 #plot the data using pie chart
 plt.pie(country_unhealthy_series, labels=country_unhealthy_series.index, autopct="%1.1f%%")
 plt.title("Countries  with the most cities with unhealthy Air Quality Index(AQI)")
 plt.show()
-# country_unhealthy_df.to_csv("./data/countries_unhealthy_condition.csv") # already created file
+
+
 # print(country_unhealthy_df.country_name.value_counts())
 # print(f"Number of times country appears on unhealthy aqi_value : \n {country_unhealthy_value_counts}")
 
