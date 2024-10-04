@@ -1,0 +1,2489 @@
+,country_name,city_name,aqi_value,aqi_category,co_aqi_value,co_aqi_category,ozone_aqi_value,ozone_aqi_category,no2_aqi_value,no2_aqi_category,pm2.5_aqi_value,pm2.5_aqi_category
+12,India,Radaur,158,Unhealthy,3,Good,139,Unhealthy for Sensitive Groups,1,Good,158,Unhealthy
+13,Pakistan,Radhan,158,Unhealthy,1,Good,50,Good,1,Good,158,Unhealthy
+16,India,Rajgir,154,Unhealthy,3,Good,100,Unhealthy for Sensitive Groups,2,Good,154,Unhealthy
+19,India,Phulabani,161,Unhealthy,2,Good,71,Moderate,0,Good,161,Unhealthy
+24,Brazil,Pinheiral,154,Unhealthy,5,Good,0,Good,13,Good,154,Unhealthy
+43,India,Darbhanga,247,Very Unhealthy,3,Good,162,Unhealthy,1,Good,247,Very Unhealthy
+51,Pakistan,Dhadar,157,Unhealthy,1,Good,89,Moderate,0,Good,157,Unhealthy
+53,Pakistan,Digri,153,Unhealthy,1,Good,40,Good,0,Good,153,Unhealthy
+75,India,Gyanpur,189,Unhealthy,2,Good,99,Moderate,1,Good,189,Unhealthy
+77,China,Hangzhou,203,Very Unhealthy,5,Good,203,Very Unhealthy,5,Good,151,Unhealthy
+87,Iran (Islamic Republic of),Taybad,170,Unhealthy,1,Good,43,Good,0,Good,170,Unhealthy
+89,India,Tekkali,155,Unhealthy,3,Good,82,Moderate,1,Good,155,Unhealthy
+91,Mexico,Tepeaca,172,Unhealthy,5,Good,2,Good,11,Good,172,Unhealthy
+101,Mexico,Toluca,166,Unhealthy,4,Good,8,Good,19,Good,166,Unhealthy
+109,India,Jabalpur,170,Unhealthy,1,Good,38,Good,0,Good,170,Unhealthy
+111,India,Jahanabad,168,Unhealthy,4,Good,168,Unhealthy,1,Good,156,Unhealthy
+131,Viet Nam,Tuyen Quang,167,Unhealthy,4,Good,167,Unhealthy,1,Good,107,Unhealthy for Sensitive Groups
+136,India,Umaria,163,Unhealthy,2,Good,92,Moderate,0,Good,163,Unhealthy
+146,China,Yancheng,155,Unhealthy,3,Good,155,Unhealthy,2,Good,151,Unhealthy
+148,China,Yanggu,160,Unhealthy,3,Good,138,Unhealthy for Sensitive Groups,5,Good,160,Unhealthy
+166,China,Fuzhou,168,Unhealthy,3,Good,168,Unhealthy,5,Good,99,Moderate
+180,India,Govindgarh,307,Hazardous,1,Good,45,Good,0,Good,307,Hazardous
+206,India,Tal,155,Unhealthy,1,Good,39,Good,0,Good,155,Unhealthy
+220,China,Yuncheng,187,Unhealthy,2,Good,36,Good,8,Good,187,Unhealthy
+226,China,Zhicheng,160,Unhealthy,4,Good,36,Good,13,Good,160,Unhealthy
+228,China,Zhuji,156,Unhealthy,4,Good,45,Good,10,Good,156,Unhealthy
+230,Mexico,Zinacantepec,163,Unhealthy,4,Good,8,Good,18,Good,163,Unhealthy
+236,Mexico,Acuautla,189,Unhealthy,2,Good,9,Good,15,Good,189,Unhealthy
+239,India,Afzalgarh,198,Unhealthy,4,Good,198,Unhealthy,3,Good,188,Unhealthy
+266,India,Atarra,194,Unhealthy,1,Good,44,Good,0,Good,194,Unhealthy
+276,Pakistan,Bahawalnagar,500,Hazardous,1,Good,38,Good,1,Good,466,Hazardous
+277,South Africa,Balfour,380,Hazardous,31,Good,1,Good,26,Good,380,Hazardous
+278,South Africa,Ballitoville,222,Very Unhealthy,12,Good,5,Good,14,Good,222,Very Unhealthy
+288,India,Bazpur,182,Unhealthy,5,Good,170,Unhealthy,5,Good,182,Unhealthy
+304,India,Chhabra,171,Unhealthy,1,Good,42,Good,0,Good,171,Unhealthy
+307,India,Chipurupalle,153,Unhealthy,2,Good,22,Good,6,Good,153,Unhealthy
+309,India,Chotila,157,Unhealthy,0,Good,31,Good,1,Good,157,Unhealthy
+322,United States of America,Cooper City,152,Unhealthy,4,Good,4,Good,19,Good,152,Unhealthy
+336,Pakistan,Dalbandin,160,Unhealthy,0,Good,39,Good,0,Good,160,Unhealthy
+345,India,Betma,153,Unhealthy,1,Good,34,Good,0,Good,153,Unhealthy
+349,Pakistan,Bhalwal,179,Unhealthy,3,Good,179,Unhealthy,2,Good,166,Unhealthy
+351,India,Bhinmal,202,Very Unhealthy,0,Good,34,Good,0,Good,202,Very Unhealthy
+360,India,Bari Sadri,167,Unhealthy,1,Good,32,Good,0,Good,167,Unhealthy
+393,India,Padra,156,Unhealthy,1,Good,33,Good,0,Good,156,Unhealthy
+417,India,Phillaur,444,Hazardous,2,Good,111,Unhealthy for Sensitive Groups,1,Good,391,Hazardous
+429,India,Sahibganj,208,Very Unhealthy,3,Good,152,Unhealthy,1,Good,208,Very Unhealthy
+439,India,Salon,303,Hazardous,1,Good,48,Good,0,Good,260,Very Unhealthy
+441,India,Sambhar,193,Unhealthy,0,Good,38,Good,0,Good,193,Unhealthy
+452,Chile,Quillota,182,Unhealthy,14,Good,1,Good,23,Good,182,Unhealthy
+453,India,Rafiganj,356,Hazardous,1,Good,60,Moderate,0,Good,284,Very Unhealthy
+455,Bangladesh,Rajshahi,191,Unhealthy,2,Good,133,Unhealthy for Sensitive Groups,2,Good,191,Unhealthy
+458,India,Phulpur,226,Very Unhealthy,1,Good,48,Good,1,Good,226,Very Unhealthy
+470,India,Rania,500,Hazardous,1,Good,40,Good,0,Good,464,Hazardous
+487,India,Dalmau,190,Unhealthy,2,Good,98,Moderate,1,Good,190,Unhealthy
+489,India,Damnagar,152,Unhealthy,0,Good,29,Good,0,Good,152,Unhealthy
+492,India,Dankaur,292,Very Unhealthy,3,Good,136,Unhealthy for Sensitive Groups,3,Good,292,Very Unhealthy
+494,India,Dattapur,153,Unhealthy,0,Good,29,Good,0,Good,153,Unhealthy
+497,India,Delvada,158,Unhealthy,0,Good,25,Good,0,Good,158,Unhealthy
+500,India,Dewa,173,Unhealthy,3,Good,159,Unhealthy,1,Good,173,Unhealthy
+514,Pakistan,Eminabad,153,Unhealthy,3,Good,153,Unhealthy,1,Good,152,Unhealthy
+520,India,Gobindapur,198,Unhealthy,3,Good,91,Moderate,3,Good,198,Unhealthy
+521,India,Gobindpur,175,Unhealthy,1,Good,51,Moderate,1,Good,175,Unhealthy
+523,India,Gohad,194,Unhealthy,1,Good,46,Good,0,Good,194,Unhealthy
+524,India,Gohana,500,Hazardous,1,Good,47,Good,1,Good,500,Hazardous
+545,Brazil,Francisco Morato,169,Unhealthy,7,Good,0,Good,21,Good,169,Unhealthy
+577,China,Lishan,192,Unhealthy,4,Good,192,Unhealthy,6,Good,124,Unhealthy for Sensitive Groups
+583,Senegal,Louga,176,Unhealthy,2,Good,21,Good,3,Good,176,Unhealthy
+588,India,Lunavada,164,Unhealthy,1,Good,35,Good,0,Good,164,Unhealthy
+591,Pakistan,Madeji,167,Unhealthy,1,Good,49,Good,1,Good,167,Unhealthy
+596,India,Mahoba,180,Unhealthy,1,Good,45,Good,0,Good,180,Unhealthy
+597,India,Maihar,171,Unhealthy,1,Good,36,Good,0,Good,171,Unhealthy
+598,India,Mainpuri,434,Hazardous,1,Good,53,Moderate,1,Good,362,Hazardous
+604,Iran (Islamic Republic of),Malard,172,Unhealthy,3,Good,172,Unhealthy,5,Good,145,Unhealthy for Sensitive Groups
+607,India,Mangawan,184,Unhealthy,1,Good,39,Good,1,Good,184,Unhealthy
+611,India,Gunnaur,500,Hazardous,1,Good,73,Moderate,1,Good,500,Hazardous
+613,China,Haian,207,Very Unhealthy,4,Good,207,Very Unhealthy,3,Good,150,Unhealthy
+620,Pakistan,Harunabad,500,Hazardous,1,Good,43,Good,0,Good,443,Hazardous
+627,China,Hengyang,169,Unhealthy,4,Good,169,Unhealthy,3,Good,150,Unhealthy
+644,India,Khetri,500,Hazardous,1,Good,40,Good,0,Good,376,Hazardous
+663,Pakistan,Kot Radha Kishan,230,Very Unhealthy,5,Good,130,Unhealthy for Sensitive Groups,9,Good,230,Very Unhealthy
+690,India,Indergarh,390,Hazardous,1,Good,54,Moderate,1,Good,335,Hazardous
+692,Nigeria,Inisa,159,Unhealthy,6,Good,16,Good,5,Good,159,Unhealthy
+702,India,Jahangirpur,500,Hazardous,1,Good,49,Good,1,Good,493,Hazardous
+703,India,Jamadoba,174,Unhealthy,1,Good,59,Moderate,1,Good,174,Unhealthy
+704,India,Jandiala,156,Unhealthy,5,Good,124,Unhealthy for Sensitive Groups,10,Good,156,Unhealthy
+705,China,Jijiang,162,Unhealthy,10,Good,79,Moderate,25,Good,162,Unhealthy
+711,United Republic of Tanzania,Kabanga,171,Unhealthy,6,Good,10,Good,3,Good,171,Unhealthy
+714,India,Kakrala,500,Hazardous,2,Good,95,Moderate,2,Good,478,Hazardous
+720,India,Kandhla,500,Hazardous,3,Good,53,Moderate,8,Good,500,Hazardous
+722,China,Kangshan,201,Very Unhealthy,3,Good,201,Very Unhealthy,4,Good,142,Unhealthy for Sensitive Groups
+725,India,Kartarpur,168,Unhealthy,3,Good,168,Unhealthy,2,Good,146,Unhealthy for Sensitive Groups
+748,Senegal,Mekhe,171,Unhealthy,2,Good,20,Good,3,Good,171,Unhealthy
+759,India,Misrikh,178,Unhealthy,4,Good,178,Unhealthy,2,Good,170,Unhealthy
+760,India,Moga,159,Unhealthy,2,Good,134,Unhealthy for Sensitive Groups,1,Good,159,Unhealthy
+762,Indonesia,Mojoagung,155,Unhealthy,3,Good,91,Moderate,2,Good,155,Unhealthy
+777,India,Nangloi Jat,334,Hazardous,3,Good,113,Unhealthy for Sensitive Groups,3,Good,326,Hazardous
+781,Pakistan,Narowal,164,Unhealthy,3,Good,164,Unhealthy,1,Good,138,Unhealthy for Sensitive Groups
+782,India,Nawa,195,Unhealthy,1,Good,36,Good,0,Good,195,Unhealthy
+794,India,Khargapur,197,Unhealthy,1,Good,42,Good,0,Good,197,Unhealthy
+795,India,Kharhial,161,Unhealthy,1,Good,32,Good,1,Good,161,Unhealthy
+796,India,Khategaon,157,Unhealthy,1,Good,36,Good,0,Good,157,Unhealthy
+797,India,Kheda,158,Unhealthy,1,Good,38,Good,0,Good,158,Unhealthy
+803,India,Kishangarh,409,Hazardous,1,Good,44,Good,0,Good,356,Hazardous
+806,India,Kodarma,186,Unhealthy,2,Good,108,Unhealthy for Sensitive Groups,1,Good,186,Unhealthy
+808,South Africa,Koppies,191,Unhealthy,7,Good,9,Good,18,Good,191,Unhealthy
+809,China,Korla,160,Unhealthy,1,Good,45,Good,0,Good,160,Unhealthy
+818,India,Lohardaga,185,Unhealthy,1,Good,55,Moderate,0,Good,185,Unhealthy
+830,India,Mahendragarh,500,Hazardous,1,Good,42,Good,0,Good,435,Hazardous
+831,India,Mahesana,170,Unhealthy,0,Good,33,Good,0,Good,170,Unhealthy
+837,India,Manohar Thana,168,Unhealthy,1,Good,42,Good,0,Good,168,Unhealthy
+850,India,Lakhimpur,190,Unhealthy,4,Good,190,Unhealthy,1,Good,164,Unhealthy
+852,Indonesia,Lamongan,167,Unhealthy,3,Good,123,Unhealthy for Sensitive Groups,1,Good,167,Unhealthy
+869,Pakistan,Kanganpur,175,Unhealthy,2,Good,145,Unhealthy for Sensitive Groups,1,Good,175,Unhealthy
+871,India,Kapasan,162,Unhealthy,1,Good,38,Good,0,Good,162,Unhealthy
+875,India,Karauli,213,Very Unhealthy,1,Good,43,Good,0,Good,213,Very Unhealthy
+876,India,Kareli,169,Unhealthy,1,Good,36,Good,0,Good,169,Unhealthy
+877,India,Karhal,265,Very Unhealthy,2,Good,91,Moderate,1,Good,265,Very Unhealthy
+890,China,Juye,176,Unhealthy,4,Good,176,Unhealthy,5,Good,129,Unhealthy for Sensitive Groups
+894,India,Muktsar,180,Unhealthy,2,Good,151,Unhealthy,1,Good,180,Unhealthy
+896,Pakistan,Multan,194,Unhealthy,3,Good,176,Unhealthy,2,Good,194,Unhealthy
+907,China,Nantong,206,Very Unhealthy,7,Good,206,Very Unhealthy,9,Good,167,Unhealthy
+910,Pakistan,Johi,162,Unhealthy,1,Good,37,Good,0,Good,162,Unhealthy
+911,India,Kachhwa,187,Unhealthy,2,Good,106,Unhealthy for Sensitive Groups,1,Good,187,Unhealthy
+912,India,Kalanaur,157,Unhealthy,3,Good,157,Unhealthy,1,Good,126,Unhealthy for Sensitive Groups
+913,Pakistan,Lakhi,163,Unhealthy,1,Good,71,Moderate,1,Good,163,Unhealthy
+928,Pakistan,Lodhran,500,Hazardous,1,Good,45,Good,0,Good,364,Hazardous
+931,Mexico,Los Reyes Acozac,195,Unhealthy,3,Good,5,Good,15,Good,195,Unhealthy
+933,China,Luan,183,Unhealthy,4,Good,183,Unhealthy,2,Good,115,Unhealthy for Sensitive Groups
+941,Pakistan,Mailsi,500,Hazardous,1,Good,45,Good,0,Good,386,Hazardous
+959,Pakistan,Kunjah,191,Unhealthy,2,Good,163,Unhealthy,1,Good,191,Unhealthy
+987,India,Doraha,467,Hazardous,1,Good,102,Unhealthy for Sensitive Groups,1,Good,400,Hazardous
+989,Indonesia,Driyorejo,157,Unhealthy,2,Good,84,Moderate,2,Good,157,Unhealthy
+991,India,Dumjor,179,Unhealthy,3,Good,102,Unhealthy for Sensitive Groups,4,Good,179,Unhealthy
+1007,Iran (Islamic Republic of),Eqbaliyeh,172,Unhealthy,2,Good,172,Unhealthy,4,Good,150,Unhealthy
+1018,Pakistan,Faisalabad,301,Hazardous,1,Good,82,Moderate,1,Good,301,Hazardous
+1028,India,Forbesganj,217,Very Unhealthy,3,Good,103,Unhealthy for Sensitive Groups,1,Good,217,Very Unhealthy
+1033,Rwanda,Gisenyi,157,Unhealthy,4,Good,17,Good,2,Good,157,Unhealthy
+1063,China,Huangchuan,159,Unhealthy,3,Good,159,Unhealthy,2,Good,94,Moderate
+1075,India,Gwalior,174,Unhealthy,1,Good,46,Good,0,Good,174,Unhealthy
+1082,India,Hardoi,417,Hazardous,1,Good,49,Good,1,Good,323,Hazardous
+1089,China,Heyang,174,Unhealthy,9,Good,38,Good,23,Good,174,Unhealthy
+1097,India,Gajraula,500,Hazardous,1,Good,55,Moderate,1,Good,500,Hazardous
+1118,India,Mubarakpur,452,Hazardous,1,Good,72,Moderate,1,Good,333,Hazardous
+1126,India,Nadbai,209,Very Unhealthy,1,Good,44,Good,0,Good,209,Very Unhealthy
+1127,India,Nagaur,500,Hazardous,0,Good,35,Good,0,Good,426,Hazardous
+1128,India,Nagpur,152,Unhealthy,1,Good,41,Good,0,Good,152,Unhealthy
+1129,India,Nainpur,153,Unhealthy,0,Good,38,Good,0,Good,153,Unhealthy
+1134,Pakistan,Nankana Sahib,356,Hazardous,2,Good,100,Unhealthy for Sensitive Groups,1,Good,354,Hazardous
+1155,India,Phulera,291,Very Unhealthy,1,Good,41,Good,0,Good,291,Very Unhealthy
+1158,India,Pindwara,192,Unhealthy,1,Good,33,Good,0,Good,192,Unhealthy
+1197,India,Panagar,171,Unhealthy,1,Good,44,Good,0,Good,171,Unhealthy
+1210,China,Pengcheng,200,Unhealthy,5,Good,200,Unhealthy,7,Good,163,Unhealthy
+1214,Brazil,Peruibe,156,Unhealthy,8,Good,2,Good,21,Good,156,Unhealthy
+1219,China,Donghai,159,Unhealthy,3,Good,159,Unhealthy,1,Good,79,Moderate
+1259,India,Ghatal,154,Unhealthy,3,Good,107,Unhealthy for Sensitive Groups,2,Good,154,Unhealthy
+1267,Brazil,Poa,176,Unhealthy,8,Good,0,Good,23,Good,176,Unhealthy
+1269,India,Kharsia,160,Unhealthy,2,Good,46,Good,4,Good,160,Unhealthy
+1270,Pakistan,Khushab,165,Unhealthy,4,Good,78,Moderate,6,Good,165,Unhealthy
+1271,India,Khutar,154,Unhealthy,4,Good,14,Good,12,Good,154,Unhealthy
+1285,India,Koratla,174,Unhealthy,2,Good,44,Good,4,Good,174,Unhealthy
+1293,India,Kulpahar,168,Unhealthy,3,Good,125,Unhealthy for Sensitive Groups,2,Good,168,Unhealthy
+1311,Indonesia,Leuwiliang,264,Very Unhealthy,15,Good,8,Good,52,Moderate,264,Very Unhealthy
+1314,Pakistan,Liliani,169,Unhealthy,5,Good,69,Moderate,8,Good,169,Unhealthy
+1328,China,Shenzhen,154,Unhealthy,3,Good,2,Good,28,Good,154,Unhealthy
+1330,China,Shitanjing,218,Very Unhealthy,1,Good,38,Good,5,Good,218,Very Unhealthy
+1333,Indonesia,Sidareja,189,Unhealthy,10,Good,7,Good,25,Good,189,Unhealthy
+1343,India,Sahaswan,178,Unhealthy,3,Good,169,Unhealthy,3,Good,178,Unhealthy
+1380,India,Datia,226,Very Unhealthy,1,Good,48,Good,0,Good,226,Very Unhealthy
+1384,Pakistan,Dera Ismail Khan,180,Unhealthy,2,Good,107,Unhealthy for Sensitive Groups,0,Good,180,Unhealthy
+1387,Senegal,Diourbel,154,Unhealthy,2,Good,13,Good,4,Good,154,Unhealthy
+1390,India,Sasaram,171,Unhealthy,3,Good,110,Unhealthy for Sensitive Groups,2,Good,171,Unhealthy
+1398,South Africa,Secunda,154,Unhealthy,2,Good,0,Good,23,Good,154,Unhealthy
+1402,Republic of Korea,Seoul,421,Hazardous,27,Good,0,Good,91,Moderate,415,Hazardous
+1410,Mexico,Xalpa,180,Unhealthy,1,Good,35,Good,4,Good,180,Unhealthy
+1424,Indonesia,Wlingi,176,Unhealthy,8,Good,10,Good,17,Good,176,Unhealthy
+1433,India,Mirganj,168,Unhealthy,4,Good,168,Unhealthy,1,Good,165,Unhealthy
+1461,India,Nasriganj,154,Unhealthy,4,Good,142,Unhealthy for Sensitive Groups,1,Good,154,Unhealthy
+1463,India,Nawabganj,162,Unhealthy,3,Good,151,Unhealthy,1,Good,162,Unhealthy
+1475,Nigeria,Nkpor,166,Unhealthy,11,Good,18,Good,8,Good,166,Unhealthy
+1482,Mauritania,Nouadhibou,157,Unhealthy,0,Good,36,Good,0,Good,157,Unhealthy
+1490,Nigeria,Ohafia,161,Unhealthy,7,Good,34,Good,4,Good,161,Unhealthy
+1493,Nigeria,Okrika,165,Unhealthy,6,Good,38,Good,4,Good,165,Unhealthy
+1500,India,Colonelganj,235,Very Unhealthy,4,Good,111,Unhealthy for Sensitive Groups,5,Good,235,Very Unhealthy
+1502,Brazil,Contagem,156,Unhealthy,6,Good,0,Good,9,Good,156,Unhealthy
+1517,India,Dahod,160,Unhealthy,1,Good,33,Good,0,Good,160,Unhealthy
+1524,India,Bolpur,201,Very Unhealthy,2,Good,95,Moderate,2,Good,201,Very Unhealthy
+1535,Brazil,Cabreuva,164,Unhealthy,6,Good,0,Good,15,Good,164,Unhealthy
+1558,India,Dalkola,154,Unhealthy,3,Good,88,Moderate,1,Good,154,Unhealthy
+1561,India,Dataganj,500,Hazardous,3,Good,61,Moderate,9,Good,437,Hazardous
+1583,Mexico,Chicoloapan,204,Very Unhealthy,3,Good,10,Good,15,Good,204,Very Unhealthy
+1586,Indonesia,Ciampea,154,Unhealthy,4,Good,154,Unhealthy,2,Good,126,Unhealthy for Sensitive Groups
+1595,United Arab Emirates,Dubai,152,Unhealthy,1,Good,140,Unhealthy for Sensitive Groups,3,Good,152,Unhealthy
+1606,Nigeria,Enugu,170,Unhealthy,8,Good,15,Good,6,Good,170,Unhealthy
+1616,Bangladesh,Feni,157,Unhealthy,2,Good,36,Good,2,Good,157,Unhealthy
+1629,Somalia,Bosaso,160,Unhealthy,0,Good,19,Good,0,Good,160,Unhealthy
+1630,India,Bahadurgarh,190,Unhealthy,7,Good,70,Moderate,18,Good,190,Unhealthy
+1632,India,Baj Baj,186,Unhealthy,9,Good,6,Good,21,Good,186,Unhealthy
+1638,Iran (Islamic Republic of),Bandar E Torkaman,153,Unhealthy,2,Good,40,Good,2,Good,153,Unhealthy
+1640,Indonesia,Bandung,198,Unhealthy,11,Good,6,Good,30,Good,198,Unhealthy
+1641,India,Bansbaria,210,Very Unhealthy,11,Good,3,Good,27,Good,210,Very Unhealthy
+1659,Pakistan,Bhit Shah,157,Unhealthy,1,Good,24,Good,2,Good,157,Unhealthy
+1679,Indonesia,Boyolali,201,Very Unhealthy,12,Good,2,Good,28,Good,201,Very Unhealthy
+1680,China,Bozhou,162,Unhealthy,8,Good,44,Good,24,Good,162,Unhealthy
+1696,India,Bulandshahr,170,Unhealthy,5,Good,48,Good,12,Good,170,Unhealthy
+1707,Mexico,Calpulalpan,279,Very Unhealthy,2,Good,38,Good,3,Good,279,Very Unhealthy
+1725,India,Chaklasi,159,Unhealthy,3,Good,19,Good,10,Good,159,Unhealthy
+1733,India,Chit Baragaon,170,Unhealthy,4,Good,78,Moderate,5,Good,170,Unhealthy
+1736,China,Chungho,167,Unhealthy,5,Good,22,Good,34,Good,167,Unhealthy
+1742,Iran (Islamic Republic of),Abadan,164,Unhealthy,1,Good,134,Unhealthy for Sensitive Groups,1,Good,164,Unhealthy
+1748,India,Adalaj,162,Unhealthy,3,Good,22,Good,11,Good,162,Unhealthy
+1758,Pakistan,Akora,182,Unhealthy,5,Good,51,Moderate,8,Good,182,Unhealthy
+1785,Viet Nam,Bac Giang,179,Unhealthy,10,Good,8,Good,22,Good,179,Unhealthy
+1805,India,Raghogarh,156,Unhealthy,1,Good,41,Good,0,Good,156,Unhealthy
+1819,Saudi Arabia,Riyadh,196,Unhealthy,1,Good,44,Good,1,Good,196,Unhealthy
+1828,United States of America,Royal Oak,157,Unhealthy,5,Good,4,Good,29,Good,157,Unhealthy
+1844,India,Sanaur,180,Unhealthy,3,Good,180,Unhealthy,2,Good,167,Unhealthy
+1851,India,Saraikela,171,Unhealthy,1,Good,67,Moderate,0,Good,171,Unhealthy
+1855,Bangladesh,Patiya,152,Unhealthy,2,Good,41,Good,1,Good,152,Unhealthy
+1865,India,Pilkhuwa,500,Hazardous,2,Good,61,Moderate,2,Good,500,Hazardous
+1869,India,Pipri,199,Unhealthy,1,Good,48,Good,0,Good,199,Unhealthy
+1870,India,Piro,185,Unhealthy,1,Good,83,Moderate,1,Good,185,Unhealthy
+1905,India,Amarpur,181,Unhealthy,2,Good,124,Unhealthy for Sensitive Groups,1,Good,181,Unhealthy
+1906,India,Anandnagar,279,Very Unhealthy,3,Good,166,Unhealthy,1,Good,279,Very Unhealthy
+1943,India,Siwani,500,Hazardous,1,Good,38,Good,0,Good,500,Hazardous
+1968,India,Shamsabad,500,Hazardous,1,Good,75,Moderate,2,Good,433,Hazardous
+1969,China,Shancheng,159,Unhealthy,2,Good,159,Unhealthy,2,Good,78,Moderate
+1995,India,Akaltara,181,Unhealthy,1,Good,74,Moderate,1,Good,181,Unhealthy
+2022,India,Atraulia,188,Unhealthy,4,Good,188,Unhealthy,1,Good,182,Unhealthy
+2030,India,Balrampur,168,Unhealthy,4,Good,167,Unhealthy,1,Good,168,Unhealthy
+2033,India,Banat,156,Unhealthy,3,Good,156,Unhealthy,2,Good,154,Unhealthy
+2036,India,Bankra,178,Unhealthy,5,Good,107,Unhealthy for Sensitive Groups,6,Good,178,Unhealthy
+2037,India,Bansgaon,179,Unhealthy,5,Good,177,Unhealthy,1,Good,179,Unhealthy
+2038,India,Baran,173,Unhealthy,1,Good,42,Good,0,Good,173,Unhealthy
+2040,India,Barddhaman,160,Unhealthy,4,Good,130,Unhealthy for Sensitive Groups,3,Good,160,Unhealthy
+2041,India,Barh,167,Unhealthy,4,Good,139,Unhealthy for Sensitive Groups,1,Good,167,Unhealthy
+2045,India,Basirhat,176,Unhealthy,6,Good,89,Moderate,6,Good,176,Unhealthy
+2056,South Africa,Brakpan,236,Very Unhealthy,16,Good,10,Good,16,Good,236,Very Unhealthy
+2067,Saudi Arabia,Buqayq,183,Unhealthy,1,Good,54,Moderate,0,Good,183,Unhealthy
+2090,China,Tachi,170,Unhealthy,3,Good,170,Unhealthy,1,Good,120,Unhealthy for Sensitive Groups
+2102,Sudan,Tawkar,152,Unhealthy,1,Good,27,Good,0,Good,152,Unhealthy
+2109,Mexico,Tenancingo,224,Very Unhealthy,4,Good,0,Good,15,Good,224,Very Unhealthy
+2149,South Africa,Verwoerdburg,201,Very Unhealthy,21,Good,12,Good,16,Good,201,Very Unhealthy
+2191,China,Yudong,171,Unhealthy,9,Good,24,Good,24,Good,171,Unhealthy
+2225,India,Sri Madhopur,283,Very Unhealthy,1,Good,43,Good,0,Good,283,Very Unhealthy
+2280,India,Pandaria,186,Unhealthy,1,Good,42,Good,0,Good,186,Unhealthy
+2281,India,Pandhana,153,Unhealthy,0,Good,35,Good,0,Good,153,Unhealthy
+2285,India,Parichhatgarh,173,Unhealthy,4,Good,173,Unhealthy,3,Good,159,Unhealthy
+2288,India,Pawai,196,Unhealthy,1,Good,42,Good,0,Good,196,Unhealthy
+2297,India,Phalodi,500,Hazardous,0,Good,34,Good,0,Good,467,Hazardous
+2300,India,Pinahat,297,Very Unhealthy,1,Good,54,Moderate,1,Good,297,Very Unhealthy
+2312,India,Porbandar,167,Unhealthy,0,Good,23,Good,0,Good,167,Unhealthy
+2316,South Africa,Potchefstroom,188,Unhealthy,11,Good,15,Good,15,Good,188,Unhealthy
+2321,Indonesia,Prigen,153,Unhealthy,3,Good,84,Moderate,2,Good,153,Unhealthy
+2326,China,Qingquan,178,Unhealthy,4,Good,178,Unhealthy,3,Good,132,Unhealthy for Sensitive Groups
+2329,Pakistan,Rabwah,163,Unhealthy,2,Good,148,Unhealthy for Sensitive Groups,1,Good,163,Unhealthy
+2345,India,Sahaspur,182,Unhealthy,3,Good,182,Unhealthy,1,Good,151,Unhealthy
+2357,Chile,San Bernardo,240,Very Unhealthy,15,Good,0,Good,24,Good,240,Very Unhealthy
+2379,Yemen,Sayyan,179,Unhealthy,1,Good,44,Good,0,Good,179,Unhealthy
+2390,Gambia,Serekunda,158,Unhealthy,1,Good,30,Good,1,Good,158,Unhealthy
+2407,Pakistan,Rasulnagar,155,Unhealthy,2,Good,155,Unhealthy,1,Good,124,Unhealthy for Sensitive Groups
+2409,India,Richha,177,Unhealthy,4,Good,177,Unhealthy,1,Good,156,Unhealthy
+2444,South Africa,Stanger,165,Unhealthy,6,Good,15,Good,6,Good,165,Unhealthy
+2452,India,Kheralu,162,Unhealthy,1,Good,35,Good,0,Good,162,Unhealthy
+2469,Pakistan,Kot Addu,202,Very Unhealthy,1,Good,88,Moderate,1,Good,202,Very Unhealthy
+2470,India,Kota,160,Unhealthy,1,Good,42,Good,1,Good,160,Unhealthy
+2473,India,Kanina,500,Hazardous,1,Good,41,Good,0,Good,372,Hazardous
+2493,India,Khairagarh,156,Unhealthy,1,Good,44,Good,0,Good,156,Unhealthy
+2497,India,Jiran,156,Unhealthy,1,Good,41,Good,0,Good,156,Unhealthy
+2500,India,Jobner,192,Unhealthy,1,Good,39,Good,0,Good,192,Unhealthy
+2502,India,Jodhpur,500,Hazardous,0,Good,34,Good,0,Good,378,Hazardous
+2529,India,Jagatsinghapur,154,Unhealthy,2,Good,90,Moderate,1,Good,154,Unhealthy
+2531,India,Tekari,376,Hazardous,1,Good,68,Moderate,1,Good,296,Very Unhealthy
+2535,Bangladesh,Thakurgaon,193,Unhealthy,2,Good,73,Moderate,1,Good,193,Unhealthy
+2542,Mexico,Tlaxcalancingo,158,Unhealthy,3,Good,2,Good,11,Good,158,Unhealthy
+2543,Pakistan,Toba Tek Singh,295,Very Unhealthy,1,Good,55,Moderate,1,Good,295,Very Unhealthy
+2550,India,Siddhapur,168,Unhealthy,0,Good,34,Good,0,Good,168,Unhealthy
+2551,Indonesia,Sidoarjo,153,Unhealthy,2,Good,58,Moderate,2,Good,153,Unhealthy
+2554,India,Simdega,169,Unhealthy,1,Good,86,Moderate,0,Good,169,Unhealthy
+2557,India,Sirsa,260,Very Unhealthy,1,Good,47,Good,0,Good,239,Very Unhealthy
+2564,India,Sompeta,154,Unhealthy,2,Good,83,Moderate,1,Good,154,Unhealthy
+2572,India,Srirampur,176,Unhealthy,3,Good,89,Moderate,3,Good,176,Unhealthy
+2582,Pakistan,Sukheke,276,Very Unhealthy,2,Good,140,Unhealthy for Sensitive Groups,1,Good,276,Very Unhealthy
+2589,Mexico,Sanctorum,158,Unhealthy,3,Good,4,Good,10,Good,158,Unhealthy
+2592,China,Sanmenxia,167,Unhealthy,3,Good,167,Unhealthy,1,Good,119,Unhealthy for Sensitive Groups
+2596,India,Sarangpur,155,Unhealthy,1,Good,41,Good,0,Good,155,Unhealthy
+2599,India,Sawai Madhopur,164,Unhealthy,1,Good,45,Good,0,Good,164,Unhealthy
+2611,Pakistan,Shahdadpur,171,Unhealthy,1,Good,43,Good,0,Good,171,Unhealthy
+2620,India,Tankara,154,Unhealthy,0,Good,31,Good,0,Good,154,Unhealthy
+2621,India,Tarana,155,Unhealthy,1,Good,39,Good,0,Good,155,Unhealthy
+2626,China,Shilong,191,Unhealthy,4,Good,191,Unhealthy,5,Good,121,Unhealthy for Sensitive Groups
+2637,India,Siwan,153,Unhealthy,4,Good,153,Unhealthy,1,Good,152,Unhealthy
+2638,India,Siwana,241,Very Unhealthy,1,Good,32,Good,0,Good,241,Very Unhealthy
+2656,India,Gua,162,Unhealthy,2,Good,72,Moderate,0,Good,162,Unhealthy
+2662,Pakistan,Gujrat,161,Unhealthy,3,Good,160,Unhealthy,1,Good,161,Unhealthy
+2666,Viet Nam,Hanoi,181,Unhealthy,4,Good,181,Unhealthy,1,Good,145,Unhealthy for Sensitive Groups
+2674,Pakistan,Haveli,166,Unhealthy,3,Good,166,Unhealthy,1,Good,153,Unhealthy
+2680,India,Himatnagar,157,Unhealthy,1,Good,37,Good,0,Good,157,Unhealthy
+2681,India,Hisua,154,Unhealthy,3,Good,100,Unhealthy for Sensitive Groups,2,Good,154,Unhealthy
+2687,China,Huayang,154,Unhealthy,3,Good,54,Moderate,8,Good,154,Unhealthy
+2711,Pakistan,Jalalpur Pirwala,183,Unhealthy,2,Good,135,Unhealthy for Sensitive Groups,1,Good,183,Unhealthy
+2715,India,Jhalrapatan,176,Unhealthy,1,Good,38,Good,0,Good,176,Unhealthy
+2719,India,Kadaura,171,Unhealthy,4,Good,171,Unhealthy,1,Good,170,Unhealthy
+2720,India,Kadi,154,Unhealthy,1,Good,33,Good,0,Good,154,Unhealthy
+2734,Uzbekistan,Gagarin,168,Unhealthy,1,Good,48,Good,0,Good,168,Unhealthy
+2752,South Africa,Fochville,154,Unhealthy,8,Good,17,Good,12,Good,154,Unhealthy
+2764,India,Chikitigarh,156,Unhealthy,2,Good,77,Moderate,0,Good,156,Unhealthy
+2768,India,Chittaranjan,174,Unhealthy,1,Good,92,Moderate,1,Good,174,Unhealthy
+2769,India,Chomun,197,Unhealthy,1,Good,39,Good,0,Good,197,Unhealthy
+2773,India,Bisalpur,500,Hazardous,1,Good,77,Moderate,1,Good,480,Hazardous
+2805,Mexico,Calpan,153,Unhealthy,2,Good,4,Good,12,Good,153,Unhealthy
+2807,Angola,Camacupa,154,Unhealthy,4,Good,28,Good,3,Good,154,Unhealthy
+2833,India,Chakulia,165,Unhealthy,1,Good,71,Moderate,0,Good,165,Unhealthy
+2846,India,Azamgarh,459,Hazardous,1,Good,67,Moderate,1,Good,334,Hazardous
+2850,India,Balugaon,158,Unhealthy,1,Good,61,Moderate,0,Good,158,Unhealthy
+2857,India,Barela,154,Unhealthy,1,Good,39,Good,0,Good,154,Unhealthy
+2858,India,Bareli,500,Hazardous,1,Good,68,Moderate,1,Good,478,Hazardous
+2863,India,Baruipur,172,Unhealthy,3,Good,101,Unhealthy for Sensitive Groups,2,Good,172,Unhealthy
+2885,India,Dabra,172,Unhealthy,1,Good,45,Good,0,Good,172,Unhealthy
+2896,India,Bikramganj,316,Hazardous,1,Good,67,Moderate,1,Good,271,Very Unhealthy
+2906,India,Gomoh,158,Unhealthy,4,Good,41,Good,7,Good,158,Unhealthy
+2914,China,Guangzhou,184,Unhealthy,7,Good,0,Good,30,Good,184,Unhealthy
+2916,China,Haikou,158,Unhealthy,6,Good,9,Good,18,Good,158,Unhealthy
+2922,India,Haora,197,Unhealthy,9,Good,10,Good,20,Good,197,Unhealthy
+2923,China,Harbin,164,Unhealthy,5,Good,41,Good,17,Good,164,Unhealthy
+2924,India,Harda,188,Unhealthy,2,Good,32,Good,3,Good,188,Unhealthy
+2926,Kuwait,Hawalli,161,Unhealthy,3,Good,124,Unhealthy for Sensitive Groups,18,Good,161,Unhealthy
+2934,India,Hindaun,169,Unhealthy,4,Good,78,Moderate,5,Good,169,Unhealthy
+2941,China,Huilong,190,Unhealthy,11,Good,6,Good,47,Good,190,Unhealthy
+2958,Pakistan,Islamabad,178,Unhealthy,5,Good,42,Good,11,Good,178,Unhealthy
+2959,Pakistan,Islamkot,229,Very Unhealthy,1,Good,27,Good,0,Good,211,Very Unhealthy
+2963,India,Jagdispur,167,Unhealthy,4,Good,71,Moderate,5,Good,167,Unhealthy
+2966,India,Jalali,171,Unhealthy,5,Good,43,Good,22,Good,171,Unhealthy
+2967,India,Jalesar,178,Unhealthy,5,Good,27,Good,30,Good,178,Unhealthy
+2968,Pakistan,Jampur,188,Unhealthy,2,Good,48,Good,4,Good,188,Unhealthy
+2971,India,Jharsuguda,154,Unhealthy,2,Good,67,Moderate,2,Good,154,Unhealthy
+2972,China,Jiangdu,214,Very Unhealthy,13,Good,1,Good,59,Moderate,214,Very Unhealthy
+2973,China,Jiaojiang,159,Unhealthy,5,Good,40,Good,18,Good,159,Unhealthy
+2976,India,Junnar,161,Unhealthy,4,Good,26,Good,7,Good,161,Unhealthy
+2979,India,Kannauj,164,Unhealthy,4,Good,45,Good,8,Good,164,Unhealthy
+2981,India,Kaptanganj,161,Unhealthy,5,Good,30,Good,10,Good,161,Unhealthy
+2989,Pakistan,Khanpur,180,Unhealthy,2,Good,22,Good,9,Good,180,Unhealthy
+2997,Philippines,San Miguel,153,Unhealthy,3,Good,19,Good,9,Good,153,Unhealthy
+3000,India,Sanawad,190,Unhealthy,2,Good,31,Good,3,Good,190,Unhealthy
+3030,India,Dahegam,154,Unhealthy,1,Good,38,Good,1,Good,154,Unhealthy
+3034,India,Chas,154,Unhealthy,3,Good,92,Moderate,2,Good,154,Unhealthy
+3035,India,Chechat,182,Unhealthy,1,Good,38,Good,0,Good,182,Unhealthy
+3042,Mexico,Chiautempan,191,Unhealthy,3,Good,6,Good,12,Good,191,Unhealthy
+3044,India,Chicholi,160,Unhealthy,2,Good,87,Moderate,0,Good,160,Unhealthy
+3045,Mexico,Chimalhuacan,228,Very Unhealthy,4,Good,2,Good,21,Good,228,Very Unhealthy
+3066,Chile,Paine,194,Unhealthy,12,Good,0,Good,19,Good,194,Unhealthy
+3078,Mexico,Xalatlaco,152,Unhealthy,3,Good,6,Good,17,Good,152,Unhealthy
+3089,China,Yushan,163,Unhealthy,5,Good,163,Unhealthy,14,Good,157,Unhealthy
+3096,China,Zaozhuang,160,Unhealthy,3,Good,160,Unhealthy,3,Good,87,Moderate
+3101,China,Zhaocheng,172,Unhealthy,4,Good,172,Unhealthy,2,Good,154,Unhealthy
+3115,China,Xingtai,188,Unhealthy,5,Good,188,Unhealthy,5,Good,162,Unhealthy
+3131,India,Waraseoni,153,Unhealthy,1,Good,39,Good,0,Good,153,Unhealthy
+3140,India,Sanand,162,Unhealthy,1,Good,35,Good,0,Good,162,Unhealthy
+3144,Brazil,Santa Isabel,161,Unhealthy,6,Good,2,Good,16,Good,161,Unhealthy
+3149,Brazil,Sao Caetano Do Sul,182,Unhealthy,8,Good,0,Good,26,Good,182,Unhealthy
+3163,Bangladesh,Mathbaria,170,Unhealthy,1,Good,34,Good,2,Good,170,Unhealthy
+3188,Pakistan,Muzaffargarh,191,Unhealthy,2,Good,141,Unhealthy for Sensitive Groups,2,Good,191,Unhealthy
+3191,India,Nagda,160,Unhealthy,1,Good,37,Good,0,Good,160,Unhealthy
+3203,Mexico,Tepatlaxco,166,Unhealthy,3,Good,4,Good,11,Good,166,Unhealthy
+3216,Bangladesh,Naral,192,Unhealthy,3,Good,45,Good,4,Good,192,Unhealthy
+3225,India,Nim Ka Thana,375,Hazardous,1,Good,40,Good,0,Good,305,Hazardous
+3228,India,Nirsa,188,Unhealthy,1,Good,85,Moderate,1,Good,188,Unhealthy
+3245,China,Touliu,203,Very Unhealthy,3,Good,203,Very Unhealthy,6,Good,151,Unhealthy
+3256,India,Tulsipur,172,Unhealthy,3,Good,154,Unhealthy,1,Good,172,Unhealthy
+3259,Uzbekistan,Turtkul,300,Hazardous,1,Good,35,Good,0,Good,242,Very Unhealthy
+3262,India,Udala,169,Unhealthy,1,Good,49,Good,0,Good,169,Unhealthy
+3269,India,Utraula,188,Unhealthy,3,Good,165,Unhealthy,1,Good,188,Unhealthy
+3276,Indonesia,Surabaya,152,Unhealthy,1,Good,45,Good,1,Good,152,Unhealthy
+3281,China,Taichung,202,Very Unhealthy,4,Good,202,Very Unhealthy,10,Good,157,Unhealthy
+3285,Pakistan,Tandlianwala,308,Hazardous,4,Good,91,Moderate,8,Good,308,Hazardous
+3307,China,Kunyang,171,Unhealthy,4,Good,171,Unhealthy,2,Good,128,Unhealthy for Sensitive Groups
+3308,India,Kurara,196,Unhealthy,2,Good,96,Moderate,0,Good,196,Unhealthy
+3316,India,Machhlishahr,171,Unhealthy,4,Good,155,Unhealthy,1,Good,171,Unhealthy
+3320,India,Mahwa,219,Very Unhealthy,1,Good,61,Moderate,0,Good,219,Very Unhealthy
+3322,India,Malia,157,Unhealthy,0,Good,29,Good,0,Good,157,Unhealthy
+3326,India,Mandleshwar,163,Unhealthy,1,Good,34,Good,0,Good,163,Unhealthy
+3329,India,Mangrol,238,Very Unhealthy,1,Good,39,Good,0,Good,238,Very Unhealthy
+3369,Mexico,Lopez Mateos,175,Unhealthy,6,Good,5,Good,21,Good,175,Unhealthy
+3371,India,Losal,244,Very Unhealthy,1,Good,46,Good,0,Good,244,Very Unhealthy
+3375,China,Luohe,161,Unhealthy,2,Good,161,Unhealthy,2,Good,83,Moderate
+3391,India,Jaynagar Majilpur,160,Unhealthy,3,Good,72,Moderate,3,Good,160,Unhealthy
+3399,Pakistan,Kahna Nau,160,Unhealthy,3,Good,131,Unhealthy for Sensitive Groups,1,Good,160,Unhealthy
+3400,India,Kalmeshwar,181,Unhealthy,1,Good,34,Good,0,Good,181,Unhealthy
+3401,India,Kamarhati,172,Unhealthy,5,Good,103,Unhealthy for Sensitive Groups,6,Good,172,Unhealthy
+3406,India,Bhadreswar,172,Unhealthy,5,Good,106,Unhealthy for Sensitive Groups,6,Good,172,Unhealthy
+3442,China,Huoqiu,178,Unhealthy,4,Good,178,Unhealthy,3,Good,132,Unhealthy for Sensitive Groups
+3458,Gambia,Gunjur,153,Unhealthy,1,Good,22,Good,1,Good,153,Unhealthy
+3460,China,Gushi,187,Unhealthy,4,Good,187,Unhealthy,2,Good,137,Unhealthy for Sensitive Groups
+3477,Brazil,Itaquaquecetuba,172,Unhealthy,7,Good,0,Good,22,Good,172,Unhealthy
+3482,India,Shikohabad,169,Unhealthy,4,Good,167,Unhealthy,1,Good,169,Unhealthy
+3486,India,Sidhi,162,Unhealthy,3,Good,162,Unhealthy,2,Good,159,Unhealthy
+3498,Pakistan,Sodhra,162,Unhealthy,3,Good,160,Unhealthy,1,Good,162,Unhealthy
+3521,Pakistan,Khurianwala,171,Unhealthy,3,Good,171,Unhealthy,1,Good,163,Unhealthy
+3529,Uzbekistan,Koson,159,Unhealthy,1,Good,49,Good,0,Good,159,Unhealthy
+3537,Indonesia,Talang,161,Unhealthy,7,Good,18,Good,15,Good,161,Unhealthy
+3558,Mali,Nioro,182,Unhealthy,1,Good,37,Good,0,Good,182,Unhealthy
+3566,India,Nurpur,160,Unhealthy,5,Good,30,Good,11,Good,160,Unhealthy
+3571,India,Mahasamund,154,Unhealthy,2,Good,44,Good,2,Good,154,Unhealthy
+3574,India,Maksi,205,Very Unhealthy,2,Good,31,Good,3,Good,205,Very Unhealthy
+3578,India,Manglaur,178,Unhealthy,7,Good,13,Good,19,Good,178,Unhealthy
+3579,India,Manjhanpur,181,Unhealthy,5,Good,63,Moderate,8,Good,181,Unhealthy
+3581,Pakistan,Mansehra,176,Unhealthy,5,Good,29,Good,10,Good,176,Unhealthy
+3600,Libya,Waddan,176,Unhealthy,1,Good,39,Good,0,Good,176,Unhealthy
+3622,Pakistan,Liaqatabad,174,Unhealthy,3,Good,147,Unhealthy for Sensitive Groups,0,Good,174,Unhealthy
+3659,India,Manthani,155,Unhealthy,1,Good,51,Moderate,1,Good,155,Unhealthy
+3681,India,Baghpat,168,Unhealthy,4,Good,161,Unhealthy,3,Good,168,Unhealthy
+3698,China,Yuzhou,164,Unhealthy,6,Good,41,Good,26,Good,164,Unhealthy
+3700,India,Zamania,173,Unhealthy,4,Good,84,Moderate,5,Good,173,Unhealthy
+3709,Pakistan,Dera Ghazi Khan,174,Unhealthy,3,Good,150,Unhealthy,1,Good,174,Unhealthy
+3712,India,Devli,185,Unhealthy,1,Good,38,Good,0,Good,185,Unhealthy
+3713,India,Dhanera,172,Unhealthy,0,Good,29,Good,0,Good,172,Unhealthy
+3737,China,Wenshang,152,Unhealthy,3,Good,152,Unhealthy,3,Good,131,Unhealthy for Sensitive Groups
+3746,China,Xiangfan,168,Unhealthy,3,Good,168,Unhealthy,2,Good,104,Unhealthy for Sensitive Groups
+3764,India,Wankaner,155,Unhealthy,0,Good,32,Good,0,Good,155,Unhealthy
+3766,Iran (Islamic Republic of),Torbat E Jam,166,Unhealthy,1,Good,38,Good,0,Good,166,Unhealthy
+3805,India,Sanchor,194,Unhealthy,0,Good,28,Good,0,Good,194,Unhealthy
+3810,Brazil,Sao Goncalo,232,Very Unhealthy,9,Good,12,Good,28,Good,232,Very Unhealthy
+3812,Pakistan,Sahiwal,163,Unhealthy,3,Good,163,Unhealthy,1,Good,156,Unhealthy
+3819,India,Samba,155,Unhealthy,3,Good,125,Unhealthy for Sensitive Groups,0,Good,155,Unhealthy
+3821,India,Rapar,170,Unhealthy,0,Good,28,Good,0,Good,170,Unhealthy
+3824,India,Razam,154,Unhealthy,3,Good,92,Moderate,1,Good,154,Unhealthy
+3844,Saudi Arabia,Sayhat,168,Unhealthy,1,Good,121,Unhealthy for Sensitive Groups,0,Good,168,Unhealthy
+3848,India,Semaria,158,Unhealthy,3,Good,148,Unhealthy for Sensitive Groups,0,Good,158,Unhealthy
+3850,Indonesia,Sepatan,205,Very Unhealthy,5,Good,205,Very Unhealthy,4,Good,163,Unhealthy
+3858,India,Sausar,175,Unhealthy,1,Good,35,Good,0,Good,175,Unhealthy
+3867,India,Shajapur,185,Unhealthy,1,Good,37,Good,0,Good,185,Unhealthy
+3870,Saudi Arabia,Abha,170,Unhealthy,1,Good,74,Moderate,1,Good,170,Unhealthy
+3872,United Arab Emirates,Abu Dhabi,170,Unhealthy,2,Good,170,Unhealthy,4,Good,150,Unhealthy
+3873,Mexico,Acajete,182,Unhealthy,5,Good,2,Good,12,Good,182,Unhealthy
+3887,Algeria,Algiers,154,Unhealthy,10,Good,33,Good,69,Moderate,154,Unhealthy
+3890,India,Aska,155,Unhealthy,3,Good,85,Moderate,1,Good,155,Unhealthy
+3892,India,Babina,169,Unhealthy,2,Good,97,Moderate,0,Good,169,Unhealthy
+3905,China,Ankang,179,Unhealthy,2,Good,46,Good,1,Good,179,Unhealthy
+3906,Pakistan,Arifwala,164,Unhealthy,3,Good,164,Unhealthy,1,Good,154,Unhealthy
+3908,United States of America,Alpine,163,Unhealthy,5,Good,4,Good,25,Good,163,Unhealthy
+3913,Niger,Arlit,164,Unhealthy,1,Good,20,Good,0,Good,164,Unhealthy
+3926,Indonesia,Pamulang,201,Very Unhealthy,5,Good,201,Very Unhealthy,4,Good,161,Unhealthy
+3927,Indonesia,Pandaan,154,Unhealthy,3,Good,112,Unhealthy for Sensitive Groups,2,Good,154,Unhealthy
+3930,Mexico,Panotla,199,Unhealthy,3,Good,7,Good,13,Good,199,Unhealthy
+3937,Indonesia,Parung,171,Unhealthy,4,Good,171,Unhealthy,2,Good,150,Unhealthy
+3942,India,Phaphund,171,Unhealthy,4,Good,169,Unhealthy,1,Good,171,Unhealthy
+3956,India,Bargarh,164,Unhealthy,2,Good,77,Moderate,0,Good,164,Unhealthy
+3957,Brazil,Barra Do Pirai,159,Unhealthy,6,Good,0,Good,14,Good,159,Unhealthy
+3968,India,Bhiwani,172,Unhealthy,3,Good,164,Unhealthy,1,Good,172,Unhealthy
+3969,India,Biaora,175,Unhealthy,1,Good,38,Good,0,Good,175,Unhealthy
+4007,Indonesia,Bogor,170,Unhealthy,4,Good,170,Unhealthy,2,Good,152,Unhealthy
+4018,India,Napasar,443,Hazardous,1,Good,40,Good,0,Good,328,Hazardous
+4020,India,Narsimhapur,161,Unhealthy,1,Good,46,Good,0,Good,161,Unhealthy
+4021,Pakistan,Naushahro Firoz,158,Unhealthy,1,Good,44,Good,0,Good,158,Unhealthy
+4035,South Africa,Nigel,174,Unhealthy,10,Good,13,Good,13,Good,174,Unhealthy
+4057,India,Mount Abu,167,Unhealthy,1,Good,30,Good,0,Good,167,Unhealthy
+4073,India,Nangal,152,Unhealthy,3,Good,143,Unhealthy for Sensitive Groups,1,Good,152,Unhealthy
+4081,India,Chittaurgarh,207,Very Unhealthy,1,Good,35,Good,0,Good,207,Very Unhealthy
+4083,Peru,Chosica,179,Unhealthy,9,Good,5,Good,25,Good,179,Unhealthy
+4084,India,Churhat,191,Unhealthy,2,Good,82,Moderate,2,Good,191,Unhealthy
+4123,Pakistan,Chambar,172,Unhealthy,1,Good,43,Good,0,Good,172,Unhealthy
+4126,China,Baisha,158,Unhealthy,3,Good,158,Unhealthy,2,Good,113,Unhealthy for Sensitive Groups
+4133,Brazil,Barueri,170,Unhealthy,6,Good,1,Good,20,Good,170,Unhealthy
+4153,Brazil,Caieiras,165,Unhealthy,6,Good,1,Good,19,Good,165,Unhealthy
+4171,India,Tekanpur,168,Unhealthy,4,Good,45,Good,6,Good,168,Unhealthy
+4174,Mexico,Texcoco,320,Hazardous,5,Good,26,Good,10,Good,320,Hazardous
+4186,China,Toufen,155,Unhealthy,5,Good,34,Good,36,Good,155,Unhealthy
+4190,Mexico,Tultitlan,199,Unhealthy,2,Good,38,Good,5,Good,199,Unhealthy
+4234,Indonesia,Gebog,161,Unhealthy,5,Good,2,Good,22,Good,161,Unhealthy
+4238,India,Ghazipur,176,Unhealthy,4,Good,93,Moderate,5,Good,176,Unhealthy
+4241,India,Daund,159,Unhealthy,2,Good,33,Good,6,Good,159,Unhealthy
+4246,India,Dhaulpur,171,Unhealthy,4,Good,50,Good,7,Good,171,Unhealthy
+4271,Russian Federation,Elban,172,Unhealthy,15,Good,32,Good,11,Good,172,Unhealthy
+4279,India,Sadri,154,Unhealthy,1,Good,32,Good,1,Good,154,Unhealthy
+4288,India,Sambalpur,157,Unhealthy,2,Good,72,Moderate,1,Good,157,Unhealthy
+4289,India,Sambhal,164,Unhealthy,5,Good,33,Good,9,Good,164,Unhealthy
+4303,India,Sumbal,152,Unhealthy,3,Good,37,Good,3,Good,152,Unhealthy
+4325,Mexico,Progreso Industrial,181,Unhealthy,4,Good,24,Good,9,Good,181,Unhealthy
+4328,India,Pundri,162,Unhealthy,4,Good,45,Good,9,Good,162,Unhealthy
+4333,India,Rahuri,153,Unhealthy,1,Good,35,Good,2,Good,153,Unhealthy
+4334,India,Raikot,165,Unhealthy,5,Good,41,Good,12,Good,165,Unhealthy
+4337,India,Ramtek,172,Unhealthy,3,Good,34,Good,11,Good,172,Unhealthy
+4349,India,Risod,154,Unhealthy,2,Good,23,Good,4,Good,154,Unhealthy
+4360,Mexico,Ozumba,161,Unhealthy,1,Good,38,Good,3,Good,161,Unhealthy
+4361,South Africa,Paarl,171,Unhealthy,6,Good,15,Good,9,Good,171,Unhealthy
+4367,Indonesia,Pamanukan,156,Unhealthy,3,Good,22,Good,9,Good,156,Unhealthy
+4371,India,Parola,153,Unhealthy,1,Good,34,Good,2,Good,153,Unhealthy
+4380,Mexico,Contla,190,Unhealthy,1,Good,35,Good,3,Good,190,Unhealthy
+4406,China,Mengyin,164,Unhealthy,6,Good,54,Moderate,18,Good,164,Unhealthy
+4424,India,Moram,160,Unhealthy,2,Good,33,Good,3,Good,160,Unhealthy
+4429,Mexico,Moyotzingo,332,Hazardous,3,Good,26,Good,8,Good,332,Hazardous
+4435,India,Kanchrapara,172,Unhealthy,5,Good,126,Unhealthy for Sensitive Groups,5,Good,172,Unhealthy
+4437,India,Kanth,175,Unhealthy,4,Good,175,Unhealthy,1,Good,157,Unhealthy
+4465,India,Mawana,157,Unhealthy,3,Good,119,Unhealthy for Sensitive Groups,1,Good,157,Unhealthy
+4482,Dominican Republic,Monte Plata,159,Unhealthy,5,Good,5,Good,12,Good,159,Unhealthy
+4507,Egypt,Deshna,158,Unhealthy,2,Good,49,Good,6,Good,158,Unhealthy
+4508,India,Dhampur,168,Unhealthy,3,Good,168,Unhealthy,1,Good,152,Unhealthy
+4517,India,Khurai,160,Unhealthy,3,Good,67,Moderate,2,Good,160,Unhealthy
+4529,India,Konnagar,214,Very Unhealthy,12,Good,2,Good,27,Good,214,Very Unhealthy
+4554,India,Lalitpur,163,Unhealthy,3,Good,44,Good,5,Good,163,Unhealthy
+4558,India,Latur,162,Unhealthy,2,Good,35,Good,3,Good,162,Unhealthy
+4580,China,Maanshan,183,Unhealthy,9,Good,0,Good,42,Good,183,Unhealthy
+4582,India,Sarauli,170,Unhealthy,4,Good,168,Unhealthy,1,Good,170,Unhealthy
+4587,United States of America,Scott Lake,158,Unhealthy,6,Good,7,Good,17,Good,158,Unhealthy
+4590,India,Seoni,173,Unhealthy,1,Good,36,Good,0,Good,173,Unhealthy
+4597,India,Shamgarh,192,Unhealthy,1,Good,36,Good,0,Good,192,Unhealthy
+4598,China,Shaoyang,159,Unhealthy,4,Good,159,Unhealthy,4,Good,108,Unhealthy for Sensitive Groups
+4600,India,Sonegaon,168,Unhealthy,1,Good,29,Good,0,Good,168,Unhealthy
+4607,South Africa,Stellenbosch,181,Unhealthy,11,Good,12,Good,8,Good,181,Unhealthy
+4621,India,Sankrail,165,Unhealthy,4,Good,96,Moderate,5,Good,165,Unhealthy
+4625,India,Sanwer,172,Unhealthy,1,Good,39,Good,0,Good,172,Unhealthy
+4627,India,Baidyabati,225,Very Unhealthy,10,Good,9,Good,23,Good,225,Very Unhealthy
+4631,Thailand,Bang Yai,164,Unhealthy,5,Good,4,Good,13,Good,164,Unhealthy
+4633,Pakistan,Bannu,176,Unhealthy,3,Good,114,Unhealthy for Sensitive Groups,1,Good,176,Unhealthy
+4634,India,Baramati,156,Unhealthy,2,Good,38,Good,2,Good,156,Unhealthy
+4635,India,Barwala,166,Unhealthy,4,Good,126,Unhealthy for Sensitive Groups,5,Good,166,Unhealthy
+4636,India,Baswa,169,Unhealthy,3,Good,102,Unhealthy for Sensitive Groups,3,Good,169,Unhealthy
+4643,Indonesia,Bekasi,193,Unhealthy,9,Good,16,Good,29,Good,193,Unhealthy
+4648,India,Berasia,164,Unhealthy,2,Good,57,Moderate,2,Good,164,Unhealthy
+4652,India,Bhikhi,162,Unhealthy,4,Good,42,Good,13,Good,162,Unhealthy
+4653,India,Bilgram,161,Unhealthy,3,Good,59,Moderate,6,Good,161,Unhealthy
+4654,India,Bindki,180,Unhealthy,4,Good,101,Unhealthy for Sensitive Groups,6,Good,180,Unhealthy
+4678,India,Calcutta,195,Unhealthy,8,Good,10,Good,19,Good,195,Unhealthy
+4692,India,Chakia,155,Unhealthy,4,Good,43,Good,7,Good,155,Unhealthy
+4693,India,Champdani,220,Very Unhealthy,10,Good,9,Good,23,Good,220,Very Unhealthy
+4696,India,Chhata,177,Unhealthy,5,Good,41,Good,13,Good,177,Unhealthy
+4701,China,Choucheng,181,Unhealthy,10,Good,0,Good,25,Good,181,Unhealthy
+4703,Indonesia,Ciledug,166,Unhealthy,7,Good,11,Good,19,Good,166,Unhealthy
+4744,Algeria,Tuggurt,164,Unhealthy,1,Good,47,Good,0,Good,164,Unhealthy
+4749,India,Ujhani,500,Hazardous,1,Good,51,Moderate,2,Good,396,Hazardous
+4757,India,Takhatpur,160,Unhealthy,1,Good,40,Good,0,Good,160,Unhealthy
+4758,India,Talcher,163,Unhealthy,1,Good,65,Moderate,1,Good,163,Unhealthy
+4782,India,Palwal,179,Unhealthy,4,Good,179,Unhealthy,2,Good,175,Unhealthy
+4786,South Africa,Parys,155,Unhealthy,7,Good,17,Good,10,Good,155,Unhealthy
+4811,Pakistan,Qadirpur Ran,161,Unhealthy,3,Good,152,Unhealthy,1,Good,161,Unhealthy
+4816,India,Rajnagar,158,Unhealthy,3,Good,124,Unhealthy for Sensitive Groups,0,Good,158,Unhealthy
+4844,India,Pali,173,Unhealthy,1,Good,26,Good,2,Good,173,Unhealthy
+4846,Australia,Palmerston,264,Very Unhealthy,9,Good,2,Good,17,Good,264,Very Unhealthy
+4859,India,Robertsganj,169,Unhealthy,3,Good,66,Moderate,4,Good,169,Unhealthy
+4864,India,Madhogarh,172,Unhealthy,4,Good,95,Moderate,5,Good,172,Unhealthy
+4866,India,Mahiari,198,Unhealthy,10,Good,3,Good,24,Good,198,Unhealthy
+4890,Indonesia,Curug,281,Very Unhealthy,15,Good,6,Good,59,Moderate,281,Very Unhealthy
+4894,Pakistan,Pindi Bhattian,175,Unhealthy,4,Good,78,Moderate,8,Good,175,Unhealthy
+4917,India,Rahon,172,Unhealthy,6,Good,19,Good,22,Good,172,Unhealthy
+4920,India,Ramanuj Ganj,172,Unhealthy,3,Good,43,Good,3,Good,172,Unhealthy
+4928,India,Saharanpur,174,Unhealthy,7,Good,15,Good,18,Good,174,Unhealthy
+4929,India,Sahawar,164,Unhealthy,4,Good,29,Good,31,Good,164,Unhealthy
+4941,Mexico,San Pablo De Las Salinas,211,Very Unhealthy,2,Good,38,Good,5,Good,211,Very Unhealthy
+4948,Indonesia,Pandegelang,195,Unhealthy,8,Good,17,Good,51,Moderate,195,Unhealthy
+4949,Mexico,Papalotla,190,Unhealthy,1,Good,35,Good,3,Good,190,Unhealthy
+4956,Indonesia,Peterongan,158,Unhealthy,3,Good,11,Good,9,Good,158,Unhealthy
+4961,Pakistan,Bahawalpur,189,Unhealthy,2,Good,126,Unhealthy for Sensitive Groups,0,Good,189,Unhealthy
+4969,Indonesia,Bangkalan,154,Unhealthy,2,Good,79,Moderate,1,Good,154,Unhealthy
+4970,China,Baoji,156,Unhealthy,1,Good,34,Good,3,Good,156,Unhealthy
+4988,South Africa,Brits,212,Very Unhealthy,14,Good,21,Good,17,Good,212,Very Unhealthy
+5000,India,Bhander,166,Unhealthy,3,Good,140,Unhealthy for Sensitive Groups,0,Good,166,Unhealthy
+5001,India,Bhanpuri,168,Unhealthy,1,Good,65,Moderate,0,Good,168,Unhealthy
+5003,India,Bhimunipatnam,155,Unhealthy,3,Good,93,Moderate,2,Good,155,Unhealthy
+5006,Kingdom of Eswatini,Big Bend,169,Unhealthy,9,Good,11,Good,6,Good,169,Unhealthy
+5007,India,Bilara,183,Unhealthy,1,Good,32,Good,0,Good,183,Unhealthy
+5013,India,Asind,175,Unhealthy,1,Good,35,Good,0,Good,175,Unhealthy
+5014,India,Atrauli,165,Unhealthy,4,Good,159,Unhealthy,2,Good,165,Unhealthy
+5019,India,Baberu,173,Unhealthy,4,Good,173,Unhealthy,1,Good,171,Unhealthy
+5025,India,Shikarpur,163,Unhealthy,3,Good,152,Unhealthy,1,Good,163,Unhealthy
+5027,Pakistan,Sialkot,162,Unhealthy,3,Good,149,Unhealthy for Sensitive Groups,1,Good,162,Unhealthy
+5051,Pakistan,Talagang,173,Unhealthy,3,Good,123,Unhealthy for Sensitive Groups,0,Good,173,Unhealthy
+5052,Pakistan,Talhar,152,Unhealthy,1,Good,39,Good,0,Good,152,Unhealthy
+5054,India,Taoru,176,Unhealthy,4,Good,175,Unhealthy,2,Good,176,Unhealthy
+5055,India,Taranagar,233,Very Unhealthy,2,Good,100,Unhealthy for Sensitive Groups,0,Good,233,Very Unhealthy
+5061,India,Khurja,254,Very Unhealthy,3,Good,146,Unhealthy for Sensitive Groups,2,Good,254,Very Unhealthy
+5068,South Africa,Klerksdorp,172,Unhealthy,9,Good,18,Good,12,Good,172,Unhealthy
+5088,India,Lakheri,179,Unhealthy,1,Good,43,Good,0,Good,179,Unhealthy
+5105,China,Linfen,156,Unhealthy,2,Good,156,Unhealthy,2,Good,84,Moderate
+5123,India,Maheshwar,152,Unhealthy,1,Good,34,Good,0,Good,152,Unhealthy
+5139,India,Delhi,500,Hazardous,1,Good,44,Good,2,Good,446,Hazardous
+5141,India,Dhandhuka,159,Unhealthy,1,Good,39,Good,0,Good,159,Unhealthy
+5146,Pakistan,Dina,164,Unhealthy,1,Good,80,Moderate,1,Good,164,Unhealthy
+5147,Indonesia,Diwek,154,Unhealthy,3,Good,126,Unhealthy for Sensitive Groups,2,Good,154,Unhealthy
+5156,United States of America,Durango,500,Hazardous,133,Unhealthy for Sensitive Groups,0,Good,53,Moderate,500,Hazardous
+5176,India,Garhakota,156,Unhealthy,1,Good,41,Good,0,Good,156,Unhealthy
+5177,India,Garwa,197,Unhealthy,1,Good,49,Good,0,Good,197,Unhealthy
+5178,Indonesia,Gedangan,153,Unhealthy,2,Good,54,Moderate,2,Good,153,Unhealthy
+5190,India,Fatehgarh Churian,248,Very Unhealthy,3,Good,169,Unhealthy,1,Good,248,Very Unhealthy
+5191,Pakistan,Fazalpur,199,Unhealthy,3,Good,173,Unhealthy,1,Good,199,Unhealthy
+5209,Mexico,Melchor Ocampo,183,Unhealthy,4,Good,12,Good,16,Good,183,Unhealthy
+5220,China,Mingguang,169,Unhealthy,3,Good,169,Unhealthy,3,Good,104,Unhealthy for Sensitive Groups
+5223,Pakistan,Mitha Tiwana,157,Unhealthy,2,Good,106,Unhealthy for Sensitive Groups,0,Good,157,Unhealthy
+5241,India,Muzaffarpur,159,Unhealthy,4,Good,128,Unhealthy for Sensitive Groups,1,Good,159,Unhealthy
+5244,India,Nadiad,156,Unhealthy,1,Good,37,Good,0,Good,156,Unhealthy
+5250,India,Naraura,177,Unhealthy,3,Good,163,Unhealthy,2,Good,177,Unhealthy
+5259,India,Nilagiri,160,Unhealthy,2,Good,55,Moderate,1,Good,160,Unhealthy
+5266,India,Nohar,500,Hazardous,1,Good,41,Good,0,Good,500,Hazardous
+5269,China,Taizhou,206,Very Unhealthy,5,Good,206,Very Unhealthy,4,Good,150,Unhealthy
+5274,China,Tangshan,200,Unhealthy,5,Good,200,Unhealthy,4,Good,155,Unhealthy
+5279,India,Teonthar,217,Very Unhealthy,1,Good,44,Good,0,Good,217,Very Unhealthy
+5284,India,Thana,154,Unhealthy,2,Good,25,Good,2,Good,154,Unhealthy
+5285,China,Tianpeng,178,Unhealthy,7,Good,104,Unhealthy for Sensitive Groups,13,Good,178,Unhealthy
+5294,China,Tongchuan,163,Unhealthy,5,Good,163,Unhealthy,4,Good,136,Unhealthy for Sensitive Groups
+5295,China,Tounan,203,Very Unhealthy,4,Good,203,Very Unhealthy,6,Good,156,Unhealthy
+5306,India,Ujjain,156,Unhealthy,1,Good,36,Good,0,Good,156,Unhealthy
+5324,South Africa,Welkom,153,Unhealthy,7,Good,6,Good,9,Good,153,Unhealthy
+5335,China,Wuhan,175,Unhealthy,6,Good,175,Unhealthy,6,Good,157,Unhealthy
+5341,China,Yanliang,203,Very Unhealthy,4,Good,203,Very Unhealthy,6,Good,139,Unhealthy for Sensitive Groups
+5347,China,Yishui,155,Unhealthy,2,Good,155,Unhealthy,1,Good,83,Moderate
+5351,China,Zhaoyang,198,Unhealthy,4,Good,198,Unhealthy,5,Good,128,Unhealthy for Sensitive Groups
+5352,China,Zhenjiang,181,Unhealthy,5,Good,181,Unhealthy,11,Good,151,Unhealthy
+5361,South Africa,Vredefort,198,Unhealthy,22,Good,10,Good,15,Good,198,Unhealthy
+5372,Pakistan,Mehar,160,Unhealthy,1,Good,49,Good,0,Good,160,Unhealthy
+5407,India,Fatwa,176,Unhealthy,4,Good,155,Unhealthy,1,Good,176,Unhealthy
+5429,India,Bagra,184,Unhealthy,1,Good,78,Moderate,1,Good,184,Unhealthy
+5430,India,Baihar,152,Unhealthy,0,Good,38,Good,0,Good,152,Unhealthy
+5432,Senegal,Bambey,159,Unhealthy,2,Good,25,Good,3,Good,159,Unhealthy
+5435,India,Banga,324,Hazardous,2,Good,150,Unhealthy,1,Good,324,Hazardous
+5437,India,Bar Bigha,290,Very Unhealthy,2,Good,99,Moderate,1,Good,283,Very Unhealthy
+5451,India,Begun,156,Unhealthy,0,Good,42,Good,0,Good,156,Unhealthy
+5461,India,Bettiah,265,Very Unhealthy,4,Good,166,Unhealthy,1,Good,265,Very Unhealthy
+5462,Pakistan,Bhan,161,Unhealthy,1,Good,40,Good,0,Good,161,Unhealthy
+5463,Bangladesh,Bhandaria,156,Unhealthy,1,Good,45,Good,1,Good,156,Unhealthy
+5464,India,Bhasawar,194,Unhealthy,1,Good,43,Good,0,Good,194,Unhealthy
+5466,India,Bhuban,162,Unhealthy,1,Good,92,Moderate,2,Good,162,Unhealthy
+5473,China,Changying,153,Unhealthy,2,Good,153,Unhealthy,2,Good,100,Unhealthy for Sensitive Groups
+5475,India,Chhachhrauli,500,Hazardous,1,Good,82,Moderate,1,Good,461,Hazardous
+5476,Pakistan,Chiniot,275,Very Unhealthy,2,Good,112,Unhealthy for Sensitive Groups,1,Good,275,Very Unhealthy
+5479,India,Chodavaram,153,Unhealthy,1,Good,47,Good,0,Good,153,Unhealthy
+5482,India,Chopan,201,Very Unhealthy,1,Good,47,Good,0,Good,201,Very Unhealthy
+5483,India,Chunar,275,Very Unhealthy,1,Good,49,Good,1,Good,245,Very Unhealthy
+5490,India,Birmitrapur,165,Unhealthy,1,Good,109,Unhealthy for Sensitive Groups,1,Good,165,Unhealthy
+5491,India,Birpur,204,Very Unhealthy,3,Good,100,Unhealthy for Sensitive Groups,0,Good,204,Very Unhealthy
+5498,India,Bombay,155,Unhealthy,2,Good,25,Good,1,Good,155,Unhealthy
+5554,Mexico,Amozoc,164,Unhealthy,4,Good,1,Good,9,Good,164,Unhealthy
+5555,India,Amreli,154,Unhealthy,0,Good,31,Good,0,Good,154,Unhealthy
+5563,China,Shishou,152,Unhealthy,3,Good,152,Unhealthy,2,Good,91,Moderate
+5564,Pakistan,Shorkot,208,Very Unhealthy,2,Good,151,Unhealthy,1,Good,208,Very Unhealthy
+5565,India,Sijua,185,Unhealthy,1,Good,78,Moderate,1,Good,185,Unhealthy
+5571,India,Sisauli,500,Hazardous,1,Good,47,Good,1,Good,500,Hazardous
+5638,Niger,Agadez,152,Unhealthy,1,Good,37,Good,0,Good,152,Unhealthy
+5642,India,Aland,161,Unhealthy,2,Good,32,Good,3,Good,161,Unhealthy
+5650,India,Alwar,172,Unhealthy,4,Good,76,Moderate,6,Good,172,Unhealthy
+5651,India,Amritsar,168,Unhealthy,4,Good,39,Good,9,Good,168,Unhealthy
+5656,Mexico,Apizaco,230,Very Unhealthy,1,Good,34,Good,3,Good,230,Very Unhealthy
+5658,India,Arang,155,Unhealthy,3,Good,38,Good,3,Good,155,Unhealthy
+5673,Pakistan,Baddomalhi,172,Unhealthy,5,Good,30,Good,14,Good,172,Unhealthy
+5680,India,Sihora,163,Unhealthy,4,Good,39,Good,5,Good,163,Unhealthy
+5695,India,Tendukheda,165,Unhealthy,4,Good,34,Good,6,Good,165,Unhealthy
+5699,India,Thana Bhawan,171,Unhealthy,5,Good,38,Good,12,Good,171,Unhealthy
+5712,Mexico,Tlalnepantla,195,Unhealthy,2,Good,39,Good,5,Good,195,Unhealthy
+5725,Indonesia,Tulungagung,165,Unhealthy,6,Good,13,Good,14,Good,165,Unhealthy
+5729,Pakistan,Uch,191,Unhealthy,2,Good,38,Good,5,Good,191,Unhealthy
+5751,India,Sarwar,169,Unhealthy,1,Good,30,Good,4,Good,169,Unhealthy
+5764,Indonesia,Seyegan,168,Unhealthy,7,Good,12,Good,20,Good,168,Unhealthy
+5776,Philippines,Meycauayan,152,Unhealthy,4,Good,22,Good,9,Good,152,Unhealthy
+5781,Pakistan,Minchinabad,167,Unhealthy,4,Good,88,Moderate,6,Good,167,Unhealthy
+5784,Pakistan,Mirpur Khas,156,Unhealthy,1,Good,30,Good,2,Good,156,Unhealthy
+5785,Pakistan,Mirpur Mathelo,162,Unhealthy,2,Good,16,Good,12,Good,162,Unhealthy
+5792,Indonesia,Mranggen,161,Unhealthy,6,Good,19,Good,15,Good,161,Unhealthy
+5794,Pakistan,Mustafabad,169,Unhealthy,4,Good,95,Moderate,6,Good,169,Unhealthy
+5800,China,Nanyang,153,Unhealthy,5,Good,76,Moderate,16,Good,153,Unhealthy
+5812,Mexico,Nezahualcoyotl,209,Very Unhealthy,2,Good,41,Good,5,Good,209,Very Unhealthy
+5821,Mauritania,Nouakchott,166,Unhealthy,1,Good,22,Good,0,Good,166,Unhealthy
+5837,China,Dehui,156,Unhealthy,4,Good,45,Good,8,Good,156,Unhealthy
+5872,India,Firozpur Jhirka,174,Unhealthy,5,Good,50,Good,10,Good,174,Unhealthy
+5882,India,Gadarwara,161,Unhealthy,2,Good,41,Good,2,Good,161,Unhealthy
+5892,India,Ghosi,171,Unhealthy,4,Good,89,Moderate,5,Good,171,Unhealthy
+5906,Indonesia,Wonosari,174,Unhealthy,7,Good,7,Good,20,Good,174,Unhealthy
+5913,China,Yangshe,207,Very Unhealthy,11,Good,3,Good,49,Good,207,Very Unhealthy
+5916,India,Aron,212,Very Unhealthy,1,Good,39,Good,0,Good,212,Very Unhealthy
+5921,Pakistan,Attock,156,Unhealthy,3,Good,156,Unhealthy,1,Good,156,Unhealthy
+5952,China,Chengkung,182,Unhealthy,2,Good,182,Unhealthy,8,Good,142,Unhealthy for Sensitive Groups
+5954,China,Chihu,198,Unhealthy,3,Good,198,Unhealthy,14,Good,152,Unhealthy
+5957,China,Chushan,201,Very Unhealthy,2,Good,201,Very Unhealthy,7,Good,151,Unhealthy
+5977,Senegal,Dakar,166,Unhealthy,1,Good,21,Good,2,Good,166,Unhealthy
+5992,India,Dongargaon,178,Unhealthy,1,Good,39,Good,0,Good,178,Unhealthy
+6008,India,Chhaprauli,158,Unhealthy,3,Good,158,Unhealthy,2,Good,158,Unhealthy
+6009,India,Chhindwara,176,Unhealthy,1,Good,34,Good,0,Good,176,Unhealthy
+6028,India,Dadri,178,Unhealthy,4,Good,170,Unhealthy,3,Good,178,Unhealthy
+6055,Chad,Faya,156,Unhealthy,1,Good,29,Good,0,Good,156,Unhealthy
+6061,India,Beawar,221,Very Unhealthy,1,Good,35,Good,0,Good,221,Very Unhealthy
+6073,India,Bhitarwar,230,Very Unhealthy,1,Good,46,Good,0,Good,230,Very Unhealthy
+6102,Pakistan,Garhi Yasin,186,Unhealthy,1,Good,115,Unhealthy for Sensitive Groups,1,Good,186,Unhealthy
+6107,Ethiopia,Dubti,152,Unhealthy,1,Good,34,Good,0,Good,152,Unhealthy
+6115,Mexico,Zacatlan,166,Unhealthy,3,Good,6,Good,9,Good,166,Unhealthy
+6126,China,Xinxiang,178,Unhealthy,6,Good,172,Unhealthy,10,Good,178,Unhealthy
+6133,Kazakhstan,Ilyich,161,Unhealthy,1,Good,56,Moderate,0,Good,161,Unhealthy
+6149,India,Jawad,166,Unhealthy,1,Good,36,Good,0,Good,166,Unhealthy
+6155,China,Jishui,186,Unhealthy,4,Good,186,Unhealthy,4,Good,155,Unhealthy
+6163,Pakistan,Kabirwala,159,Unhealthy,3,Good,156,Unhealthy,1,Good,159,Unhealthy
+6170,Pakistan,Kalur Kot,174,Unhealthy,3,Good,150,Unhealthy,0,Good,174,Unhealthy
+6195,China,Hami,177,Unhealthy,0,Good,40,Good,0,Good,177,Unhealthy
+6206,India,Hisar,174,Unhealthy,3,Good,174,Unhealthy,1,Good,167,Unhealthy
+6266,India,Nabha,170,Unhealthy,4,Good,170,Unhealthy,1,Good,166,Unhealthy
+6272,India,Saidpur,174,Unhealthy,4,Good,173,Unhealthy,2,Good,174,Unhealthy
+6301,United States of America,Pembroke Pines,162,Unhealthy,6,Good,5,Good,18,Good,162,Unhealthy
+6302,Chile,Penaflor,158,Unhealthy,4,Good,9,Good,20,Good,158,Unhealthy
+6316,India,Jahangirabad,178,Unhealthy,4,Good,175,Unhealthy,2,Good,178,Unhealthy
+6319,Pakistan,Jaranwala,167,Unhealthy,3,Good,148,Unhealthy for Sensitive Groups,1,Good,167,Unhealthy
+6320,Pakistan,Jhudo,163,Unhealthy,1,Good,38,Good,0,Good,163,Unhealthy
+6323,Pakistan,Jiwani,157,Unhealthy,0,Good,31,Good,0,Good,157,Unhealthy
+6328,China,Juxian,156,Unhealthy,3,Good,156,Unhealthy,2,Good,113,Unhealthy for Sensitive Groups
+6345,India,Revelganj,156,Unhealthy,4,Good,156,Unhealthy,1,Good,156,Unhealthy
+6346,India,Rewari,170,Unhealthy,2,Good,107,Unhealthy for Sensitive Groups,0,Good,170,Unhealthy
+6352,Iran (Islamic Republic of),Robat Karim,210,Very Unhealthy,3,Good,210,Very Unhealthy,5,Good,161,Unhealthy
+6353,Pakistan,Rohri,188,Unhealthy,1,Good,56,Moderate,1,Good,188,Unhealthy
+6359,Mexico,Teotihuacan,178,Unhealthy,3,Good,7,Good,14,Good,178,Unhealthy
+6360,Mexico,Tepotzotlan,155,Unhealthy,4,Good,8,Good,14,Good,155,Unhealthy
+6368,India,Titron,160,Unhealthy,3,Good,130,Unhealthy for Sensitive Groups,1,Good,160,Unhealthy
+6382,Mexico,Tultepec,168,Unhealthy,4,Good,6,Good,16,Good,168,Unhealthy
+6401,India,Vijapur,158,Unhealthy,1,Good,35,Good,0,Good,158,Unhealthy
+6451,India,Loharu,194,Unhealthy,2,Good,114,Unhealthy for Sensitive Groups,1,Good,194,Unhealthy
+6456,Namibia,Luderitz,232,Very Unhealthy,0,Good,8,Good,0,Good,232,Very Unhealthy
+6508,India,Sadat,172,Unhealthy,3,Good,141,Unhealthy for Sensitive Groups,1,Good,172,Unhealthy
+6514,India,Salumbar,164,Unhealthy,1,Good,35,Good,0,Good,164,Unhealthy
+6552,China,Taoyuan,175,Unhealthy,6,Good,24,Good,41,Good,175,Unhealthy
+6554,India,Sonamukhi,159,Unhealthy,4,Good,28,Good,12,Good,159,Unhealthy
+6589,Pakistan,Ghauspur,169,Unhealthy,1,Good,47,Good,0,Good,169,Unhealthy
+6596,China,Huangcun,156,Unhealthy,4,Good,101,Unhealthy for Sensitive Groups,11,Good,156,Unhealthy
+6601,India,Ichhawar,162,Unhealthy,1,Good,39,Good,0,Good,162,Unhealthy
+6607,Democratic Republic of the Congo,Kasongo,201,Very Unhealthy,10,Good,48,Good,8,Good,201,Very Unhealthy
+6610,Kuwait,Kayfan,164,Unhealthy,2,Good,159,Unhealthy,5,Good,164,Unhealthy
+6612,Indonesia,Kebomas,158,Unhealthy,2,Good,104,Unhealthy for Sensitive Groups,1,Good,158,Unhealthy
+6615,Pakistan,Khalabat,164,Unhealthy,3,Good,139,Unhealthy for Sensitive Groups,0,Good,164,Unhealthy
+6617,India,Khanna,165,Unhealthy,3,Good,165,Unhealthy,1,Good,162,Unhealthy
+6618,Venezuela (Bolivarian Republic of),Mariara,165,Unhealthy,4,Good,3,Good,18,Good,165,Unhealthy
+6624,India,Mathura,171,Unhealthy,4,Good,168,Unhealthy,1,Good,171,Unhealthy
+6641,Pakistan,Chak Azam Sahu,193,Unhealthy,2,Good,140,Unhealthy for Sensitive Groups,1,Good,193,Unhealthy
+6642,India,Chandausi,174,Unhealthy,4,Good,174,Unhealthy,1,Good,159,Unhealthy
+6645,India,Chatra,186,Unhealthy,2,Good,87,Moderate,0,Good,186,Unhealthy
+6657,India,Churu,500,Hazardous,1,Good,37,Good,0,Good,500,Hazardous
+6672,United States of America,Country Club,153,Unhealthy,4,Good,4,Good,20,Good,153,Unhealthy
+6676,India,Baleshwar,160,Unhealthy,2,Good,59,Moderate,1,Good,160,Unhealthy
+6692,India,Bhatapara,180,Unhealthy,1,Good,58,Moderate,1,Good,180,Unhealthy
+6694,India,Bikaner,500,Hazardous,1,Good,36,Good,0,Good,500,Hazardous
+6731,India,Bodri,174,Unhealthy,1,Good,38,Good,0,Good,174,Unhealthy
+6741,India,Brajrajnagar,162,Unhealthy,1,Good,48,Good,0,Good,162,Unhealthy
+6745,Uganda,Bugembe,156,Unhealthy,7,Good,14,Good,4,Good,156,Unhealthy
+6749,India,Bundi,168,Unhealthy,1,Good,36,Good,0,Good,168,Unhealthy
+6767,Nigeria,Aba,196,Unhealthy,13,Good,6,Good,13,Good,196,Unhealthy
+6768,Bangladesh,Abhaynagar,187,Unhealthy,2,Good,47,Good,3,Good,187,Unhealthy
+6786,India,Aonla,500,Hazardous,4,Good,149,Unhealthy for Sensitive Groups,4,Good,479,Hazardous
+6787,India,Ara,209,Very Unhealthy,2,Good,103,Unhealthy for Sensitive Groups,1,Good,209,Very Unhealthy
+6793,India,Ashta,152,Unhealthy,1,Good,37,Good,0,Good,152,Unhealthy
+6801,India,Auraiya,249,Very Unhealthy,1,Good,47,Good,0,Good,249,Very Unhealthy
+6816,China,Baoning,153,Unhealthy,4,Good,146,Unhealthy for Sensitive Groups,3,Good,153,Unhealthy
+6817,India,Bari,195,Unhealthy,1,Good,45,Good,0,Good,195,Unhealthy
+6818,India,Basudebpur,166,Unhealthy,1,Good,73,Moderate,1,Good,166,Unhealthy
+6826,India,Akbarpur,224,Very Unhealthy,2,Good,85,Moderate,1,Good,224,Very Unhealthy
+6828,India,Alapur,167,Unhealthy,3,Good,164,Unhealthy,3,Good,167,Unhealthy
+6834,India,Amanganj,199,Unhealthy,1,Good,43,Good,0,Good,199,Unhealthy
+6859,India,Bagula,159,Unhealthy,5,Good,95,Moderate,4,Good,159,Unhealthy
+6865,India,Sihor,152,Unhealthy,0,Good,31,Good,0,Good,152,Unhealthy
+6866,India,Sikandra,242,Very Unhealthy,1,Good,73,Moderate,1,Good,242,Very Unhealthy
+6879,India,Behat,176,Unhealthy,3,Good,176,Unhealthy,1,Good,107,Unhealthy for Sensitive Groups
+6880,India,Bela,305,Hazardous,1,Good,48,Good,1,Good,280,Very Unhealthy
+6891,India,Bilaua,190,Unhealthy,1,Good,38,Good,0,Good,190,Unhealthy
+6901,China,Qufu,200,Unhealthy,5,Good,200,Unhealthy,6,Good,151,Unhealthy
+6909,India,Ratanpur,188,Unhealthy,1,Good,64,Moderate,2,Good,188,Unhealthy
+6914,Brazil,Rio Grande Da Serra,153,Unhealthy,4,Good,2,Good,19,Good,153,Unhealthy
+6951,China,Shahe,202,Very Unhealthy,8,Good,202,Very Unhealthy,12,Good,180,Unhealthy
+6952,India,Shahgarh,188,Unhealthy,1,Good,40,Good,0,Good,188,Unhealthy
+6970,India,Naraini,185,Unhealthy,1,Good,42,Good,0,Good,185,Unhealthy
+6975,India,Nawalgarh,500,Hazardous,1,Good,33,Good,0,Good,412,Hazardous
+6990,India,Nuh,500,Hazardous,1,Good,44,Good,1,Good,420,Hazardous
+7019,Brazil,Monte Mor,156,Unhealthy,5,Good,1,Good,12,Good,156,Unhealthy
+7029,China,Liaocheng,184,Unhealthy,7,Good,147,Unhealthy for Sensitive Groups,18,Good,184,Unhealthy
+7038,India,Madhubani,172,Unhealthy,3,Good,121,Unhealthy for Sensitive Groups,1,Good,172,Unhealthy
+7041,Kenya,Makueni,159,Unhealthy,6,Good,12,Good,3,Good,159,Unhealthy
+7045,India,Mandla,156,Unhealthy,1,Good,35,Good,0,Good,156,Unhealthy
+7048,India,Manihari,188,Unhealthy,3,Good,153,Unhealthy,1,Good,188,Unhealthy
+7055,India,Khatra,184,Unhealthy,1,Good,82,Moderate,1,Good,184,Unhealthy
+7071,India,Kot Putli,323,Hazardous,1,Good,39,Good,0,Good,298,Very Unhealthy
+7091,India,Jambusar,153,Unhealthy,0,Good,31,Good,0,Good,153,Unhealthy
+7092,India,Jha Jha,184,Unhealthy,1,Good,87,Moderate,1,Good,184,Unhealthy
+7094,China,Jiaozuo,169,Unhealthy,5,Good,169,Unhealthy,11,Good,154,Unhealthy
+7109,India,Kanke,165,Unhealthy,1,Good,47,Good,0,Good,165,Unhealthy
+7111,India,Kasganj,500,Hazardous,1,Good,61,Moderate,3,Good,476,Hazardous
+7115,India,Kendrapara,165,Unhealthy,2,Good,45,Good,2,Good,165,Unhealthy
+7117,India,Khagaria,193,Unhealthy,4,Good,172,Unhealthy,1,Good,193,Unhealthy
+7133,India,Rohtak,500,Hazardous,1,Good,41,Good,1,Good,467,Hazardous
+7144,India,Porsa,189,Unhealthy,1,Good,46,Good,0,Good,189,Unhealthy
+7153,Venezuela (Bolivarian Republic of),Puerto Cabello,155,Unhealthy,4,Good,12,Good,11,Good,155,Unhealthy
+7156,India,Pujali,175,Unhealthy,3,Good,104,Unhealthy for Sensitive Groups,3,Good,175,Unhealthy
+7158,China,Qinnan,171,Unhealthy,3,Good,171,Unhealthy,3,Good,142,Unhealthy for Sensitive Groups
+7160,India,Radhanpur,216,Very Unhealthy,0,Good,31,Good,0,Good,208,Very Unhealthy
+7209,India,Bayana,211,Very Unhealthy,1,Good,64,Moderate,0,Good,211,Very Unhealthy
+7216,China,Zhuozhou,162,Unhealthy,5,Good,19,Good,33,Good,162,Unhealthy
+7245,Guinea,Koundara,153,Unhealthy,1,Good,20,Good,0,Good,153,Unhealthy
+7263,India,Karanja,152,Unhealthy,1,Good,30,Good,0,Good,152,Unhealthy
+7271,Pakistan,Kharan,154,Unhealthy,1,Good,46,Good,0,Good,154,Unhealthy
+7332,India,Shujalpur,192,Unhealthy,1,Good,37,Good,0,Good,192,Unhealthy
+7341,Syrian Arab Republic,Darayya,166,Unhealthy,1,Good,58,Moderate,1,Good,166,Unhealthy
+7346,India,Deshnok,443,Hazardous,1,Good,39,Good,0,Good,320,Hazardous
+7354,Pakistan,Dunga Bunga,162,Unhealthy,3,Good,162,Unhealthy,0,Good,157,Unhealthy
+7357,Uzbekistan,Dustlik,169,Unhealthy,1,Good,47,Good,0,Good,169,Unhealthy
+7362,China,Linxi,157,Unhealthy,3,Good,157,Unhealthy,3,Good,125,Unhealthy for Sensitive Groups
+7379,India,Mahudha,164,Unhealthy,1,Good,38,Good,0,Good,164,Unhealthy
+7394,India,Memari,160,Unhealthy,4,Good,147,Unhealthy for Sensitive Groups,3,Good,160,Unhealthy
+7409,Pakistan,Naudero,184,Unhealthy,1,Good,97,Moderate,1,Good,184,Unhealthy
+7410,China,Neijiang,183,Unhealthy,9,Good,26,Good,31,Good,183,Unhealthy
+7425,Brazil,Nova Iguacu,164,Unhealthy,5,Good,1,Good,21,Good,164,Unhealthy
+7436,Libya,Mizdah,155,Unhealthy,1,Good,31,Good,0,Good,155,Unhealthy
+7437,Brazil,Moji Das Cruzes,170,Unhealthy,7,Good,0,Good,21,Good,170,Unhealthy
+7458,India,Guskhara,160,Unhealthy,5,Good,33,Good,12,Good,160,Unhealthy
+7463,India,Harduaganj,170,Unhealthy,5,Good,48,Good,17,Good,170,Unhealthy
+7464,Pakistan,Harnoli,174,Unhealthy,4,Good,52,Moderate,5,Good,174,Unhealthy
+7465,India,Harsud,193,Unhealthy,1,Good,39,Good,1,Good,193,Unhealthy
+7474,India,Hindoria,163,Unhealthy,3,Good,72,Moderate,2,Good,163,Unhealthy
+7475,India,Hingoli,158,Unhealthy,1,Good,31,Good,3,Good,158,Unhealthy
+7483,China,Hsinying,167,Unhealthy,6,Good,2,Good,39,Good,167,Unhealthy
+7488,India,Hyderabad,201,Very Unhealthy,8,Good,11,Good,19,Good,201,Very Unhealthy
+7498,India,Itimadpur,181,Unhealthy,6,Good,38,Good,14,Good,181,Unhealthy
+7504,India,Jammu,158,Unhealthy,4,Good,53,Moderate,4,Good,158,Unhealthy
+7506,Indonesia,Jaten,168,Unhealthy,6,Good,8,Good,18,Good,168,Unhealthy
+7507,Pakistan,Jatoi,186,Unhealthy,2,Good,47,Good,3,Good,186,Unhealthy
+7515,India,Kalyan,180,Unhealthy,7,Good,7,Good,16,Good,180,Unhealthy
+7516,India,Kamareddi,176,Unhealthy,2,Good,42,Good,3,Good,176,Unhealthy
+7524,India,Karanpura,172,Unhealthy,4,Good,67,Moderate,7,Good,172,Unhealthy
+7525,India,Kashipur,159,Unhealthy,4,Good,19,Good,12,Good,159,Unhealthy
+7526,Pakistan,Kasur,173,Unhealthy,4,Good,76,Moderate,8,Good,173,Unhealthy
+7559,India,Alipur,174,Unhealthy,5,Good,167,Unhealthy,4,Good,174,Unhealthy
+7560,Pakistan,Shahdadkot,158,Unhealthy,1,Good,57,Moderate,1,Good,158,Unhealthy
+7571,China,Shanting,170,Unhealthy,4,Good,170,Unhealthy,5,Good,165,Unhealthy
+7573,South Africa,Orkney,182,Unhealthy,10,Good,16,Good,14,Good,182,Unhealthy
+7626,India,Gobardanga,177,Unhealthy,6,Good,89,Moderate,7,Good,177,Unhealthy
+7628,India,Gopalganj,173,Unhealthy,4,Good,154,Unhealthy,1,Good,173,Unhealthy
+7649,Mexico,Ixtapaluca,321,Hazardous,5,Good,6,Good,21,Good,321,Hazardous
+7652,China,Jiangkou,180,Unhealthy,3,Good,180,Unhealthy,3,Good,94,Moderate
+7659,India,Kailaras,227,Very Unhealthy,1,Good,44,Good,0,Good,227,Very Unhealthy
+7661,Pakistan,Kamalia,192,Unhealthy,2,Good,137,Unhealthy for Sensitive Groups,1,Good,192,Unhealthy
+7662,Pakistan,Kambar,173,Unhealthy,1,Good,61,Moderate,2,Good,173,Unhealthy
+7733,India,Gandhidham,166,Unhealthy,0,Good,32,Good,0,Good,166,Unhealthy
+7737,India,Garui,198,Unhealthy,3,Good,91,Moderate,3,Good,198,Unhealthy
+7747,Mexico,Cuautepec,160,Unhealthy,2,Good,16,Good,5,Good,160,Unhealthy
+7753,India,Dubrajpur,197,Unhealthy,2,Good,107,Unhealthy for Sensitive Groups,1,Good,197,Unhealthy
+7757,India,Dungarpur,167,Unhealthy,1,Good,39,Good,0,Good,167,Unhealthy
+7758,India,Durg,157,Unhealthy,1,Good,46,Good,0,Good,157,Unhealthy
+7765,Nigeria,Eruwa,169,Unhealthy,9,Good,5,Good,7,Good,169,Unhealthy
+7766,India,Etah,500,Hazardous,1,Good,50,Good,3,Good,437,Hazardous
+7774,India,Gurh,204,Very Unhealthy,1,Good,42,Good,1,Good,204,Very Unhealthy
+7778,India,Harij,182,Unhealthy,0,Good,32,Good,0,Good,182,Unhealthy
+7797,Oman,Ibra,153,Unhealthy,1,Good,97,Moderate,0,Good,153,Unhealthy
+7800,China,Daliang,166,Unhealthy,6,Good,20,Good,22,Good,166,Unhealthy
+7806,India,Devgarh,176,Unhealthy,0,Good,30,Good,0,Good,176,Unhealthy
+7813,China,Chichi,189,Unhealthy,3,Good,189,Unhealthy,7,Good,151,Unhealthy
+7817,Indonesia,Citeureup,172,Unhealthy,4,Good,172,Unhealthy,2,Good,148,Unhealthy for Sensitive Groups
+7823,India,Visakhapatnam,155,Unhealthy,2,Good,78,Moderate,2,Good,155,Unhealthy
+7825,India,Wadhwan,158,Unhealthy,1,Good,38,Good,0,Good,158,Unhealthy
+7837,China,Xinpu,171,Unhealthy,4,Good,171,Unhealthy,3,Good,141,Unhealthy for Sensitive Groups
+7838,China,Xinye,195,Unhealthy,3,Good,195,Unhealthy,2,Good,139,Unhealthy for Sensitive Groups
+7852,China,Ziyang,184,Unhealthy,9,Good,39,Good,24,Good,184,Unhealthy
+7881,India,Mahishadal,167,Unhealthy,2,Good,99,Moderate,2,Good,167,Unhealthy
+7886,Pakistan,Mangla,244,Very Unhealthy,2,Good,120,Unhealthy for Sensitive Groups,1,Good,244,Very Unhealthy
+7892,Finland,Kirkkonummi,185,Unhealthy,7,Good,24,Good,13,Good,185,Unhealthy
+7895,India,Koch Bihar,158,Unhealthy,2,Good,68,Moderate,1,Good,158,Unhealthy
+7908,India,Kasimbazar,181,Unhealthy,2,Good,119,Unhealthy for Sensitive Groups,2,Good,181,Unhealthy
+7911,Pakistan,Jauharabad,224,Very Unhealthy,2,Good,141,Unhealthy for Sensitive Groups,1,Good,224,Very Unhealthy
+7913,Pakistan,Jhol,172,Unhealthy,1,Good,43,Good,0,Good,172,Unhealthy
+7914,China,Jiehu,156,Unhealthy,3,Good,156,Unhealthy,2,Good,118,Unhealthy for Sensitive Groups
+7916,India,Jobat,154,Unhealthy,1,Good,35,Good,0,Good,154,Unhealthy
+7964,Dominican Republic,Villa Bisono,160,Unhealthy,4,Good,7,Good,14,Good,160,Unhealthy
+7975,India,Wardha,164,Unhealthy,0,Good,29,Good,0,Good,164,Unhealthy
+8023,India,Udaipura,167,Unhealthy,1,Good,38,Good,0,Good,167,Unhealthy
+8033,South Africa,Vereeniging,274,Very Unhealthy,16,Good,8,Good,19,Good,274,Very Unhealthy
+8063,India,Hoshangabad,152,Unhealthy,1,Good,38,Good,0,Good,152,Unhealthy
+8074,Pakistan,Hafizabad,248,Very Unhealthy,2,Good,149,Unhealthy for Sensitive Groups,1,Good,248,Very Unhealthy
+8080,Pakistan,Hasan Abdal,472,Hazardous,1,Good,46,Good,0,Good,374,Hazardous
+8082,India,Hatta,155,Unhealthy,1,Good,43,Good,0,Good,155,Unhealthy
+8086,Finland,Helsinki,162,Unhealthy,5,Good,17,Good,15,Good,162,Unhealthy
+8092,India,Isagarh,158,Unhealthy,1,Good,43,Good,0,Good,158,Unhealthy
+8099,India,Jagadhri,500,Hazardous,1,Good,74,Moderate,1,Good,470,Hazardous
+8101,India,Gopamau,500,Hazardous,1,Good,52,Moderate,1,Good,378,Hazardous
+8126,Aruba,Oranjestad,163,Unhealthy,0,Good,23,Good,0,Good,163,Unhealthy
+8140,South Africa,Pretoria,329,Hazardous,20,Good,2,Good,18,Good,329,Hazardous
+8146,Pakistan,Raiwind,186,Unhealthy,3,Good,179,Unhealthy,2,Good,186,Unhealthy
+8152,India,Rehli,157,Unhealthy,1,Good,37,Good,0,Good,157,Unhealthy
+8179,India,Sandila,472,Hazardous,1,Good,64,Moderate,2,Good,380,Hazardous
+8191,India,Sarangarh,161,Unhealthy,1,Good,52,Moderate,0,Good,161,Unhealthy
+8193,India,Sherkot,240,Very Unhealthy,6,Good,156,Unhealthy,9,Good,240,Very Unhealthy
+8197,India,Sironj,154,Unhealthy,1,Good,38,Good,0,Good,154,Unhealthy
+8199,India,Sardulgarh,500,Hazardous,1,Good,40,Good,1,Good,500,Hazardous
+8206,Pakistan,Sehwan,162,Unhealthy,1,Good,39,Good,0,Good,162,Unhealthy
+8211,India,Shahdol,175,Unhealthy,1,Good,39,Good,0,Good,175,Unhealthy
+8212,China,Shanghai,156,Unhealthy,4,Good,156,Unhealthy,8,Good,152,Unhealthy
+8225,India,Pawayan,383,Hazardous,3,Good,165,Unhealthy,2,Good,354,Hazardous
+8249,China,Suixi,172,Unhealthy,3,Good,172,Unhealthy,2,Good,84,Moderate
+8250,India,Suket,159,Unhealthy,1,Good,35,Good,0,Good,159,Unhealthy
+8253,Indonesia,Banjaran,195,Unhealthy,10,Good,10,Good,27,Good,195,Unhealthy
+8270,India,Bhainsa,173,Unhealthy,2,Good,29,Good,5,Good,173,Unhealthy
+8273,Guinea-Bissau,Bissora,195,Unhealthy,2,Good,37,Good,1,Good,195,Unhealthy
+8290,Gambia,Brikama,162,Unhealthy,1,Good,33,Good,0,Good,162,Unhealthy
+8316,China,Cholan,168,Unhealthy,5,Good,0,Good,61,Moderate,168,Unhealthy
+8328,China,Xiaolingwei,198,Unhealthy,12,Good,1,Good,52,Moderate,198,Unhealthy
+8334,China,Yuanli,153,Unhealthy,4,Good,14,Good,48,Good,153,Unhealthy
+8339,China,Zhangjiakou,160,Unhealthy,2,Good,18,Good,22,Good,160,Unhealthy
+8347,India,Amravati,157,Unhealthy,1,Good,32,Good,0,Good,157,Unhealthy
+8349,China,Anju,164,Unhealthy,7,Good,39,Good,22,Good,164,Unhealthy
+8371,India,Bally,170,Unhealthy,5,Good,101,Unhealthy for Sensitive Groups,6,Good,170,Unhealthy
+8401,Brazil,Carapicuiba,172,Unhealthy,6,Good,0,Good,22,Good,172,Unhealthy
+8408,India,Chandrapur,156,Unhealthy,1,Good,23,Good,4,Good,156,Unhealthy
+8423,India,Babai,163,Unhealthy,1,Good,43,Good,0,Good,163,Unhealthy
+8431,India,Charthawal,159,Unhealthy,3,Good,122,Unhealthy for Sensitive Groups,1,Good,159,Unhealthy
+8438,Pakistan,Chuhar Kana,175,Unhealthy,3,Good,175,Unhealthy,1,Good,161,Unhealthy
+8441,Indonesia,Ciawi,195,Unhealthy,4,Good,195,Unhealthy,3,Good,155,Unhealthy
+8442,Indonesia,Cilegon,182,Unhealthy,3,Good,182,Unhealthy,3,Good,145,Unhealthy for Sensitive Groups
+8455,Gambia,Sukuta,154,Unhealthy,1,Good,21,Good,1,Good,154,Unhealthy
+8465,India,Achhnera,180,Unhealthy,6,Good,45,Good,11,Good,180,Unhealthy
+8467,India,Akola,154,Unhealthy,1,Good,31,Good,3,Good,154,Unhealthy
+8468,India,Akot,157,Unhealthy,2,Good,22,Good,4,Good,157,Unhealthy
+8469,Kazakhstan,Aktau,152,Unhealthy,1,Good,32,Good,0,Good,152,Unhealthy
+8489,Mauritania,Atar,169,Unhealthy,1,Good,32,Good,0,Good,169,Unhealthy
+8501,India,Mau Aima,180,Unhealthy,4,Good,93,Moderate,7,Good,180,Unhealthy
+8529,India,Mundwa,212,Very Unhealthy,1,Good,29,Good,2,Good,212,Very Unhealthy
+8547,Mexico,Tepeapulco,384,Hazardous,3,Good,25,Good,6,Good,384,Hazardous
+8562,India,Tumsar,172,Unhealthy,3,Good,44,Good,7,Good,172,Unhealthy
+8563,Pakistan,Ubauro,166,Unhealthy,2,Good,13,Good,15,Good,166,Unhealthy
+8565,India,Udhampur,154,Unhealthy,3,Good,46,Good,2,Good,154,Unhealthy
+8583,Senegal,Velingara,182,Unhealthy,1,Good,34,Good,0,Good,182,Unhealthy
+8600,Pakistan,Tando Jam,162,Unhealthy,1,Good,24,Good,2,Good,162,Unhealthy
+8606,Pakistan,Vihari,224,Very Unhealthy,5,Good,18,Good,19,Good,224,Very Unhealthy
+8624,Indonesia,Godean,162,Unhealthy,6,Good,14,Good,17,Good,162,Unhealthy
+8638,China,Guangshui,167,Unhealthy,8,Good,32,Good,23,Good,167,Unhealthy
+8641,China,Gucheng,162,Unhealthy,7,Good,25,Good,22,Good,162,Unhealthy
+8642,China,Guiren,156,Unhealthy,6,Good,45,Good,18,Good,156,Unhealthy
+8643,Pakistan,Gujranwala,175,Unhealthy,6,Good,35,Good,15,Good,175,Unhealthy
+8645,India,Gursarai,168,Unhealthy,3,Good,104,Unhealthy for Sensitive Groups,4,Good,168,Unhealthy
+8648,Viet Nam,Hai Phong,160,Unhealthy,9,Good,17,Good,15,Good,160,Unhealthy
+8651,India,Hapur,179,Unhealthy,7,Good,37,Good,17,Good,179,Unhealthy
+8659,Viet Nam,Hoa Binh,163,Unhealthy,9,Good,2,Good,19,Good,163,Unhealthy
+8664,China,Huangzhai,161,Unhealthy,7,Good,56,Moderate,22,Good,161,Unhealthy
+8674,Iran (Islamic Republic of),Iranshahr,157,Unhealthy,1,Good,42,Good,0,Good,157,Unhealthy
+8678,India,Jahazpur,170,Unhealthy,2,Good,21,Good,7,Good,170,Unhealthy
+8686,India,Jind,167,Unhealthy,4,Good,106,Unhealthy for Sensitive Groups,8,Good,167,Unhealthy
+8692,Indonesia,Kadungora,212,Very Unhealthy,12,Good,2,Good,32,Good,212,Very Unhealthy
+8706,India,Kawardha,157,Unhealthy,3,Good,43,Good,5,Good,157,Unhealthy
+8710,Indonesia,Ketanggungan,161,Unhealthy,7,Good,17,Good,16,Good,161,Unhealthy
+8720,India,Bhatpara,174,Unhealthy,6,Good,117,Unhealthy for Sensitive Groups,6,Good,174,Unhealthy
+8721,India,Bhindar,194,Unhealthy,1,Good,34,Good,0,Good,194,Unhealthy
+8723,Tunisia,Bin Qirdan,167,Unhealthy,1,Good,40,Good,2,Good,167,Unhealthy
+8766,Mexico,Chignahuapan,173,Unhealthy,2,Good,7,Good,8,Good,173,Unhealthy
+8782,India,Bakewar,172,Unhealthy,4,Good,172,Unhealthy,1,Good,171,Unhealthy
+8791,India,Bhanpura,171,Unhealthy,1,Good,37,Good,0,Good,171,Unhealthy
+8792,China,Bianzhuang,193,Unhealthy,4,Good,193,Unhealthy,2,Good,164,Unhealthy
+8795,India,Pipraich,274,Very Unhealthy,4,Good,168,Unhealthy,1,Good,274,Very Unhealthy
+8817,Mexico,Yecapixtla,154,Unhealthy,4,Good,0,Good,14,Good,154,Unhealthy
+8832,India,Niwari,500,Hazardous,1,Good,46,Good,2,Good,492,Hazardous
+8835,Chile,Lampa,358,Hazardous,28,Good,0,Good,36,Good,358,Hazardous
+8850,Democratic Republic of the Congo,Lodja,165,Unhealthy,10,Good,21,Good,4,Good,165,Unhealthy
+8855,China,Luocheng,175,Unhealthy,9,Good,83,Moderate,25,Good,175,Unhealthy
+8857,India,Jaypur,157,Unhealthy,1,Good,44,Good,0,Good,157,Unhealthy
+8859,India,Jhalida,182,Unhealthy,1,Good,70,Moderate,1,Good,182,Unhealthy
+8870,India,Kakori,435,Hazardous,1,Good,49,Good,1,Good,329,Hazardous
+8871,Pakistan,Kalaswala,221,Very Unhealthy,3,Good,183,Unhealthy,1,Good,221,Very Unhealthy
+8882,Chile,San Felipe,176,Unhealthy,14,Good,2,Good,20,Good,176,Unhealthy
+8885,India,Sankheda,155,Unhealthy,1,Good,33,Good,0,Good,155,Unhealthy
+8890,India,Sarkhej,159,Unhealthy,1,Good,40,Good,0,Good,159,Unhealthy
+8901,Turkmenistan,Seydi,163,Unhealthy,1,Good,42,Good,0,Good,163,Unhealthy
+8908,Dominican Republic,Sabana Grande De Boya,152,Unhealthy,3,Good,5,Good,16,Good,152,Unhealthy
+8909,India,Sailana,156,Unhealthy,1,Good,41,Good,0,Good,156,Unhealthy
+8911,India,Salimpur,276,Very Unhealthy,4,Good,161,Unhealthy,2,Good,276,Very Unhealthy
+8918,India,Sinor,153,Unhealthy,0,Good,31,Good,0,Good,153,Unhealthy
+8924,India,Sorada,160,Unhealthy,1,Good,47,Good,0,Good,160,Unhealthy
+8937,India,Koath,362,Hazardous,1,Good,74,Moderate,1,Good,286,Very Unhealthy
+8950,India,Mau,180,Unhealthy,1,Good,47,Good,0,Good,180,Unhealthy
+8953,Chile,Melipilla,161,Unhealthy,7,Good,0,Good,17,Good,161,Unhealthy
+8954,China,Mengcheng,172,Unhealthy,3,Good,172,Unhealthy,3,Good,127,Unhealthy for Sensitive Groups
+8961,Pakistan,Haripur,157,Unhealthy,2,Good,157,Unhealthy,1,Good,121,Unhealthy for Sensitive Groups
+8964,India,Hastinapur,500,Hazardous,1,Good,50,Good,1,Good,500,Hazardous
+8969,Nepal,Hetauda,207,Very Unhealthy,2,Good,87,Moderate,0,Good,207,Very Unhealthy
+8975,India,Parasia,153,Unhealthy,0,Good,37,Good,0,Good,153,Unhealthy
+8985,Senegal,Khombole,157,Unhealthy,2,Good,26,Good,3,Good,157,Unhealthy
+9050,South Africa,Temba,161,Unhealthy,15,Good,20,Good,7,Good,161,Unhealthy
+9070,Pakistan,Swabi,197,Unhealthy,3,Good,197,Unhealthy,1,Good,130,Unhealthy for Sensitive Groups
+9084,China,Huaiyuan,184,Unhealthy,4,Good,184,Unhealthy,4,Good,142,Unhealthy for Sensitive Groups
+9086,Mexico,Huejotzingo,156,Unhealthy,2,Good,4,Good,12,Good,156,Unhealthy
+9087,India,Ichchapuram,155,Unhealthy,2,Good,80,Moderate,1,Good,155,Unhealthy
+9097,China,Gaogou,202,Very Unhealthy,5,Good,202,Very Unhealthy,3,Good,156,Unhealthy
+9100,India,Giddarbaha,500,Hazardous,1,Good,45,Good,0,Good,416,Hazardous
+9107,India,Faridnagar,500,Hazardous,1,Good,45,Good,2,Good,496,Hazardous
+9133,India,Itarsi,152,Unhealthy,1,Good,38,Good,0,Good,152,Unhealthy
+9140,India,Jais,353,Hazardous,1,Good,48,Good,1,Good,282,Very Unhealthy
+9162,Pakistan,Lakki Marwat,181,Unhealthy,3,Good,104,Unhealthy for Sensitive Groups,2,Good,181,Unhealthy
+9177,China,Linchuan,159,Unhealthy,6,Good,7,Good,22,Good,159,Unhealthy
+9182,Chile,Llaillay,207,Very Unhealthy,18,Good,2,Good,28,Good,207,Very Unhealthy
+9186,India,Lonar,154,Unhealthy,1,Good,26,Good,3,Good,154,Unhealthy
+9187,Chile,Los Andes,167,Unhealthy,9,Good,7,Good,14,Good,167,Unhealthy
+9196,India,Baheri,162,Unhealthy,3,Good,162,Unhealthy,1,Good,160,Unhealthy
+9197,India,Bahua,196,Unhealthy,2,Good,126,Unhealthy for Sensitive Groups,1,Good,196,Unhealthy
+9202,India,Baranagar,171,Unhealthy,5,Good,101,Unhealthy for Sensitive Groups,6,Good,171,Unhealthy
+9205,India,Baruni,168,Unhealthy,5,Good,168,Unhealthy,1,Good,153,Unhealthy
+9206,India,Basi,235,Very Unhealthy,1,Good,49,Good,0,Good,235,Very Unhealthy
+9213,Mexico,Atlazalpan,185,Unhealthy,4,Good,2,Good,21,Good,185,Unhealthy
+9227,India,Amet,193,Unhealthy,1,Good,35,Good,0,Good,193,Unhealthy
+9228,India,Amroli,152,Unhealthy,0,Good,25,Good,0,Good,152,Unhealthy
+9230,India,Anjad,163,Unhealthy,1,Good,33,Good,0,Good,163,Unhealthy
+9232,India,Anupshahr,177,Unhealthy,4,Good,173,Unhealthy,1,Good,177,Unhealthy
+9251,India,Jaisalmer,355,Hazardous,1,Good,44,Good,0,Good,274,Very Unhealthy
+9256,China,Jiazi,184,Unhealthy,3,Good,184,Unhealthy,2,Good,87,Moderate
+9257,China,Jieshou,192,Unhealthy,4,Good,192,Unhealthy,4,Good,125,Unhealthy for Sensitive Groups
+9268,Democratic Republic of the Congo,Gandajika,277,Very Unhealthy,14,Good,47,Good,9,Good,277,Very Unhealthy
+9269,India,Gandhinagar,167,Unhealthy,1,Good,33,Good,1,Good,167,Unhealthy
+9271,India,Gangoh,166,Unhealthy,3,Good,166,Unhealthy,1,Good,152,Unhealthy
+9276,Pakistan,Ghotki,194,Unhealthy,1,Good,59,Moderate,1,Good,194,Unhealthy
+9277,India,Ghugus,165,Unhealthy,1,Good,28,Good,3,Good,165,Unhealthy
+9283,China,Guye,157,Unhealthy,3,Good,157,Unhealthy,3,Good,125,Unhealthy for Sensitive Groups
+9286,Pakistan,Hangu,159,Unhealthy,2,Good,64,Moderate,0,Good,159,Unhealthy
+9326,China,Shache,244,Very Unhealthy,1,Good,41,Good,0,Good,244,Very Unhealthy
+9327,India,Shahi,167,Unhealthy,4,Good,167,Unhealthy,1,Good,164,Unhealthy
+9332,India,Sirohi,193,Unhealthy,1,Good,33,Good,0,Good,193,Unhealthy
+9349,India,Sarai Mir,154,Unhealthy,3,Good,154,Unhealthy,1,Good,150,Unhealthy
+9355,India,Seondha,222,Very Unhealthy,1,Good,62,Moderate,0,Good,222,Very Unhealthy
+9363,India,Ghaziabad,227,Very Unhealthy,4,Good,151,Unhealthy,4,Good,227,Very Unhealthy
+9371,China,Hede,203,Very Unhealthy,5,Good,203,Very Unhealthy,4,Good,152,Unhealthy
+9386,Pakistan,Ormara,165,Unhealthy,1,Good,32,Good,0,Good,165,Unhealthy
+9398,India,Partapur,155,Unhealthy,1,Good,41,Good,0,Good,155,Unhealthy
+9421,India,Pukhrayan,234,Very Unhealthy,1,Good,70,Moderate,1,Good,234,Very Unhealthy
+9430,India,Raja Sansi,154,Unhealthy,3,Good,154,Unhealthy,1,Good,147,Unhealthy for Sensitive Groups
+9437,Bangladesh,Gafargaon,177,Unhealthy,3,Good,48,Good,3,Good,177,Unhealthy
+9442,India,Gandai,156,Unhealthy,1,Good,44,Good,0,Good,156,Unhealthy
+9446,Indonesia,Gempol,158,Unhealthy,2,Good,73,Moderate,1,Good,158,Unhealthy
+9447,India,Ghiror,377,Hazardous,1,Good,47,Good,1,Good,331,Hazardous
+9456,India,Habra,208,Very Unhealthy,4,Good,94,Moderate,4,Good,208,Very Unhealthy
+9458,India,Harrai,155,Unhealthy,1,Good,34,Good,0,Good,155,Unhealthy
+9460,Pakistan,Hazro,200,Unhealthy,3,Good,200,Unhealthy,2,Good,104,Unhealthy for Sensitive Groups
+9464,India,Hilsa,189,Unhealthy,2,Good,96,Moderate,1,Good,189,Unhealthy
+9467,China,Huzhou,154,Unhealthy,5,Good,154,Unhealthy,8,Good,144,Unhealthy for Sensitive Groups
+9468,Nigeria,Ihiala,158,Unhealthy,9,Good,17,Good,8,Good,158,Unhealthy
+9473,Philippines,Ipil,157,Unhealthy,1,Good,15,Good,0,Good,157,Unhealthy
+9475,Bangladesh,Ishurdi,199,Unhealthy,4,Good,100,Unhealthy for Sensitive Groups,3,Good,199,Unhealthy
+9481,Brazil,Itu,156,Unhealthy,4,Good,3,Good,11,Good,156,Unhealthy
+9483,India,Jagraon,175,Unhealthy,4,Good,114,Unhealthy for Sensitive Groups,9,Good,175,Unhealthy
+9487,Pakistan,Jhang,208,Very Unhealthy,2,Good,156,Unhealthy,1,Good,208,Very Unhealthy
+9488,China,Jiayuguan,174,Unhealthy,1,Good,49,Good,0,Good,174,Unhealthy
+9489,Brazil,Juatuba,152,Unhealthy,6,Good,0,Good,7,Good,152,Unhealthy
+9494,Bangladesh,Kaliganj,206,Very Unhealthy,4,Good,83,Moderate,3,Good,206,Very Unhealthy
+9498,India,Dumraon,219,Very Unhealthy,1,Good,93,Moderate,1,Good,219,Very Unhealthy
+9552,India,Nakur,164,Unhealthy,3,Good,164,Unhealthy,1,Good,150,Unhealthy
+9560,India,Korba,186,Unhealthy,1,Good,94,Moderate,2,Good,186,Unhealthy
+9562,Pakistan,Kot Samaba,210,Very Unhealthy,1,Good,54,Moderate,1,Good,210,Very Unhealthy
+9571,India,Lachhmangarh,500,Hazardous,1,Good,36,Good,0,Good,400,Hazardous
+9583,Chile,Limache,164,Unhealthy,7,Good,3,Good,19,Good,164,Unhealthy
+9590,India,Loni,249,Very Unhealthy,3,Good,141,Unhealthy for Sensitive Groups,4,Good,249,Very Unhealthy
+9598,India,Makrana,202,Very Unhealthy,1,Good,35,Good,0,Good,202,Very Unhealthy
+9602,India,Manavadar,161,Unhealthy,0,Good,25,Good,0,Good,161,Unhealthy
+9603,India,Mandalgarh,164,Unhealthy,1,Good,40,Good,0,Good,164,Unhealthy
+9606,India,Manoharpur,177,Unhealthy,1,Good,71,Moderate,0,Good,177,Unhealthy
+9617,Nigeria,Nnewi,154,Unhealthy,7,Good,16,Good,7,Good,154,Unhealthy
+9628,Mexico,Ocoyoacac,160,Unhealthy,4,Good,8,Good,15,Good,160,Unhealthy
+9634,China,Jinan,210,Very Unhealthy,7,Good,210,Very Unhealthy,8,Good,168,Unhealthy
+9639,India,Jodiya,161,Unhealthy,0,Good,28,Good,0,Good,161,Unhealthy
+9646,India,Kalanwali,405,Hazardous,1,Good,91,Moderate,1,Good,353,Hazardous
+9654,India,Padampur,500,Hazardous,1,Good,43,Good,0,Good,441,Hazardous
+9670,India,Raniganj,192,Unhealthy,2,Good,100,Unhealthy for Sensitive Groups,1,Good,192,Unhealthy
+9676,India,Redhakhol,162,Unhealthy,1,Good,44,Good,0,Good,162,Unhealthy
+9685,South Africa,Rustenburg,248,Very Unhealthy,17,Good,1,Good,15,Good,248,Very Unhealthy
+9690,India,Saharsa,176,Unhealthy,4,Good,109,Unhealthy for Sensitive Groups,2,Good,176,Unhealthy
+9697,Pakistan,Sambrial,175,Unhealthy,3,Good,175,Unhealthy,1,Good,153,Unhealthy
+9711,India,Saraipali,160,Unhealthy,1,Good,43,Good,1,Good,160,Unhealthy
+9733,India,Polasara,156,Unhealthy,1,Good,65,Moderate,0,Good,156,Unhealthy
+9801,India,Nokha,256,Very Unhealthy,1,Good,33,Good,2,Good,256,Very Unhealthy
+9826,India,Pasan,156,Unhealthy,2,Good,53,Moderate,6,Good,156,Unhealthy
+9828,India,Pendra,156,Unhealthy,2,Good,75,Moderate,5,Good,156,Unhealthy
+9841,India,Madhoganj,162,Unhealthy,4,Good,44,Good,8,Good,162,Unhealthy
+9843,India,Majholi,164,Unhealthy,4,Good,41,Good,4,Good,164,Unhealthy
+9845,Philippines,Malanday,165,Unhealthy,5,Good,19,Good,12,Good,165,Unhealthy
+9850,India,Balod,156,Unhealthy,2,Good,46,Good,1,Good,156,Unhealthy
+9853,India,Banposh,167,Unhealthy,3,Good,49,Good,3,Good,167,Unhealthy
+9863,India,Beohari,158,Unhealthy,2,Good,58,Moderate,10,Good,158,Unhealthy
+9890,Mexico,Capulhuac,175,Unhealthy,4,Good,28,Good,9,Good,175,Unhealthy
+9906,Mexico,Cholula,176,Unhealthy,1,Good,36,Good,2,Good,176,Unhealthy
+9907,Pakistan,Zafarwal,161,Unhealthy,5,Good,41,Good,9,Good,161,Unhealthy
+9914,China,Zhaotong,156,Unhealthy,6,Good,1,Good,18,Good,156,Unhealthy
+9915,Pakistan,Zhob,177,Unhealthy,2,Good,56,Moderate,0,Good,177,Unhealthy
+9916,China,Zhongxing,162,Unhealthy,7,Good,46,Good,19,Good,162,Unhealthy
+9921,China,Yiyang,170,Unhealthy,9,Good,18,Good,31,Good,170,Unhealthy
+9922,China,Yizheng,199,Unhealthy,12,Good,0,Good,59,Moderate,199,Unhealthy
+9924,Tajikistan,Yovon,153,Unhealthy,1,Good,25,Good,1,Good,153,Unhealthy
+9932,India,Deoband,162,Unhealthy,3,Good,162,Unhealthy,1,Good,152,Unhealthy
+9933,India,Deogarh,157,Unhealthy,2,Good,65,Moderate,1,Good,157,Unhealthy
+9934,India,Depalpur,169,Unhealthy,1,Good,38,Good,0,Good,169,Unhealthy
+9944,India,Aklera,167,Unhealthy,1,Good,41,Good,0,Good,167,Unhealthy
+9954,China,Aojiang,171,Unhealthy,4,Good,171,Unhealthy,3,Good,113,Unhealthy for Sensitive Groups
+9972,India,Badnawar,155,Unhealthy,1,Good,37,Good,0,Good,155,Unhealthy
+9974,India,Bangarmau,180,Unhealthy,3,Good,148,Unhealthy for Sensitive Groups,1,Good,180,Unhealthy
+9975,India,Bantva,162,Unhealthy,0,Good,25,Good,0,Good,162,Unhealthy
+9979,India,Bedi,161,Unhealthy,0,Good,28,Good,0,Good,161,Unhealthy
+9988,India,Bhopal,162,Unhealthy,1,Good,39,Good,0,Good,162,Unhealthy
+9998,India,Buguda,166,Unhealthy,1,Good,40,Good,0,Good,166,Unhealthy
+10000,Pakistan,Burewala,311,Hazardous,2,Good,109,Unhealthy for Sensitive Groups,1,Good,311,Hazardous
+10002,Iran (Islamic Republic of),Bushehr,154,Unhealthy,1,Good,64,Moderate,0,Good,154,Unhealthy
+10011,India,Chanasma,170,Unhealthy,0,Good,33,Good,0,Good,170,Unhealthy
+10035,Iran (Islamic Republic of),Zarand,152,Unhealthy,0,Good,42,Good,0,Good,152,Unhealthy
+10072,China,Tongzhou,198,Unhealthy,5,Good,198,Unhealthy,6,Good,157,Unhealthy
+10087,India,Vadnagar,165,Unhealthy,1,Good,36,Good,0,Good,165,Unhealthy
+10102,Chile,Buin,245,Very Unhealthy,20,Good,0,Good,27,Good,245,Very Unhealthy
+10105,India,Burla,163,Unhealthy,1,Good,63,Moderate,0,Good,163,Unhealthy
+10106,China,Caidian,170,Unhealthy,4,Good,170,Unhealthy,6,Good,145,Unhealthy for Sensitive Groups
+10120,India,Chakradharpur,167,Unhealthy,1,Good,93,Moderate,0,Good,167,Unhealthy
+10143,Pakistan,Amangarh,198,Unhealthy,3,Good,198,Unhealthy,2,Good,98,Moderate
+10147,India,Anjar,172,Unhealthy,0,Good,29,Good,0,Good,172,Unhealthy
+10151,India,Anuppur,158,Unhealthy,1,Good,42,Good,0,Good,158,Unhealthy
+10155,Iran (Islamic Republic of),Bam,178,Unhealthy,1,Good,42,Good,0,Good,178,Unhealthy
+10159,China,Bengbu,174,Unhealthy,4,Good,174,Unhealthy,5,Good,141,Unhealthy for Sensitive Groups
+10163,India,Bhind,193,Unhealthy,1,Good,46,Good,0,Good,193,Unhealthy
+10170,India,Binika,164,Unhealthy,1,Good,66,Moderate,0,Good,164,Unhealthy
+10171,Nepal,Birganj,231,Very Unhealthy,3,Good,147,Unhealthy for Sensitive Groups,1,Good,231,Very Unhealthy
+10178,China,Chizhou,201,Very Unhealthy,5,Good,201,Very Unhealthy,5,Good,159,Unhealthy
+10214,Pakistan,Rajanpur,175,Unhealthy,1,Good,40,Good,3,Good,175,Unhealthy
+10219,India,Shahapur,171,Unhealthy,5,Good,12,Good,13,Good,171,Unhealthy
+10220,Pakistan,Sharqpur,179,Unhealthy,5,Good,74,Moderate,9,Good,179,Unhealthy
+10229,Saudi Arabia,Sabya,170,Unhealthy,4,Good,138,Unhealthy for Sensitive Groups,3,Good,170,Unhealthy
+10234,India,Samalkha,189,Unhealthy,7,Good,29,Good,25,Good,189,Unhealthy
+10251,Pakistan,Sarai Sidhu,186,Unhealthy,5,Good,42,Good,13,Good,186,Unhealthy
+10253,India,Ratlam,157,Unhealthy,1,Good,31,Good,3,Good,157,Unhealthy
+10265,Tajikistan,Dangara,156,Unhealthy,1,Good,19,Good,0,Good,156,Unhealthy
+10272,Indonesia,Delanggu,208,Very Unhealthy,13,Good,3,Good,24,Good,208,Very Unhealthy
+10273,India,Deoria,165,Unhealthy,4,Good,57,Moderate,6,Good,165,Unhealthy
+10274,India,Dholka,153,Unhealthy,2,Good,27,Good,6,Good,153,Unhealthy
+10279,India,Dohrighat,168,Unhealthy,4,Good,65,Moderate,6,Good,168,Unhealthy
+10283,India,Dostpur,167,Unhealthy,4,Good,59,Moderate,7,Good,167,Unhealthy
+10302,India,Faizabad,158,Unhealthy,4,Good,48,Good,7,Good,158,Unhealthy
+10326,Iran (Islamic Republic of),Shushtar,154,Unhealthy,1,Good,60,Moderate,1,Good,154,Unhealthy
+10329,India,Simga,156,Unhealthy,3,Good,40,Good,4,Good,156,Unhealthy
+10377,China,Wuan,185,Unhealthy,4,Good,61,Moderate,11,Good,185,Unhealthy
+10378,China,Wuxi,176,Unhealthy,5,Good,34,Good,23,Good,176,Unhealthy
+10380,India,Yamunanagar,157,Unhealthy,3,Good,134,Unhealthy for Sensitive Groups,1,Good,157,Unhealthy
+10387,India,Dundwaraganj,184,Unhealthy,3,Good,147,Unhealthy for Sensitive Groups,5,Good,184,Unhealthy
+10392,India,Egra,163,Unhealthy,2,Good,87,Moderate,1,Good,163,Unhealthy
+10401,Mexico,Emiliano Zapata,162,Unhealthy,5,Good,0,Good,15,Good,162,Unhealthy
+10417,India,Maur,500,Hazardous,1,Good,62,Moderate,1,Good,433,Hazardous
+10422,Iran (Islamic Republic of),Meybod,167,Unhealthy,1,Good,43,Good,0,Good,167,Unhealthy
+10428,India,Morena,196,Unhealthy,1,Good,43,Good,0,Good,196,Unhealthy
+10435,India,Muzaffarnagar,307,Hazardous,4,Good,199,Unhealthy,4,Good,307,Hazardous
+10437,India,Nagina,196,Unhealthy,4,Good,196,Unhealthy,3,Good,191,Unhealthy
+10439,Bangladesh,Nalchiti,170,Unhealthy,2,Good,35,Good,3,Good,170,Unhealthy
+10444,India,Lakhnau,457,Hazardous,1,Good,67,Moderate,1,Good,370,Hazardous
+10445,India,Lalganj,204,Very Unhealthy,4,Good,173,Unhealthy,2,Good,204,Very Unhealthy
+10454,China,Linshu,159,Unhealthy,3,Good,159,Unhealthy,2,Good,88,Moderate
+10455,China,Liusha,155,Unhealthy,4,Good,89,Moderate,9,Good,155,Unhealthy
+10460,Angola,Luanda,164,Unhealthy,8,Good,7,Good,11,Good,164,Unhealthy
+10468,Uzbekistan,Mangit,172,Unhealthy,1,Good,36,Good,0,Good,172,Unhealthy
+10470,India,Marhaura,212,Very Unhealthy,4,Good,172,Unhealthy,2,Good,212,Very Unhealthy
+10471,India,Kamthi,152,Unhealthy,1,Good,38,Good,0,Good,152,Unhealthy
+10477,Philippines,Katipunan,152,Unhealthy,1,Good,14,Good,0,Good,152,Unhealthy
+10485,India,Khagaul,201,Very Unhealthy,2,Good,116,Unhealthy for Sensitive Groups,1,Good,201,Very Unhealthy
+10486,India,Khandela,373,Hazardous,1,Good,33,Good,0,Good,311,Hazardous
+10488,India,Kharagpur,181,Unhealthy,1,Good,71,Moderate,1,Good,181,Unhealthy
+10489,India,Khardaha,216,Very Unhealthy,5,Good,54,Moderate,7,Good,216,Very Unhealthy
+10490,India,Khilchipur,156,Unhealthy,1,Good,39,Good,0,Good,156,Unhealthy
+10500,India,Kulti,196,Unhealthy,2,Good,70,Moderate,2,Good,196,Unhealthy
+10516,United Republic of Tanzania,Karema,195,Unhealthy,10,Good,25,Good,10,Good,195,Unhealthy
+10522,Pakistan,Larkana,159,Unhealthy,1,Good,48,Good,0,Good,159,Unhealthy
+10524,India,Lawar,158,Unhealthy,3,Good,120,Unhealthy for Sensitive Groups,1,Good,158,Unhealthy
+10544,Pakistan,Lachi,166,Unhealthy,2,Good,103,Unhealthy for Sensitive Groups,0,Good,166,Unhealthy
+10555,India,Konch,166,Unhealthy,4,Good,162,Unhealthy,1,Good,166,Unhealthy
+10560,Venezuela (Bolivarian Republic of),San Juan De Los Morros,156,Unhealthy,2,Good,9,Good,10,Good,156,Unhealthy
+10605,India,Sabalgarh,233,Very Unhealthy,1,Good,48,Good,0,Good,233,Very Unhealthy
+10616,India,Panihati,172,Unhealthy,5,Good,103,Unhealthy for Sensitive Groups,6,Good,172,Unhealthy
+10626,Pakistan,Renala Khurd,166,Unhealthy,2,Good,133,Unhealthy for Sensitive Groups,1,Good,166,Unhealthy
+10637,India,Rampur,174,Unhealthy,4,Good,174,Unhealthy,1,Good,162,Unhealthy
+10651,Uganda,Ntungamo,160,Unhealthy,5,Good,23,Good,1,Good,160,Unhealthy
+10668,Uganda,Kanungu,176,Unhealthy,5,Good,19,Good,1,Good,176,Unhealthy
+10673,India,Katras,183,Unhealthy,3,Good,132,Unhealthy for Sensitive Groups,2,Good,183,Unhealthy
+10676,Bangladesh,Keshabpur,165,Unhealthy,6,Good,74,Moderate,5,Good,165,Unhealthy
+10682,India,Samthar,234,Very Unhealthy,1,Good,47,Good,0,Good,234,Very Unhealthy
+10688,Trinidad and Tobago,Sangre Grande,161,Unhealthy,0,Good,21,Good,3,Good,161,Unhealthy
+10699,India,Sayla,158,Unhealthy,0,Good,33,Good,0,Good,158,Unhealthy
+10712,Egypt,Esna,166,Unhealthy,1,Good,37,Good,1,Good,166,Unhealthy
+10717,India,Sidhauli,173,Unhealthy,3,Good,173,Unhealthy,2,Good,171,Unhealthy
+10739,Indonesia,Tangerang,201,Very Unhealthy,5,Good,201,Very Unhealthy,3,Good,167,Unhealthy
+10741,China,Taozhuang,155,Unhealthy,3,Good,155,Unhealthy,4,Good,104,Unhealthy for Sensitive Groups
+10759,India,Sunel,162,Unhealthy,1,Good,41,Good,0,Good,162,Unhealthy
+10778,China,Hsintien,159,Unhealthy,3,Good,159,Unhealthy,1,Good,118,Unhealthy for Sensitive Groups
+10780,India,Husainabad,188,Unhealthy,2,Good,101,Unhealthy for Sensitive Groups,1,Good,188,Unhealthy
+10812,Pakistan,Chak Jhumra,204,Very Unhealthy,4,Good,204,Very Unhealthy,3,Good,188,Unhealthy
+10825,India,Alot,162,Unhealthy,1,Good,39,Good,0,Good,162,Unhealthy
+10834,India,Ayodhya,228,Very Unhealthy,4,Good,111,Unhealthy for Sensitive Groups,4,Good,228,Very Unhealthy
+10840,India,Balaghat,154,Unhealthy,1,Good,39,Good,0,Good,154,Unhealthy
+10851,India,Dhanaura,500,Hazardous,3,Good,143,Unhealthy for Sensitive Groups,4,Good,428,Hazardous
+10860,China,Beibei,166,Unhealthy,10,Good,90,Moderate,22,Good,166,Unhealthy
+10866,India,Bhadra,500,Hazardous,1,Good,40,Good,0,Good,500,Hazardous
+10889,India,Dabwali,500,Hazardous,1,Good,43,Good,1,Good,481,Hazardous
+10897,China,Xinzhou,163,Unhealthy,4,Good,163,Unhealthy,4,Good,106,Unhealthy for Sensitive Groups
+10905,China,Yuyao,166,Unhealthy,3,Good,166,Unhealthy,2,Good,108,Unhealthy for Sensitive Groups
+10924,Pakistan,Thul,170,Unhealthy,1,Good,58,Moderate,1,Good,170,Unhealthy
+10926,India,Tikri,500,Hazardous,3,Good,47,Good,9,Good,500,Hazardous
+10935,Pakistan,Warah,168,Unhealthy,1,Good,52,Moderate,1,Good,168,Unhealthy
+10973,Bangladesh,Panchagarh,170,Unhealthy,2,Good,72,Moderate,1,Good,170,Unhealthy
+10977,India,Rani,161,Unhealthy,0,Good,36,Good,0,Good,161,Unhealthy
+10989,India,Purwa,304,Hazardous,1,Good,48,Good,1,Good,268,Very Unhealthy
+10991,Iran (Islamic Republic of),Qarchak,157,Unhealthy,2,Good,157,Unhealthy,3,Good,135,Unhealthy for Sensitive Groups
+10992,China,Qingdao,232,Very Unhealthy,21,Good,16,Good,28,Good,232,Very Unhealthy
+11005,India,Gumla,156,Unhealthy,2,Good,73,Moderate,0,Good,156,Unhealthy
+11030,India,Kabrai,164,Unhealthy,3,Good,164,Unhealthy,0,Good,164,Unhealthy
+11042,India,Rahatgarh,174,Unhealthy,1,Good,48,Good,0,Good,174,Unhealthy
+11049,Saudi Arabia,Safwah,167,Unhealthy,1,Good,122,Unhealthy for Sensitive Groups,0,Good,167,Unhealthy
+11067,Democratic Republic of the Congo,Kananga,191,Unhealthy,9,Good,35,Good,4,Good,191,Unhealthy
+11070,Iran (Islamic Republic of),Karaj,222,Very Unhealthy,5,Good,222,Very Unhealthy,7,Good,163,Unhealthy
+11073,Pakistan,Khairpur,165,Unhealthy,1,Good,44,Good,0,Good,165,Unhealthy
+11074,Pakistan,Khanewal,158,Unhealthy,3,Good,156,Unhealthy,1,Good,158,Unhealthy
+11077,India,Buxar,163,Unhealthy,3,Good,128,Unhealthy for Sensitive Groups,1,Good,163,Unhealthy
+11103,Brazil,Mendes,172,Unhealthy,8,Good,1,Good,17,Good,172,Unhealthy
+11113,Angola,Lucapa,172,Unhealthy,5,Good,33,Good,6,Good,172,Unhealthy
+11116,Brazil,Mage,220,Very Unhealthy,9,Good,8,Good,28,Good,220,Very Unhealthy
+11138,Paraguay,Villa Hayes,160,Unhealthy,8,Good,0,Good,5,Good,160,Unhealthy
+11151,India,Daltenganj,156,Unhealthy,2,Good,83,Moderate,0,Good,156,Unhealthy
+11161,India,Dhana,169,Unhealthy,1,Good,54,Moderate,0,Good,169,Unhealthy
+11164,Mexico,Coatlinchan,222,Very Unhealthy,4,Good,3,Good,20,Good,222,Very Unhealthy
+11185,Iran (Islamic Republic of),Omidiyeh,152,Unhealthy,1,Good,67,Moderate,0,Good,152,Unhealthy
+11188,India,Orai,168,Unhealthy,4,Good,167,Unhealthy,1,Good,168,Unhealthy
+11193,Pakistan,Pabbi,168,Unhealthy,3,Good,168,Unhealthy,1,Good,152,Unhealthy
+11221,China,Xiaoyi,206,Very Unhealthy,12,Good,3,Good,51,Moderate,206,Very Unhealthy
+11222,China,Xihua,155,Unhealthy,6,Good,66,Moderate,19,Good,155,Unhealthy
+11223,China,Xintai,168,Unhealthy,6,Good,67,Moderate,18,Good,168,Unhealthy
+11242,Libya,Ajdabiya,183,Unhealthy,1,Good,41,Good,0,Good,183,Unhealthy
+11258,Indonesia,Babat,159,Unhealthy,3,Good,135,Unhealthy for Sensitive Groups,1,Good,159,Unhealthy
+11277,India,Farrukhabad,193,Unhealthy,3,Good,166,Unhealthy,1,Good,193,Unhealthy
+11287,India,Kathor,153,Unhealthy,0,Good,25,Good,0,Good,153,Unhealthy
+11293,Iran (Islamic Republic of),Khomeynishahr,155,Unhealthy,1,Good,55,Moderate,1,Good,155,Unhealthy
+11306,Indonesia,Kresek,203,Very Unhealthy,4,Good,203,Very Unhealthy,4,Good,158,Unhealthy
+11321,China,Lubu,200,Unhealthy,3,Good,200,Unhealthy,1,Good,109,Unhealthy for Sensitive Groups
+11343,Pakistan,Lahore,161,Unhealthy,3,Good,129,Unhealthy for Sensitive Groups,1,Good,161,Unhealthy
+11355,United States of America,Mission,154,Unhealthy,3,Good,15,Good,5,Good,154,Unhealthy
+11358,India,Mohgaon,174,Unhealthy,1,Good,37,Good,0,Good,174,Unhealthy
+11370,India,Murwara,177,Unhealthy,1,Good,46,Good,0,Good,177,Unhealthy
+11374,Libya,Nalut,191,Unhealthy,1,Good,27,Good,0,Good,191,Unhealthy
+11380,India,New Delhi,174,Unhealthy,3,Good,156,Unhealthy,3,Good,174,Unhealthy
+11424,India,Farrukhnagar,181,Unhealthy,4,Good,181,Unhealthy,2,Good,176,Unhealthy
+11477,Viet Nam,Nam Dinh,154,Unhealthy,4,Good,154,Unhealthy,1,Good,145,Unhealthy for Sensitive Groups
+11478,Mexico,Nanacamilpa,197,Unhealthy,2,Good,8,Good,12,Good,197,Unhealthy
+11479,China,Nantou,202,Very Unhealthy,3,Good,202,Very Unhealthy,10,Good,153,Unhealthy
+11501,India,Sohagpur,163,Unhealthy,1,Good,43,Good,0,Good,163,Unhealthy
+11519,Mexico,Tetla,176,Unhealthy,3,Good,8,Good,9,Good,176,Unhealthy
+11548,Indonesia,Semarang,160,Unhealthy,5,Good,17,Good,17,Good,160,Unhealthy
+11557,India,Sirhind,167,Unhealthy,5,Good,26,Good,22,Good,167,Unhealthy
+11558,India,Sirpur,166,Unhealthy,2,Good,55,Moderate,0,Good,166,Unhealthy
+11559,India,Sirsaganj,173,Unhealthy,4,Good,57,Moderate,7,Good,173,Unhealthy
+11562,India,Ranchi,160,Unhealthy,3,Good,43,Good,5,Good,160,Unhealthy
+11564,Indonesia,Rangkasbitung,225,Very Unhealthy,11,Good,9,Good,63,Moderate,225,Very Unhealthy
+11568,India,Reoti,171,Unhealthy,5,Good,62,Moderate,6,Good,171,Unhealthy
+11578,Rwanda,Ruhengeri,157,Unhealthy,2,Good,24,Good,1,Good,157,Unhealthy
+11590,India,Baikunthpur,169,Unhealthy,3,Good,86,Moderate,5,Good,169,Unhealthy
+11591,India,Bakhtiyarpur,158,Unhealthy,4,Good,46,Good,7,Good,158,Unhealthy
+11593,India,Balapur,152,Unhealthy,2,Good,28,Good,3,Good,152,Unhealthy
+11594,India,Balasinor,154,Unhealthy,2,Good,31,Good,6,Good,154,Unhealthy
+11597,India,Barghat,161,Unhealthy,2,Good,48,Good,2,Good,161,Unhealthy
+11602,India,Beldanga,153,Unhealthy,4,Good,18,Good,18,Good,153,Unhealthy
+11611,India,Bilsanda,154,Unhealthy,4,Good,21,Good,10,Good,154,Unhealthy
+11622,Indonesia,Buaran,152,Unhealthy,5,Good,27,Good,9,Good,152,Unhealthy
+11624,India,Burhar,154,Unhealthy,2,Good,73,Moderate,2,Good,154,Unhealthy
+11642,India,Chaibasa,154,Unhealthy,3,Good,40,Good,3,Good,154,Unhealthy
+11645,China,Changji,153,Unhealthy,2,Good,31,Good,8,Good,153,Unhealthy
+11649,China,Chongqing,283,Very Unhealthy,19,Good,0,Good,58,Moderate,283,Very Unhealthy
+11651,Indonesia,Soreang,188,Unhealthy,10,Good,5,Good,27,Good,188,Unhealthy
+11663,China,Suicheng,155,Unhealthy,7,Good,52,Moderate,18,Good,155,Unhealthy
+11665,India,Sundarnagar,152,Unhealthy,4,Good,29,Good,9,Good,152,Unhealthy
+11674,Indonesia,Grogol,170,Unhealthy,6,Good,7,Good,21,Good,170,Unhealthy
+11679,India,Guntur,161,Unhealthy,3,Good,38,Good,6,Good,161,Unhealthy
+11680,India,Gurdaspur,164,Unhealthy,5,Good,26,Good,11,Good,164,Unhealthy
+11694,China,Huaidian,170,Unhealthy,9,Good,44,Good,27,Good,170,Unhealthy
+11701,India,Islamnagar,158,Unhealthy,4,Good,45,Good,9,Good,158,Unhealthy
+11707,India,Jashpurnagar,162,Unhealthy,2,Good,47,Good,3,Good,162,Unhealthy
+11716,India,Kalol,159,Unhealthy,2,Good,23,Good,8,Good,159,Unhealthy
+11721,India,Kathua,161,Unhealthy,5,Good,20,Good,10,Good,161,Unhealthy
+11726,Pakistan,Khangah Dogran,178,Unhealthy,5,Good,47,Good,10,Good,178,Unhealthy
+11731,Pakistan,Matiari,161,Unhealthy,1,Good,27,Good,1,Good,161,Unhealthy
+11738,Afghanistan,Mirabad,165,Unhealthy,1,Good,45,Good,0,Good,165,Unhealthy
+11756,India,Nabagram,158,Unhealthy,5,Good,15,Good,11,Good,158,Unhealthy
+11772,India,Pusad,156,Unhealthy,2,Good,28,Good,4,Good,156,Unhealthy
+11773,China,Puyang,157,Unhealthy,5,Good,89,Moderate,15,Good,157,Unhealthy
+11775,Iran (Islamic Republic of),Qazvin,155,Unhealthy,2,Good,122,Unhealthy for Sensitive Groups,3,Good,155,Unhealthy
+11780,India,Raghudebbati,192,Unhealthy,9,Good,5,Good,23,Good,192,Unhealthy
+11781,India,Raigarh,159,Unhealthy,2,Good,63,Moderate,2,Good,159,Unhealthy
+11808,India,Pandhurna,162,Unhealthy,3,Good,17,Good,7,Good,162,Unhealthy
+11811,India,Patnagarh,157,Unhealthy,2,Good,54,Moderate,1,Good,157,Unhealthy
+11823,Iran (Islamic Republic of),Behshahr,154,Unhealthy,2,Good,32,Good,2,Good,154,Unhealthy
+11828,India,Beniganj,159,Unhealthy,4,Good,39,Good,10,Good,159,Unhealthy
+11831,India,Bhikangaon,174,Unhealthy,2,Good,32,Good,2,Good,174,Unhealthy
+11832,India,Bhilwara,158,Unhealthy,1,Good,25,Good,5,Good,158,Unhealthy
+11834,India,Bikapur,162,Unhealthy,4,Good,51,Moderate,7,Good,162,Unhealthy
+11835,India,Bilhaur,173,Unhealthy,4,Good,45,Good,9,Good,173,Unhealthy
+11856,Viet Nam,Can Tho,152,Unhealthy,3,Good,7,Good,11,Good,152,Unhealthy
+11867,China,Chengdu,386,Hazardous,28,Good,0,Good,64,Moderate,386,Hazardous
+11910,United States of America,East Los Angeles,152,Unhealthy,4,Good,12,Good,28,Good,152,Unhealthy
+11935,India,Maharajganj,169,Unhealthy,5,Good,49,Good,7,Good,169,Unhealthy
+11954,Mexico,Ecatepec,189,Unhealthy,5,Good,4,Good,21,Good,189,Unhealthy
+11957,India,Dalsingh Sarai,172,Unhealthy,5,Good,172,Unhealthy,1,Good,154,Unhealthy
+11962,China,Deyang,164,Unhealthy,5,Good,50,Good,15,Good,164,Unhealthy
+11969,Pakistan,Fatehpur,187,Unhealthy,2,Good,129,Unhealthy for Sensitive Groups,0,Good,187,Unhealthy
+11975,India,Kharela,169,Unhealthy,3,Good,125,Unhealthy for Sensitive Groups,3,Good,169,Unhealthy
+11994,India,Laksar,162,Unhealthy,5,Good,29,Good,13,Good,162,Unhealthy
+12020,China,Shouguang,166,Unhealthy,6,Good,72,Moderate,19,Good,166,Unhealthy
+12021,India,Sikandra Rao,178,Unhealthy,5,Good,37,Good,20,Good,178,Unhealthy
+12023,Pakistan,Sinjhoro,158,Unhealthy,1,Good,26,Good,2,Good,158,Unhealthy
+12029,Oman,Ruwi,159,Unhealthy,2,Good,125,Unhealthy for Sensitive Groups,5,Good,159,Unhealthy
+12044,India,Sandi,160,Unhealthy,3,Good,55,Moderate,6,Good,160,Unhealthy
+12062,Mexico,Coacalco,180,Unhealthy,5,Good,5,Good,19,Good,180,Unhealthy
+12088,India,Shegaon,152,Unhealthy,1,Good,32,Good,0,Good,152,Unhealthy
+12089,India,Shergarh,168,Unhealthy,4,Good,168,Unhealthy,1,Good,165,Unhealthy
+12095,India,Sitapur,188,Unhealthy,4,Good,188,Unhealthy,1,Good,185,Unhealthy
+12119,India,Moth,214,Very Unhealthy,1,Good,55,Moderate,0,Good,214,Very Unhealthy
+12123,India,Mushabani,154,Unhealthy,3,Good,118,Unhealthy for Sensitive Groups,1,Good,154,Unhealthy
+12126,China,Nanzhou,152,Unhealthy,3,Good,152,Unhealthy,4,Good,113,Unhealthy for Sensitive Groups
+12127,India,Naraina,297,Very Unhealthy,1,Good,40,Good,0,Good,297,Very Unhealthy
+12128,India,Navadwip,157,Unhealthy,4,Good,141,Unhealthy for Sensitive Groups,2,Good,157,Unhealthy
+12136,India,Nimaj,225,Very Unhealthy,1,Good,35,Good,0,Good,225,Very Unhealthy
+12162,India,Malihabad,199,Unhealthy,4,Good,179,Unhealthy,1,Good,199,Unhealthy
+12163,Pakistan,Mamu Kanjan,188,Unhealthy,2,Good,135,Unhealthy for Sensitive Groups,1,Good,188,Unhealthy
+12167,Pakistan,Mardan,162,Unhealthy,3,Good,162,Unhealthy,1,Good,154,Unhealthy
+12186,India,Pirawa,197,Unhealthy,1,Good,36,Good,0,Good,197,Unhealthy
+12234,India,Rasra,158,Unhealthy,4,Good,158,Unhealthy,1,Good,150,Unhealthy
+12236,India,Rawatsar,162,Unhealthy,2,Good,120,Unhealthy for Sensitive Groups,0,Good,162,Unhealthy
+12272,India,Muragachha,166,Unhealthy,6,Good,21,Good,15,Good,166,Unhealthy
+12273,Pakistan,Muridke,182,Unhealthy,6,Good,43,Good,13,Good,182,Unhealthy
+12296,India,Rishra,222,Very Unhealthy,12,Good,1,Good,28,Good,222,Very Unhealthy
+12319,India,Panipat,174,Unhealthy,5,Good,49,Good,13,Good,174,Unhealthy
+12324,Indonesia,Pedan,193,Unhealthy,10,Good,6,Good,20,Good,193,Unhealthy
+12330,Pakistan,Peshawar,192,Unhealthy,4,Good,107,Unhealthy for Sensitive Groups,4,Good,192,Unhealthy
+12334,South Africa,Witrivier,163,Unhealthy,4,Good,18,Good,7,Good,163,Unhealthy
+12339,China,Yangshan,195,Unhealthy,5,Good,195,Unhealthy,4,Good,165,Unhealthy
+12347,Pakistan,Wah,166,Unhealthy,3,Good,146,Unhealthy for Sensitive Groups,0,Good,166,Unhealthy
+12350,Indonesia,Waru,155,Unhealthy,3,Good,117,Unhealthy for Sensitive Groups,1,Good,155,Unhealthy
+12352,India,Handia,189,Unhealthy,1,Good,90,Moderate,1,Good,189,Unhealthy
+12354,India,Hansi,500,Hazardous,1,Good,55,Moderate,0,Good,464,Hazardous
+12382,India,Manikpur,185,Unhealthy,1,Good,39,Good,1,Good,185,Unhealthy
+12387,Democratic Republic of the Congo,Kisangani,166,Unhealthy,6,Good,15,Good,3,Good,166,Unhealthy
+12390,India,Kochinda,162,Unhealthy,1,Good,46,Good,0,Good,162,Unhealthy
+12414,China,Hanchuan,163,Unhealthy,5,Good,163,Unhealthy,5,Good,157,Unhealthy
+12420,Brazil,Hortolandia,154,Unhealthy,5,Good,1,Good,12,Good,154,Unhealthy
+12426,Thailand,Kamphaeng Phet,162,Unhealthy,1,Good,25,Good,0,Good,162,Unhealthy
+12441,Pakistan,Jacobabad,168,Unhealthy,1,Good,67,Moderate,1,Good,168,Unhealthy
+12443,India,Jhinjhak,277,Very Unhealthy,1,Good,47,Good,1,Good,277,Very Unhealthy
+12444,India,Jhinjhana,398,Hazardous,4,Good,90,Moderate,9,Good,361,Hazardous
+12473,India,Jalor,198,Unhealthy,1,Good,34,Good,0,Good,198,Unhealthy
+12475,India,Jhansi,218,Very Unhealthy,1,Good,48,Good,0,Good,218,Very Unhealthy
+12483,Bangladesh,Kalia,158,Unhealthy,4,Good,93,Moderate,2,Good,158,Unhealthy
+12484,India,Kalpi,202,Very Unhealthy,2,Good,94,Moderate,0,Good,202,Very Unhealthy
+12489,Brazil,Guararema,159,Unhealthy,6,Good,1,Good,16,Good,159,Unhealthy
+12496,India,Hamirpur,195,Unhealthy,2,Good,104,Unhealthy for Sensitive Groups,1,Good,195,Unhealthy
+12509,India,Gaurela,178,Unhealthy,1,Good,52,Moderate,0,Good,178,Unhealthy
+12511,India,Ghatampur,204,Very Unhealthy,2,Good,121,Unhealthy for Sensitive Groups,1,Good,204,Very Unhealthy
+12530,China,Daan,163,Unhealthy,8,Good,39,Good,26,Good,163,Unhealthy
+12534,India,Gorakhpur,296,Very Unhealthy,3,Good,161,Unhealthy,1,Good,296,Very Unhealthy
+12540,China,Guangyuan,158,Unhealthy,4,Good,157,Unhealthy,1,Good,158,Unhealthy
+12593,Pakistan,Kundian,174,Unhealthy,3,Good,139,Unhealthy for Sensitive Groups,0,Good,174,Unhealthy
+12609,India,Pulgaon,154,Unhealthy,0,Good,29,Good,0,Good,154,Unhealthy
+12622,India,Rewa,190,Unhealthy,1,Good,51,Moderate,0,Good,190,Unhealthy
+12635,India,Satwas,156,Unhealthy,1,Good,36,Good,0,Good,156,Unhealthy
+12637,Indonesia,Serang,195,Unhealthy,4,Good,195,Unhealthy,3,Good,161,Unhealthy
+12638,Iran (Islamic Republic of),Shahriyar,166,Unhealthy,2,Good,166,Unhealthy,5,Good,150,Unhealthy
+12656,India,Patharia,184,Unhealthy,1,Good,39,Good,0,Good,184,Unhealthy
+12663,India,Pilibhit,165,Unhealthy,3,Good,165,Unhealthy,1,Good,156,Unhealthy
+12676,India,Sindi,171,Unhealthy,1,Good,30,Good,0,Good,171,Unhealthy
+12696,South Africa,Stilfontein,175,Unhealthy,10,Good,17,Good,13,Good,175,Unhealthy
+12705,India,Julana,500,Hazardous,1,Good,41,Good,1,Good,490,Hazardous
+12707,Nepal,Kalaiya,229,Very Unhealthy,3,Good,132,Unhealthy for Sensitive Groups,0,Good,229,Very Unhealthy
+12721,India,Jalalabad,500,Hazardous,1,Good,48,Good,1,Good,500,Hazardous
+12723,India,Jasdan,155,Unhealthy,0,Good,33,Good,0,Good,155,Unhealthy
+12727,China,Huainan,164,Unhealthy,4,Good,164,Unhealthy,8,Good,141,Unhealthy for Sensitive Groups
+12737,Pakistan,Sarhari,165,Unhealthy,1,Good,41,Good,0,Good,165,Unhealthy
+12744,Ethiopia,Korem,156,Unhealthy,1,Good,28,Good,0,Good,156,Unhealthy
+12748,Pakistan,Kulachi,177,Unhealthy,2,Good,100,Unhealthy for Sensitive Groups,0,Good,177,Unhealthy
+12750,India,Kumher,323,Hazardous,1,Good,47,Good,0,Good,319,Hazardous
+12751,India,Kundarki,185,Unhealthy,4,Good,185,Unhealthy,1,Good,157,Unhealthy
+12780,India,Mahemdavad,158,Unhealthy,1,Good,39,Good,0,Good,158,Unhealthy
+12784,India,Malkera,184,Unhealthy,3,Good,135,Unhealthy for Sensitive Groups,2,Good,184,Unhealthy
+12786,India,Manasa,159,Unhealthy,1,Good,39,Good,0,Good,159,Unhealthy
+12793,United States of America,Miami Lakes,153,Unhealthy,4,Good,4,Good,20,Good,153,Unhealthy
+12800,Malaysia,Miri,209,Very Unhealthy,67,Moderate,209,Very Unhealthy,2,Good,157,Unhealthy
+12801,Pakistan,Mirwah,163,Unhealthy,1,Good,43,Good,0,Good,163,Unhealthy
+12816,China,Ningxiang,160,Unhealthy,7,Good,72,Moderate,19,Good,160,Unhealthy
+12822,India,Khair,352,Hazardous,2,Good,107,Unhealthy for Sensitive Groups,1,Good,335,Hazardous
+12830,India,Khunti,185,Unhealthy,2,Good,70,Moderate,0,Good,185,Unhealthy
+12835,Mexico,Macuspana,165,Unhealthy,5,Good,6,Good,10,Good,165,Unhealthy
+12847,China,Jiangyan,206,Very Unhealthy,5,Good,206,Very Unhealthy,5,Good,150,Unhealthy
+12853,China,Yunhe,200,Unhealthy,4,Good,200,Unhealthy,2,Good,164,Unhealthy
+12858,India,Tijara,177,Unhealthy,4,Good,153,Unhealthy,1,Good,177,Unhealthy
+12864,Mexico,Tenango De Arista,177,Unhealthy,4,Good,7,Good,22,Good,177,Unhealthy
+12867,Pakistan,Thano Bula Khan,174,Unhealthy,1,Good,40,Good,0,Good,174,Unhealthy
+12876,India,Ulhasnagar,164,Unhealthy,4,Good,32,Good,5,Good,164,Unhealthy
+12885,India,Palanpur,172,Unhealthy,0,Good,30,Good,0,Good,172,Unhealthy
+12897,India,Rairangpur,168,Unhealthy,1,Good,55,Moderate,0,Good,168,Unhealthy
+12901,India,Raya,469,Hazardous,1,Good,38,Good,1,Good,382,Hazardous
+12911,India,Rura,271,Very Unhealthy,1,Good,46,Good,1,Good,271,Very Unhealthy
+12938,China,Yanzhou,158,Unhealthy,2,Good,158,Unhealthy,2,Good,84,Moderate
+12945,China,Zhucheng,162,Unhealthy,3,Good,162,Unhealthy,2,Good,113,Unhealthy for Sensitive Groups
+12960,South Africa,Pietermaritzburg,215,Very Unhealthy,13,Good,3,Good,13,Good,215,Very Unhealthy
+12991,China,Heze,201,Very Unhealthy,5,Good,201,Very Unhealthy,4,Good,159,Unhealthy
+12999,India,Fatehabad,169,Unhealthy,4,Good,166,Unhealthy,1,Good,169,Unhealthy
+13003,South Africa,Piet Retief,164,Unhealthy,4,Good,20,Good,7,Good,164,Unhealthy
+13007,Pakistan,Pasni,189,Unhealthy,3,Good,40,Good,4,Good,189,Unhealthy
+13008,Pakistan,Pasrur,164,Unhealthy,3,Good,147,Unhealthy for Sensitive Groups,1,Good,164,Unhealthy
+13013,India,Pehowa,163,Unhealthy,3,Good,160,Unhealthy,1,Good,163,Unhealthy
+13019,India,Aurangabad,324,Hazardous,1,Good,45,Good,1,Good,295,Very Unhealthy
+13026,India,Badarwas,157,Unhealthy,1,Good,45,Good,0,Good,157,Unhealthy
+13028,India,Baghdogra,155,Unhealthy,2,Good,86,Moderate,0,Good,155,Unhealthy
+13030,India,Balarampur,172,Unhealthy,1,Good,83,Moderate,1,Good,172,Unhealthy
+13031,India,Bali Chak,166,Unhealthy,2,Good,82,Moderate,2,Good,166,Unhealthy
+13038,India,Basoda,155,Unhealthy,1,Good,40,Good,0,Good,155,Unhealthy
+13044,India,Bhadrak,161,Unhealthy,2,Good,109,Unhealthy for Sensitive Groups,1,Good,161,Unhealthy
+13073,Nigeria,Shagamu,217,Very Unhealthy,12,Good,14,Good,14,Good,217,Very Unhealthy
+13074,United Arab Emirates,Sharjah,169,Unhealthy,1,Good,169,Unhealthy,3,Good,156,Unhealthy
+13087,India,Ajaigarh,165,Unhealthy,1,Good,45,Good,0,Good,165,Unhealthy
+13090,India,Allahganj,431,Hazardous,1,Good,57,Moderate,1,Good,339,Hazardous
+13097,China,Anqing,201,Very Unhealthy,5,Good,201,Very Unhealthy,4,Good,154,Unhealthy
+13111,India,Sujangarh,500,Hazardous,1,Good,37,Good,0,Good,457,Hazardous
+13113,Pakistan,Chichawatni,439,Hazardous,1,Good,47,Good,0,Good,361,Hazardous
+13116,Pakistan,Chor,194,Unhealthy,1,Good,41,Good,0,Good,194,Unhealthy
+13123,China,Taipao,201,Very Unhealthy,2,Good,201,Very Unhealthy,5,Good,134,Unhealthy for Sensitive Groups
+13127,Pakistan,Tando Adam,166,Unhealthy,1,Good,44,Good,0,Good,166,Unhealthy
+13143,India,Unjha,165,Unhealthy,1,Good,29,Good,0,Good,165,Unhealthy
+13158,India,Ajmer,176,Unhealthy,1,Good,36,Good,0,Good,176,Unhealthy
+13165,India,Amroha,176,Unhealthy,3,Good,176,Unhealthy,1,Good,154,Unhealthy
+13187,South Africa,Tembisa,219,Very Unhealthy,22,Good,11,Good,16,Good,219,Very Unhealthy
+13205,India,Umreth,154,Unhealthy,1,Good,37,Good,0,Good,154,Unhealthy
+13212,India,Varanasi,184,Unhealthy,2,Good,123,Unhealthy for Sensitive Groups,1,Good,184,Unhealthy
+13224,Pakistan,Tank,170,Unhealthy,2,Good,83,Moderate,0,Good,170,Unhealthy
+13239,South Africa,Witbank,156,Unhealthy,3,Good,11,Good,14,Good,156,Unhealthy
+13243,Mexico,Xalmimilulco,326,Hazardous,4,Good,2,Good,17,Good,326,Hazardous
+13255,Oman,Qurayyat,155,Unhealthy,2,Good,106,Unhealthy for Sensitive Groups,1,Good,155,Unhealthy
+13265,China,Luzhou,155,Unhealthy,2,Good,44,Good,6,Good,155,Unhealthy
+13282,Afghanistan,Sindand,161,Unhealthy,1,Good,45,Good,0,Good,161,Unhealthy
+13299,India,Gosainganj,163,Unhealthy,4,Good,76,Moderate,5,Good,163,Unhealthy
+13306,India,Gulabpura,164,Unhealthy,1,Good,27,Good,4,Good,164,Unhealthy
+13308,India,Gurgaon,191,Unhealthy,7,Good,46,Good,20,Good,191,Unhealthy
+13318,China,Huangmei,165,Unhealthy,9,Good,6,Good,22,Good,165,Unhealthy
+13328,China,Jianhu,166,Unhealthy,7,Good,25,Good,30,Good,166,Unhealthy
+13340,India,Kasrawad,161,Unhealthy,2,Good,18,Good,5,Good,161,Unhealthy
+13346,Mexico,Teolocholco,195,Unhealthy,1,Good,34,Good,3,Good,195,Unhealthy
+13352,Mexico,Tlaxco,207,Very Unhealthy,1,Good,33,Good,3,Good,207,Very Unhealthy
+13354,India,Tonk,191,Unhealthy,3,Good,36,Good,7,Good,191,Unhealthy
+13362,India,Ulubaria,188,Unhealthy,7,Good,12,Good,18,Good,188,Unhealthy
+13376,India,Soron,165,Unhealthy,5,Good,10,Good,43,Good,165,Unhealthy
+13388,China,Tanshui,160,Unhealthy,4,Good,29,Good,26,Good,160,Unhealthy
+13398,Democratic Republic of the Congo,Kasongo Lunda,481,Hazardous,51,Moderate,39,Good,7,Good,446,Hazardous
+13402,India,Kekri,222,Very Unhealthy,1,Good,38,Good,0,Good,222,Very Unhealthy
+13406,India,Khachrod,175,Unhealthy,1,Good,37,Good,0,Good,175,Unhealthy
+13415,India,Kuchaman,285,Very Unhealthy,1,Good,43,Good,0,Good,285,Very Unhealthy
+13416,India,Kuchera,281,Very Unhealthy,1,Good,40,Good,0,Good,281,Very Unhealthy
+13422,India,Dum Dum,180,Unhealthy,4,Good,107,Unhealthy for Sensitive Groups,4,Good,180,Unhealthy
+13431,India,Damoh,155,Unhealthy,1,Good,42,Good,0,Good,155,Unhealthy
+13435,India,Dhaka,235,Very Unhealthy,3,Good,158,Unhealthy,1,Good,235,Very Unhealthy
+13436,Nepal,Dhankuta,167,Unhealthy,2,Good,76,Moderate,0,Good,167,Unhealthy
+13441,India,Agar,157,Unhealthy,1,Good,37,Good,0,Good,157,Unhealthy
+13447,South Africa,Alberton,205,Very Unhealthy,41,Good,9,Good,25,Good,205,Very Unhealthy
+13455,India,Amlagora,185,Unhealthy,1,Good,84,Moderate,1,Good,185,Unhealthy
+13465,South Africa,Atlantis,161,Unhealthy,2,Good,15,Good,4,Good,161,Unhealthy
+13469,Dominican Republic,Bajos De Haina,156,Unhealthy,2,Good,3,Good,16,Good,156,Unhealthy
+13471,India,Balangir,161,Unhealthy,1,Good,47,Good,0,Good,161,Unhealthy
+13474,India,Bandikui,201,Very Unhealthy,1,Good,42,Good,0,Good,201,Very Unhealthy
+13476,India,Bawal,500,Hazardous,1,Good,36,Good,1,Good,426,Hazardous
+13480,India,Barasat,179,Unhealthy,6,Good,105,Unhealthy for Sensitive Groups,7,Good,179,Unhealthy
+13486,Ethiopia,Bati,178,Unhealthy,1,Good,37,Good,0,Good,178,Unhealthy
+13494,India,Bewar,197,Unhealthy,3,Good,140,Unhealthy for Sensitive Groups,2,Good,197,Unhealthy
+13501,India,Bilsi,164,Unhealthy,3,Good,164,Unhealthy,3,Good,164,Unhealthy
+13528,India,Chandla,208,Very Unhealthy,1,Good,47,Good,0,Good,208,Very Unhealthy
+13532,Mexico,Chiconcuac,269,Very Unhealthy,3,Good,13,Good,16,Good,269,Very Unhealthy
+13546,Mexico,Cuautitlan,176,Unhealthy,4,Good,11,Good,16,Good,176,Unhealthy
+13547,Brazil,Cubatao,153,Unhealthy,4,Good,2,Good,19,Good,153,Unhealthy
+13548,Senegal,Dagana,211,Very Unhealthy,1,Good,22,Good,1,Good,211,Very Unhealthy
+13554,India,Canning,184,Unhealthy,2,Good,68,Moderate,2,Good,184,Unhealthy
+13562,India,Chandrakona,186,Unhealthy,1,Good,81,Moderate,1,Good,186,Unhealthy
+13563,China,Changqing,166,Unhealthy,5,Good,162,Unhealthy,10,Good,166,Unhealthy
+13570,China,Chunan,166,Unhealthy,3,Good,166,Unhealthy,2,Good,130,Unhealthy for Sensitive Groups
+13572,Indonesia,Cibinong,173,Unhealthy,4,Good,173,Unhealthy,3,Good,150,Unhealthy
+13595,India,Bhandara,152,Unhealthy,1,Good,42,Good,0,Good,152,Unhealthy
+13604,India,Puranpur,500,Hazardous,2,Good,128,Unhealthy for Sensitive Groups,1,Good,481,Hazardous
+13613,India,Rae Bareli,263,Very Unhealthy,1,Good,47,Good,1,Good,249,Very Unhealthy
+13614,India,Raisinghnagar,500,Hazardous,1,Good,40,Good,0,Good,454,Hazardous
+13615,India,Rajaldesar,500,Hazardous,0,Good,37,Good,0,Good,477,Hazardous
+13619,Iran (Islamic Republic of),Ravar,164,Unhealthy,1,Good,42,Good,0,Good,164,Unhealthy
+13648,Mexico,Texmelucan,169,Unhealthy,2,Good,4,Good,12,Good,169,Unhealthy
+13655,India,Samastipur,266,Very Unhealthy,3,Good,151,Unhealthy,1,Good,266,Very Unhealthy
+13657,India,Sheoganj,159,Unhealthy,0,Good,35,Good,0,Good,159,Unhealthy
+13658,India,Shimla,178,Unhealthy,2,Good,114,Unhealthy for Sensitive Groups,0,Good,178,Unhealthy
+13683,Pakistan,Uthal,167,Unhealthy,1,Good,39,Good,0,Good,167,Unhealthy
+13727,China,Potzu,157,Unhealthy,4,Good,155,Unhealthy,10,Good,157,Unhealthy
+13728,India,Narauli,500,Hazardous,1,Good,57,Moderate,1,Good,472,Hazardous
+13734,India,Pandua,179,Unhealthy,3,Good,97,Moderate,3,Good,179,Unhealthy
+13736,India,Patna,365,Hazardous,2,Good,110,Unhealthy for Sensitive Groups,1,Good,307,Hazardous
+13755,India,Masaurhi,390,Hazardous,2,Good,92,Moderate,1,Good,310,Hazardous
+13804,India,Waris Aliganj,302,Hazardous,1,Good,88,Moderate,1,Good,283,Very Unhealthy
+13815,China,Anyang,186,Unhealthy,6,Good,84,Moderate,15,Good,186,Unhealthy
+13825,India,Obra,160,Unhealthy,3,Good,134,Unhealthy for Sensitive Groups,1,Good,160,Unhealthy
+13828,Pakistan,Moro,157,Unhealthy,1,Good,40,Good,0,Good,157,Unhealthy
+13834,India,Muhammadabad,164,Unhealthy,4,Good,143,Unhealthy for Sensitive Groups,1,Good,164,Unhealthy
+13849,Mexico,Nicolas Romero,163,Unhealthy,5,Good,4,Good,18,Good,163,Unhealthy
+13863,India,Mohan,169,Unhealthy,4,Good,141,Unhealthy for Sensitive Groups,1,Good,169,Unhealthy
+13887,Pakistan,Chakwal,171,Unhealthy,3,Good,157,Unhealthy,0,Good,171,Unhealthy
+13890,India,Bhabua,168,Unhealthy,3,Good,119,Unhealthy for Sensitive Groups,1,Good,168,Unhealthy
+13905,China,Daokou,176,Unhealthy,5,Good,176,Unhealthy,8,Good,173,Unhealthy
+13929,Pakistan,Dera Bugti,162,Unhealthy,1,Good,63,Moderate,0,Good,162,Unhealthy
+13932,India,Dhenkanal,157,Unhealthy,2,Good,42,Good,2,Good,157,Unhealthy
+13979,Pakistan,Kamoke,167,Unhealthy,3,Good,167,Unhealthy,1,Good,165,Unhealthy
+13995,China,Deqing,178,Unhealthy,4,Good,178,Unhealthy,5,Good,116,Unhealthy for Sensitive Groups
+13997,India,Dhanaula,326,Hazardous,3,Good,78,Moderate,7,Good,326,Hazardous
+13998,India,Didwana,500,Hazardous,1,Good,37,Good,0,Good,334,Hazardous
+14004,India,Ghatsila,172,Unhealthy,1,Good,71,Moderate,0,Good,172,Unhealthy
+14016,India,Fazilka,500,Hazardous,1,Good,47,Good,1,Good,450,Hazardous
+14040,South Africa,Sundumbili,153,Unhealthy,6,Good,25,Good,6,Good,153,Unhealthy
+14043,India,Mungaoli,157,Unhealthy,1,Good,34,Good,0,Good,157,Unhealthy
+14046,Democratic Republic of the Congo,Mushie,184,Unhealthy,9,Good,31,Good,3,Good,184,Unhealthy
+14050,India,Nanpara,177,Unhealthy,4,Good,177,Unhealthy,1,Good,177,Unhealthy
+14053,India,Nayagarh,160,Unhealthy,1,Good,49,Good,0,Good,160,Unhealthy
+14056,India,Nerkunram,154,Unhealthy,2,Good,32,Good,2,Good,154,Unhealthy
+14064,India,Suratgarh,500,Hazardous,1,Good,41,Good,0,Good,474,Hazardous
+14065,India,Surendranagar,154,Unhealthy,0,Good,39,Good,0,Good,154,Unhealthy
+14075,Pakistan,Tando Muhammad Khan,175,Unhealthy,1,Good,47,Good,0,Good,175,Unhealthy
+14078,India,Thanesar,233,Very Unhealthy,3,Good,172,Unhealthy,2,Good,233,Very Unhealthy
+14090,Nigeria,Modakeke,170,Unhealthy,8,Good,8,Good,8,Good,170,Unhealthy
+14091,Mexico,Momoxpan,152,Unhealthy,3,Good,7,Good,11,Good,152,Unhealthy
+14127,India,Thakurdwara,235,Very Unhealthy,4,Good,203,Very Unhealthy,3,Good,235,Very Unhealthy
+14136,India,Limbdi,159,Unhealthy,1,Good,39,Good,0,Good,159,Unhealthy
+14139,Senegal,Linguere,152,Unhealthy,1,Good,23,Good,1,Good,152,Unhealthy
+14149,India,Maghar,380,Hazardous,3,Good,148,Unhealthy for Sensitive Groups,1,Good,327,Hazardous
+14150,India,Makhu,425,Hazardous,1,Good,93,Moderate,1,Good,379,Hazardous
+14158,Iran (Islamic Republic of),Khorramshahr,152,Unhealthy,2,Good,129,Unhealthy for Sensitive Groups,1,Good,152,Unhealthy
+14166,India,Kandla,162,Unhealthy,0,Good,29,Good,0,Good,162,Unhealthy
+14168,India,Kapurthala,292,Very Unhealthy,2,Good,140,Unhealthy for Sensitive Groups,1,Good,292,Very Unhealthy
+14170,Uzbekistan,Karmana,154,Unhealthy,1,Good,41,Good,0,Good,154,Unhealthy
+14175,India,Khairabad,500,Hazardous,1,Good,56,Moderate,1,Good,403,Hazardous
+14179,India,Kuju,199,Unhealthy,1,Good,56,Moderate,1,Good,199,Unhealthy
+14191,Chile,Tome,168,Unhealthy,4,Good,11,Good,8,Good,168,Unhealthy
+14198,India,Uchana,166,Unhealthy,4,Good,66,Moderate,9,Good,166,Unhealthy
+14216,Indonesia,Tanggul,160,Unhealthy,6,Good,9,Good,12,Good,160,Unhealthy
+14224,Chile,Villa Alemana,193,Unhealthy,13,Good,5,Good,25,Good,193,Unhealthy
+14235,China,Weifang,165,Unhealthy,6,Good,82,Moderate,16,Good,165,Unhealthy
+14236,Pakistan,Sargodha,168,Unhealthy,4,Good,71,Moderate,7,Good,168,Unhealthy
+14243,India,Sedam,159,Unhealthy,2,Good,40,Good,3,Good,159,Unhealthy
+14247,India,Shankargarh,181,Unhealthy,5,Good,80,Moderate,7,Good,181,Unhealthy
+14254,India,Sohna,181,Unhealthy,6,Good,53,Moderate,15,Good,181,Unhealthy
+14260,India,Sangamner,153,Unhealthy,2,Good,29,Good,5,Good,153,Unhealthy
+14274,India,Harpalpur,167,Unhealthy,3,Good,125,Unhealthy for Sensitive Groups,2,Good,167,Unhealthy
+14288,Libya,Hun,175,Unhealthy,1,Good,41,Good,0,Good,175,Unhealthy
+14301,China,Juegang,183,Unhealthy,10,Good,3,Good,44,Good,183,Unhealthy
+14302,Democratic Republic of the Congo,Kabinda,160,Unhealthy,4,Good,70,Moderate,3,Good,160,Unhealthy
+14303,India,Kaimganj,158,Unhealthy,3,Good,51,Moderate,6,Good,158,Unhealthy
+14310,India,Khudaganj,156,Unhealthy,4,Good,25,Good,10,Good,156,Unhealthy
+14331,China,Lanzhou,152,Unhealthy,3,Good,24,Good,18,Good,152,Unhealthy
+14337,China,Lengshuijiang,184,Unhealthy,11,Good,3,Good,29,Good,184,Unhealthy
+14338,China,Leshan,180,Unhealthy,9,Good,9,Good,27,Good,180,Unhealthy
+14353,Libya,Marzuq,160,Unhealthy,1,Good,33,Good,0,Good,160,Unhealthy
+14360,Pakistan,Mingaora,163,Unhealthy,4,Good,41,Good,6,Good,163,Unhealthy
+14371,India,Najibabad,157,Unhealthy,4,Good,33,Good,10,Good,157,Unhealthy
+14376,Pakistan,Narang,173,Unhealthy,6,Good,36,Good,14,Good,173,Unhealthy
+14417,India,Deoranian,154,Unhealthy,4,Good,33,Good,8,Good,154,Unhealthy
+14430,India,Majitha,163,Unhealthy,4,Good,45,Good,8,Good,163,Unhealthy
+14431,India,Malpura,186,Unhealthy,2,Good,32,Good,5,Good,186,Unhealthy
+14439,India,Beri,176,Unhealthy,5,Good,113,Unhealthy for Sensitive Groups,9,Good,176,Unhealthy
+14478,China,Chuzhou,168,Unhealthy,8,Good,22,Good,31,Good,168,Unhealthy
+14485,India,Ahmadnagar,155,Unhealthy,2,Good,33,Good,6,Good,155,Unhealthy
+14494,India,Amloh,161,Unhealthy,4,Good,43,Good,13,Good,161,Unhealthy
+14510,India,Rupnagar,167,Unhealthy,5,Good,17,Good,25,Good,167,Unhealthy
+14517,South Africa,Randfontein,192,Unhealthy,7,Good,15,Good,17,Good,192,Unhealthy
+14547,Indonesia,Palabuhanratu,164,Unhealthy,6,Good,25,Good,14,Good,164,Unhealthy
+14548,India,Palera,167,Unhealthy,3,Good,103,Unhealthy for Sensitive Groups,2,Good,167,Unhealthy
+14553,Pakistan,Pano Aqil,156,Unhealthy,2,Good,15,Good,11,Good,156,Unhealthy
+14556,India,Penugonda,153,Unhealthy,4,Good,42,Good,5,Good,153,Unhealthy
+14566,China,Baoying,187,Unhealthy,4,Good,187,Unhealthy,3,Good,163,Unhealthy
+14568,India,Bhawanigarh,176,Unhealthy,4,Good,176,Unhealthy,1,Good,166,Unhealthy
+14569,Pakistan,Bhera,194,Unhealthy,4,Good,194,Unhealthy,1,Good,173,Unhealthy
+14571,India,Bidhuna,170,Unhealthy,4,Good,158,Unhealthy,1,Good,170,Unhealthy
+14572,India,Bijawar,162,Unhealthy,2,Good,108,Unhealthy for Sensitive Groups,0,Good,162,Unhealthy
+14577,India,Bokaro,156,Unhealthy,3,Good,93,Moderate,2,Good,156,Unhealthy
+14629,Indonesia,Cibitung,152,Unhealthy,3,Good,152,Unhealthy,1,Good,111,Unhealthy for Sensitive Groups
+14630,Indonesia,Cikupa,207,Very Unhealthy,5,Good,207,Very Unhealthy,4,Good,166,Unhealthy
+14635,China,Changzhou,164,Unhealthy,5,Good,164,Unhealthy,9,Good,158,Unhealthy
+14636,Pakistan,Chawinda,152,Unhealthy,3,Good,139,Unhealthy for Sensitive Groups,1,Good,152,Unhealthy
+14642,Pakistan,Chishtian Mandi,190,Unhealthy,2,Good,107,Unhealthy for Sensitive Groups,1,Good,190,Unhealthy
+14654,China,Xining,156,Unhealthy,4,Good,16,Good,18,Good,156,Unhealthy
+14662,India,Barhi,183,Unhealthy,1,Good,48,Good,0,Good,183,Unhealthy
+14663,India,Barhiya,162,Unhealthy,4,Good,162,Unhealthy,1,Good,154,Unhealthy
+14666,Pakistan,Basirpur,168,Unhealthy,2,Good,125,Unhealthy for Sensitive Groups,0,Good,168,Unhealthy
+14677,Nigeria,Bugama,167,Unhealthy,7,Good,36,Good,4,Good,167,Unhealthy
+14678,Democratic Republic of the Congo,Bulungu,372,Hazardous,35,Good,37,Good,13,Good,372,Hazardous
+14697,Senegal,Dahra,164,Unhealthy,1,Good,17,Good,2,Good,164,Unhealthy
+14710,India,Karari,223,Very Unhealthy,1,Good,46,Good,0,Good,223,Very Unhealthy
+14712,India,Katghora,166,Unhealthy,1,Good,56,Moderate,1,Good,166,Unhealthy
+14719,India,Gormi,188,Unhealthy,1,Good,46,Good,0,Good,188,Unhealthy
+14727,India,Garhshankar,325,Hazardous,2,Good,160,Unhealthy,2,Good,325,Hazardous
+14736,India,Joura,174,Unhealthy,1,Good,45,Good,0,Good,174,Unhealthy
+14751,India,Dhuri,500,Hazardous,1,Good,50,Good,1,Good,471,Hazardous
+14753,Pakistan,Dinga,196,Unhealthy,2,Good,164,Unhealthy,1,Good,196,Unhealthy
+14757,China,Haizhou,171,Unhealthy,4,Good,171,Unhealthy,3,Good,132,Unhealthy for Sensitive Groups
+14758,India,Hasanpur,500,Hazardous,1,Good,55,Moderate,1,Good,500,Hazardous
+14762,China,Hengshui,188,Unhealthy,3,Good,188,Unhealthy,4,Good,141,Unhealthy for Sensitive Groups
+14768,Afghanistan,Kusk,198,Unhealthy,1,Good,35,Good,0,Good,198,Unhealthy
+14813,India,Patiala,500,Hazardous,1,Good,64,Moderate,1,Good,460,Hazardous
+14815,India,Phalauda,500,Hazardous,1,Good,48,Good,1,Good,500,Hazardous
+14833,Pakistan,Mandi Bahauddin,156,Unhealthy,2,Good,117,Unhealthy for Sensitive Groups,0,Good,156,Unhealthy
+14841,Senegal,Mbacke,157,Unhealthy,2,Good,12,Good,3,Good,157,Unhealthy
+14875,China,Nanchong,163,Unhealthy,6,Good,47,Good,20,Good,163,Unhealthy
+14878,India,Narnaund,152,Unhealthy,2,Good,134,Unhealthy for Sensitive Groups,1,Good,152,Unhealthy
+14879,India,Nathdwara,196,Unhealthy,1,Good,33,Good,0,Good,196,Unhealthy
+14890,Iran (Islamic Republic of),Minab,154,Unhealthy,1,Good,117,Unhealthy for Sensitive Groups,0,Good,154,Unhealthy
+14903,Pakistan,Ahmadpur East,196,Unhealthy,2,Good,117,Unhealthy for Sensitive Groups,0,Good,196,Unhealthy
+14909,India,Bansdih,154,Unhealthy,3,Good,91,Moderate,2,Good,154,Unhealthy
+14912,India,Barmer,328,Hazardous,0,Good,29,Good,0,Good,246,Very Unhealthy
+14917,India,Bhawanipatna,159,Unhealthy,2,Good,66,Moderate,0,Good,159,Unhealthy
+14918,India,Bhongaon,166,Unhealthy,4,Good,156,Unhealthy,1,Good,166,Unhealthy
+14936,India,Charkhari,161,Unhealthy,3,Good,159,Unhealthy,0,Good,161,Unhealthy
+14939,Indonesia,Cibadak,181,Unhealthy,4,Good,181,Unhealthy,3,Good,157,Unhealthy
+14942,India,Bithur,172,Unhealthy,4,Good,157,Unhealthy,1,Good,172,Unhealthy
+14984,India,Baraut,163,Unhealthy,3,Good,161,Unhealthy,3,Good,163,Unhealthy
+15019,India,Talwara,158,Unhealthy,4,Good,35,Good,9,Good,158,Unhealthy
+15021,Philippines,Tarlac,154,Unhealthy,2,Good,25,Good,7,Good,154,Unhealthy
+15037,India,Dugda,152,Unhealthy,3,Good,123,Unhealthy for Sensitive Groups,1,Good,152,Unhealthy
+15042,Eritrea,Edd,163,Unhealthy,1,Good,41,Good,0,Good,163,Unhealthy
+15051,China,Danjiangkou,154,Unhealthy,2,Good,154,Unhealthy,1,Good,60,Moderate
+15080,Pakistan,Sadiqabad,203,Very Unhealthy,1,Good,89,Moderate,1,Good,203,Very Unhealthy
+15083,India,Anand,163,Unhealthy,1,Good,34,Good,0,Good,163,Unhealthy
+15085,India,Anklesvar,156,Unhealthy,1,Good,26,Good,0,Good,156,Unhealthy
+15093,Pakistan,Hasilpur,198,Unhealthy,1,Good,87,Moderate,0,Good,198,Unhealthy
+15094,India,Hathras,192,Unhealthy,2,Good,135,Unhealthy for Sensitive Groups,1,Good,192,Unhealthy
+15108,Mexico,Huixquilucan,167,Unhealthy,5,Good,5,Good,19,Good,167,Unhealthy
+15116,Brazil,Cotia,169,Unhealthy,6,Good,1,Good,20,Good,169,Unhealthy
+15122,India,Chhoti Sadri,192,Unhealthy,1,Good,35,Good,0,Good,192,Unhealthy
+15137,India,Kotma,180,Unhealthy,2,Good,59,Moderate,0,Good,180,Unhealthy
+15157,India,Sehore,196,Unhealthy,1,Good,37,Good,0,Good,196,Unhealthy
+15179,Pakistan,Sarai Naurang,175,Unhealthy,2,Good,85,Moderate,0,Good,175,Unhealthy
+15181,South Africa,Somerset West,259,Very Unhealthy,12,Good,9,Good,8,Good,259,Very Unhealthy
+15183,South Africa,Springs,175,Unhealthy,7,Good,12,Good,19,Good,175,Unhealthy
+15202,India,Tundla,180,Unhealthy,6,Good,39,Good,13,Good,180,Unhealthy
+15209,South Africa,Westonaria,158,Unhealthy,5,Good,19,Good,14,Good,158,Unhealthy
+15224,China,Xinzhi,152,Unhealthy,4,Good,25,Good,20,Good,152,Unhealthy
+15233,India,Jaswantnagar,211,Very Unhealthy,2,Good,98,Moderate,1,Good,211,Very Unhealthy
+15234,India,Jatara,199,Unhealthy,1,Good,50,Good,0,Good,199,Unhealthy
+15235,China,Jiangyin,169,Unhealthy,5,Good,169,Unhealthy,9,Good,155,Unhealthy
+15236,China,Jieshi,168,Unhealthy,3,Good,168,Unhealthy,2,Good,84,Moderate
+15241,India,Kairana,156,Unhealthy,3,Good,156,Unhealthy,1,Good,154,Unhealthy
+15243,Pakistan,Kamir,182,Unhealthy,2,Good,128,Unhealthy for Sensitive Groups,1,Good,182,Unhealthy
+15244,Democratic Republic of the Congo,Kaniama,266,Very Unhealthy,12,Good,43,Good,13,Good,266,Very Unhealthy
+15254,India,Dasna,165,Unhealthy,4,Good,144,Unhealthy for Sensitive Groups,2,Good,165,Unhealthy
+15255,India,Daurala,160,Unhealthy,3,Good,118,Unhealthy for Sensitive Groups,1,Good,160,Unhealthy
+15258,India,Dibai,162,Unhealthy,3,Good,131,Unhealthy for Sensitive Groups,2,Good,162,Unhealthy
+15267,Bangladesh,Narsingdi,178,Unhealthy,2,Good,49,Good,2,Good,178,Unhealthy
+15268,Pakistan,Nasirabad,162,Unhealthy,1,Good,69,Moderate,1,Good,162,Unhealthy
+15293,Pakistan,Ratodero,165,Unhealthy,1,Good,75,Moderate,1,Good,165,Unhealthy
+15304,Dominican Republic,Salcedo,155,Unhealthy,3,Good,11,Good,11,Good,155,Unhealthy
+15314,India,Kumbhraj,156,Unhealthy,1,Good,42,Good,0,Good,156,Unhealthy
+15315,India,Kundla,154,Unhealthy,0,Good,30,Good,0,Good,154,Unhealthy
+15322,Iran (Islamic Republic of),Mehriz,154,Unhealthy,1,Good,45,Good,0,Good,154,Unhealthy
+15347,Pakistan,Sibi,159,Unhealthy,1,Good,81,Moderate,0,Good,159,Unhealthy
+15350,India,Sirathu,227,Very Unhealthy,1,Good,47,Good,0,Good,227,Very Unhealthy
+15351,India,Sojitra,155,Unhealthy,1,Good,35,Good,0,Good,155,Unhealthy
+15364,Pakistan,Pind Dadan Khan,209,Very Unhealthy,2,Good,154,Unhealthy,1,Good,209,Very Unhealthy
+15378,India,Vada,152,Unhealthy,1,Good,29,Good,1,Good,152,Unhealthy
+15391,China,Zhoukou,179,Unhealthy,3,Good,179,Unhealthy,2,Good,125,Unhealthy for Sensitive Groups
+15397,India,Viramgam,164,Unhealthy,1,Good,37,Good,0,Good,164,Unhealthy
+15400,India,Vrindavan,246,Very Unhealthy,1,Good,44,Good,0,Good,246,Very Unhealthy
+15411,Finland,Tuusula,157,Unhealthy,3,Good,21,Good,15,Good,157,Unhealthy
+15412,India,Lakhna,202,Very Unhealthy,1,Good,46,Good,0,Good,202,Very Unhealthy
+15421,China,Linqiong,167,Unhealthy,7,Good,46,Good,23,Good,167,Unhealthy
+15432,India,Lahar,250,Very Unhealthy,1,Good,49,Good,0,Good,250,Very Unhealthy
+15433,China,Lingyuan,153,Unhealthy,3,Good,107,Unhealthy for Sensitive Groups,1,Good,153,Unhealthy
+15440,China,Luqiao,206,Very Unhealthy,6,Good,206,Very Unhealthy,5,Good,157,Unhealthy
+15453,Bahrain,Manama,188,Unhealthy,2,Good,127,Unhealthy for Sensitive Groups,3,Good,188,Unhealthy
+15462,India,Jaipur,191,Unhealthy,1,Good,40,Good,0,Good,191,Unhealthy
+15463,India,Jalaun,247,Very Unhealthy,1,Good,53,Moderate,0,Good,247,Very Unhealthy
+15464,India,Jamuria,167,Unhealthy,4,Good,137,Unhealthy for Sensitive Groups,2,Good,167,Unhealthy
+15496,India,Rampura,257,Very Unhealthy,1,Good,56,Moderate,1,Good,257,Very Unhealthy
+15497,India,Ranapur,152,Unhealthy,1,Good,35,Good,0,Good,152,Unhealthy
+15506,Mexico,San Martin De Las Piramides,255,Very Unhealthy,2,Good,18,Good,10,Good,255,Very Unhealthy
+15521,India,Shahpura,169,Unhealthy,1,Good,40,Good,0,Good,169,Unhealthy
+15525,India,Sultanpur,181,Unhealthy,2,Good,136,Unhealthy for Sensitive Groups,1,Good,181,Unhealthy
+15534,Brazil,Guarulhos,217,Very Unhealthy,13,Good,0,Good,39,Good,217,Very Unhealthy
+15536,India,Gulaothi,500,Hazardous,1,Good,62,Moderate,2,Good,500,Hazardous
+15554,Bangladesh,Hajiganj,164,Unhealthy,2,Good,37,Good,3,Good,164,Unhealthy
+15555,India,Halol,159,Unhealthy,1,Good,32,Good,0,Good,159,Unhealthy
+15569,India,Jafarpur,189,Unhealthy,3,Good,85,Moderate,3,Good,189,Unhealthy
+15572,India,Jamui,186,Unhealthy,1,Good,93,Moderate,1,Good,186,Unhealthy
+15574,India,Jarwal,301,Hazardous,3,Good,153,Unhealthy,2,Good,301,Hazardous
+15575,India,Jewar,500,Hazardous,1,Good,40,Good,2,Good,500,Hazardous
+15577,Mexico,Juchitepec,163,Unhealthy,2,Good,8,Good,14,Good,163,Unhealthy
+15589,Chile,El Monte,198,Unhealthy,15,Good,0,Good,24,Good,198,Unhealthy
+15591,India,Faridabad,500,Hazardous,1,Good,45,Good,2,Good,500,Hazardous
+15598,India,Khailar,170,Unhealthy,1,Good,38,Good,0,Good,170,Unhealthy
+15599,India,Khamaria,155,Unhealthy,1,Good,32,Good,0,Good,155,Unhealthy
+15603,Iran (Islamic Republic of),Eslamshahr,235,Very Unhealthy,6,Good,235,Very Unhealthy,8,Good,169,Unhealthy
+15605,China,Feicheng,167,Unhealthy,4,Good,167,Unhealthy,3,Good,161,Unhealthy
+15616,India,Jamshedpur,155,Unhealthy,3,Good,83,Moderate,1,Good,155,Unhealthy
+15635,India,Rehti,160,Unhealthy,1,Good,42,Good,0,Good,160,Unhealthy
+15647,Pakistan,Dera Din Panah,176,Unhealthy,2,Good,113,Unhealthy for Sensitive Groups,0,Good,176,Unhealthy
+15673,Brazil,Suzano,247,Very Unhealthy,16,Good,0,Good,46,Good,247,Very Unhealthy
+15679,China,Taihe,171,Unhealthy,5,Good,171,Unhealthy,3,Good,135,Unhealthy for Sensitive Groups
+15684,Senegal,Thies,181,Unhealthy,3,Good,22,Good,6,Good,181,Unhealthy
+15686,India,Narayangarh,190,Unhealthy,3,Good,190,Unhealthy,2,Good,162,Unhealthy
+15689,Uganda,Njeru,152,Unhealthy,7,Good,14,Good,4,Good,152,Unhealthy
+15700,Kenya,Kiambu,175,Unhealthy,10,Good,11,Good,4,Good,175,Unhealthy
+15704,India,Kot Kapura,348,Hazardous,3,Good,79,Moderate,7,Good,341,Hazardous
+15705,Pakistan,Kotri,184,Unhealthy,1,Good,46,Good,0,Good,184,Unhealthy
+15715,India,Mahmudabad,394,Hazardous,2,Good,132,Unhealthy for Sensitive Groups,3,Good,350,Hazardous
+15728,China,Liaozhong,154,Unhealthy,3,Good,92,Moderate,4,Good,154,Unhealthy
+15736,China,Peikang,201,Very Unhealthy,3,Good,201,Very Unhealthy,4,Good,130,Unhealthy for Sensitive Groups
+15741,India,Pipar,218,Very Unhealthy,0,Good,33,Good,0,Good,218,Very Unhealthy
+15754,India,Rabupura,214,Very Unhealthy,3,Good,155,Unhealthy,2,Good,214,Very Unhealthy
+15756,Mexico,Villahermosa,173,Unhealthy,6,Good,7,Good,10,Good,173,Unhealthy
+15764,China,Weinan,196,Unhealthy,3,Good,196,Unhealthy,3,Good,108,Unhealthy for Sensitive Groups
+15766,India,Wer,252,Very Unhealthy,1,Good,45,Good,0,Good,252,Very Unhealthy
+15787,Nigeria,Agulu,152,Unhealthy,7,Good,16,Good,7,Good,152,Unhealthy
+15790,India,Maholi,159,Unhealthy,4,Good,23,Good,15,Good,159,Unhealthy
+15808,Iran (Islamic Republic of),Ardakan,161,Unhealthy,1,Good,47,Good,0,Good,161,Unhealthy
+15813,China,Yima,171,Unhealthy,7,Good,9,Good,25,Good,171,Unhealthy
+15836,Pakistan,Bhawana,178,Unhealthy,2,Good,127,Unhealthy for Sensitive Groups,1,Good,178,Unhealthy
+15840,Indonesia,Bangil,155,Unhealthy,3,Good,96,Moderate,2,Good,155,Unhealthy
+15846,India,Chirgaon,217,Very Unhealthy,1,Good,46,Good,0,Good,217,Very Unhealthy
+15847,India,Ballarpur,159,Unhealthy,1,Good,27,Good,3,Good,159,Unhealthy
+15848,Indonesia,Ciputat,202,Very Unhealthy,5,Good,202,Very Unhealthy,3,Good,168,Unhealthy
+15874,Brazil,Belford Roxo,154,Unhealthy,5,Good,1,Good,20,Good,154,Unhealthy
+15899,Angola,Camabatela,198,Unhealthy,12,Good,29,Good,8,Good,198,Unhealthy
+15907,India,Champa,181,Unhealthy,1,Good,79,Moderate,1,Good,181,Unhealthy
+15909,Indonesia,Buduran,158,Unhealthy,3,Good,133,Unhealthy for Sensitive Groups,1,Good,158,Unhealthy
+15913,India,Tigri,174,Unhealthy,4,Good,174,Unhealthy,2,Good,158,Unhealthy
+15942,India,Bisauli,155,Unhealthy,3,Good,99,Moderate,1,Good,155,Unhealthy
+15973,Mexico,Zumpango,175,Unhealthy,3,Good,12,Good,13,Good,175,Unhealthy
+15990,Nigeria,Umuahia,165,Unhealthy,9,Good,19,Good,7,Good,165,Unhealthy
+15991,Viet Nam,Uong Bi,152,Unhealthy,3,Good,43,Good,3,Good,152,Unhealthy
+15995,India,Vadodara,155,Unhealthy,0,Good,28,Good,0,Good,155,Unhealthy
+16002,India,Vidisha,153,Unhealthy,1,Good,37,Good,0,Good,153,Unhealthy
+16014,India,Rajura,158,Unhealthy,1,Good,27,Good,3,Good,158,Unhealthy
+16037,India,Morar,239,Very Unhealthy,1,Good,46,Good,0,Good,239,Very Unhealthy
+16043,India,Nagar,310,Hazardous,1,Good,46,Good,0,Good,310,Hazardous
+16050,China,Nanjing,185,Unhealthy,4,Good,185,Unhealthy,7,Good,143,Unhealthy for Sensitive Groups
+16055,Mexico,Rio Bravo,158,Unhealthy,3,Good,14,Good,6,Good,158,Unhealthy
+16062,India,Nawashahr,152,Unhealthy,2,Good,152,Unhealthy,1,Good,118,Unhealthy for Sensitive Groups
+16065,Brazil,Palmas,163,Unhealthy,6,Good,4,Good,3,Good,163,Unhealthy
+16080,India,Khajuraho,207,Very Unhealthy,1,Good,45,Good,0,Good,207,Very Unhealthy
+16081,India,Khapa,172,Unhealthy,1,Good,35,Good,0,Good,172,Unhealthy
+16082,India,Hodal,500,Hazardous,1,Good,61,Moderate,1,Good,411,Hazardous
+16085,Mexico,Huimanguillo,164,Unhealthy,7,Good,6,Good,10,Good,164,Unhealthy
+16091,India,Jharia,186,Unhealthy,2,Good,115,Unhealthy for Sensitive Groups,2,Good,186,Unhealthy
+16108,Nigeria,Abeokuta,162,Unhealthy,9,Good,11,Good,9,Good,162,Unhealthy
+16118,India,Anandpur Sahib,154,Unhealthy,2,Good,154,Unhealthy,2,Good,100,Unhealthy for Sensitive Groups
+16126,India,Bagar,500,Hazardous,1,Good,34,Good,0,Good,476,Hazardous
+16149,India,Chandauli,245,Very Unhealthy,1,Good,67,Moderate,1,Good,245,Very Unhealthy
+16154,India,Chatsu,185,Unhealthy,1,Good,41,Good,0,Good,185,Unhealthy
+16175,India,Guna,187,Unhealthy,1,Good,45,Good,0,Good,187,Unhealthy
+16195,India,Parvatsar,223,Very Unhealthy,1,Good,36,Good,0,Good,223,Very Unhealthy
+16218,Libya,Gat,169,Unhealthy,1,Good,24,Good,0,Good,169,Unhealthy
+16219,Uzbekistan,Gazli,173,Unhealthy,1,Good,46,Good,0,Good,173,Unhealthy
+16234,India,Ramkola,172,Unhealthy,4,Good,134,Unhealthy for Sensitive Groups,1,Good,172,Unhealthy
+16237,India,Ringas,229,Very Unhealthy,1,Good,39,Good,0,Good,229,Very Unhealthy
+16250,India,Ballia,377,Hazardous,2,Good,90,Moderate,1,Good,300,Hazardous
+16256,India,Bhachau,170,Unhealthy,0,Good,31,Good,0,Good,170,Unhealthy
+16257,Bangladesh,Bhola,165,Unhealthy,1,Good,44,Good,1,Good,165,Unhealthy
+16262,India,Ahmadabad,158,Unhealthy,1,Good,40,Good,0,Good,158,Unhealthy
+16267,India,Alirajpur,154,Unhealthy,0,Good,35,Good,0,Good,154,Unhealthy
+16271,India,Arambagh,170,Unhealthy,2,Good,82,Moderate,2,Good,170,Unhealthy
+16272,India,Araria,208,Very Unhealthy,2,Good,98,Moderate,1,Good,208,Very Unhealthy
+16315,Uzbekistan,Buka,152,Unhealthy,1,Good,46,Good,0,Good,152,Unhealthy
+16324,India,Chandia,154,Unhealthy,1,Good,42,Good,0,Good,154,Unhealthy
+16330,Pakistan,Chunian,438,Hazardous,1,Good,56,Moderate,1,Good,383,Hazardous
+16344,India,Ahraura,177,Unhealthy,4,Good,61,Moderate,8,Good,177,Unhealthy
+16354,India,Bah,176,Unhealthy,5,Good,41,Good,10,Good,176,Unhealthy
+16355,Senegal,Bakel,168,Unhealthy,1,Good,38,Good,0,Good,168,Unhealthy
+16356,India,Baloda Bazar,154,Unhealthy,2,Good,38,Good,4,Good,154,Unhealthy
+16360,India,Barnala,162,Unhealthy,4,Good,43,Good,12,Good,162,Unhealthy
+16371,India,Budaun,156,Unhealthy,4,Good,31,Good,15,Good,156,Unhealthy
+16372,Chile,Bulnes,164,Unhealthy,4,Good,7,Good,8,Good,164,Unhealthy
+16387,India,Abohar,162,Unhealthy,2,Good,125,Unhealthy for Sensitive Groups,0,Good,162,Unhealthy
+16393,India,Aliganj,187,Unhealthy,3,Good,164,Unhealthy,2,Good,187,Unhealthy
+16394,India,Khargone,153,Unhealthy,2,Good,31,Good,3,Good,153,Unhealthy
+16395,Pakistan,Khipro,161,Unhealthy,1,Good,30,Good,2,Good,161,Unhealthy
+16396,India,Khirkiya,192,Unhealthy,1,Good,37,Good,2,Good,192,Unhealthy
+16405,Pakistan,Kotli Loharan,169,Unhealthy,5,Good,31,Good,12,Good,169,Unhealthy
+16409,India,Kurduvadi,157,Unhealthy,2,Good,29,Good,4,Good,157,Unhealthy
+16432,India,Modasa,153,Unhealthy,2,Good,29,Good,5,Good,153,Unhealthy
+16436,India,Mudkhed,174,Unhealthy,1,Good,45,Good,1,Good,174,Unhealthy
+16441,India,Nagod,165,Unhealthy,3,Good,103,Unhealthy for Sensitive Groups,2,Good,165,Unhealthy
+16443,India,Nandigama,162,Unhealthy,3,Good,38,Good,7,Good,162,Unhealthy
+16467,Pakistan,Phalia,170,Unhealthy,5,Good,36,Good,12,Good,170,Unhealthy
+16478,India,Kumhari,160,Unhealthy,3,Good,39,Good,5,Good,160,Unhealthy
+16485,China,Liangxiang,160,Unhealthy,5,Good,24,Good,30,Good,160,Unhealthy
+16493,India,Sirsilla,176,Unhealthy,2,Good,37,Good,8,Good,176,Unhealthy
+16519,Indonesia,Purwokerto,178,Unhealthy,9,Good,14,Good,22,Good,178,Unhealthy
+16521,India,Qadian,162,Unhealthy,4,Good,41,Good,9,Good,162,Unhealthy
+16522,India,Ramganj Mandi,185,Unhealthy,2,Good,38,Good,4,Good,185,Unhealthy
+16533,Pakistan,Hala,157,Unhealthy,1,Good,24,Good,2,Good,157,Unhealthy
+16543,China,Huaibei,153,Unhealthy,6,Good,75,Moderate,18,Good,153,Unhealthy
+16553,India,Jalalpur,167,Unhealthy,4,Good,75,Moderate,6,Good,167,Unhealthy
+16554,India,Jaspur,159,Unhealthy,5,Good,20,Good,12,Good,159,Unhealthy
+16555,Indonesia,Jatiroto,163,Unhealthy,6,Good,10,Good,13,Good,163,Unhealthy
+16562,China,Kaifeng,154,Unhealthy,5,Good,78,Moderate,16,Good,154,Unhealthy
+16575,India,Bahsuma,180,Unhealthy,7,Good,14,Good,21,Good,180,Unhealthy
+16602,India,Charkhi Dadri,171,Unhealthy,4,Good,128,Unhealthy for Sensitive Groups,5,Good,171,Unhealthy
+16611,India,Clement Town,156,Unhealthy,4,Good,25,Good,11,Good,156,Unhealthy
+16638,Indonesia,Gamping,164,Unhealthy,6,Good,12,Good,18,Good,164,Unhealthy
+16649,India,Dhamnod,159,Unhealthy,2,Good,18,Good,5,Good,159,Unhealthy
+16681,India,Khed Brahma,182,Unhealthy,1,Good,35,Good,0,Good,182,Unhealthy
+16686,India,Kosamba,156,Unhealthy,1,Good,25,Good,1,Good,156,Unhealthy
+16688,China,Shenxian,157,Unhealthy,5,Good,82,Moderate,17,Good,157,Unhealthy
+16696,Indonesia,Labuhan,176,Unhealthy,3,Good,176,Unhealthy,1,Good,137,Unhealthy for Sensitive Groups
+16699,India,Sirmaur,171,Unhealthy,3,Good,96,Moderate,4,Good,171,Unhealthy
+16700,India,Laharpur,177,Unhealthy,4,Good,177,Unhealthy,1,Good,174,Unhealthy
+16702,Russian Federation,Skovorodino,214,Very Unhealthy,8,Good,25,Good,9,Good,214,Very Unhealthy
+16712,India,Narwar,162,Unhealthy,3,Good,90,Moderate,2,Good,162,Unhealthy
+16717,Indonesia,Nganjuk,172,Unhealthy,6,Good,6,Good,19,Good,172,Unhealthy
+16734,India,Faridpur,157,Unhealthy,4,Good,26,Good,10,Good,157,Unhealthy
+16750,Bangladesh,Dhamrai,152,Unhealthy,4,Good,13,Good,15,Good,152,Unhealthy
+16761,India,Raurkela,158,Unhealthy,3,Good,45,Good,3,Good,158,Unhealthy
+16769,China,Qingyuan,153,Unhealthy,4,Good,10,Good,19,Good,153,Unhealthy
+16783,Pakistan,Pattoki,174,Unhealthy,4,Good,85,Moderate,7,Good,174,Unhealthy
+16786,India,Banda,169,Unhealthy,4,Good,169,Unhealthy,1,Good,167,Unhealthy
+16821,India,Tori Fatehpur,163,Unhealthy,3,Good,146,Unhealthy for Sensitive Groups,0,Good,163,Unhealthy
+16853,Mexico,Pichucalco,195,Unhealthy,11,Good,2,Good,13,Good,195,Unhealthy
+16866,India,Susner,162,Unhealthy,1,Good,37,Good,0,Good,162,Unhealthy
+16867,Namibia,Swakopmund,204,Very Unhealthy,1,Good,22,Good,0,Good,204,Very Unhealthy
+16875,Mexico,Teapa,171,Unhealthy,7,Good,3,Good,11,Good,171,Unhealthy
+16885,Mexico,Tlaquiltenango,172,Unhealthy,3,Good,12,Good,19,Good,172,Unhealthy
+16897,Mexico,Xicohtzinco,217,Very Unhealthy,4,Good,3,Good,15,Good,217,Very Unhealthy
+16898,China,Yaan,166,Unhealthy,3,Good,59,Moderate,3,Good,166,Unhealthy
+16903,Pakistan,Gambat,168,Unhealthy,1,Good,48,Good,1,Good,168,Unhealthy
+16904,India,Gandevi,152,Unhealthy,0,Good,24,Good,0,Good,152,Unhealthy
+16916,Egypt,Sohag,158,Unhealthy,1,Good,48,Good,1,Good,158,Unhealthy
+16917,India,Sardhana,160,Unhealthy,3,Good,124,Unhealthy for Sensitive Groups,1,Good,160,Unhealthy
+16920,China,Longhua,180,Unhealthy,4,Good,102,Unhealthy for Sensitive Groups,7,Good,180,Unhealthy
+16935,Pakistan,Naukot,160,Unhealthy,1,Good,38,Good,0,Good,160,Unhealthy
+16936,Pakistan,Nawabshah,164,Unhealthy,1,Good,40,Good,0,Good,164,Unhealthy
+16948,India,Nurmahal,162,Unhealthy,3,Good,162,Unhealthy,1,Good,158,Unhealthy
+16953,India,Muradnagar,164,Unhealthy,4,Good,137,Unhealthy for Sensitive Groups,2,Good,164,Unhealthy
+16956,China,Nanhai,152,Unhealthy,3,Good,152,Unhealthy,2,Good,101,Unhealthy for Sensitive Groups
+16979,India,Sheopur,254,Very Unhealthy,1,Good,41,Good,0,Good,254,Very Unhealthy
+16996,India,Govardhan,178,Unhealthy,5,Good,40,Good,13,Good,178,Unhealthy
+16997,India,Gurdaha,156,Unhealthy,4,Good,19,Good,11,Good,156,Unhealthy
+16999,India,Hadgaon,161,Unhealthy,2,Good,34,Good,3,Good,161,Unhealthy
+17022,India,Jaora,164,Unhealthy,1,Good,30,Good,3,Good,164,Unhealthy
+17027,India,Kanker,156,Unhealthy,2,Good,47,Good,1,Good,156,Unhealthy
+17032,India,Khaga,176,Unhealthy,4,Good,101,Unhealthy for Sensitive Groups,5,Good,176,Unhealthy
+17059,United States of America,Edinburg,156,Unhealthy,3,Good,15,Good,6,Good,156,Unhealthy
+17068,Mexico,Tulancingo,166,Unhealthy,2,Good,10,Good,6,Good,166,Unhealthy
+17072,India,Tilhar,156,Unhealthy,3,Good,112,Unhealthy for Sensitive Groups,1,Good,156,Unhealthy
+17074,India,Toda Bhim,193,Unhealthy,2,Good,95,Moderate,1,Good,193,Unhealthy
+17091,China,Xuzhou,184,Unhealthy,4,Good,184,Unhealthy,6,Good,166,Unhealthy
+17095,Mexico,Teoloyucan,160,Unhealthy,4,Good,7,Good,15,Good,160,Unhealthy
+17104,Iran (Islamic Republic of),Rafsanjan,163,Unhealthy,1,Good,53,Moderate,0,Good,163,Unhealthy
+17128,Bangladesh,Satkhira,171,Unhealthy,6,Good,81,Moderate,6,Good,171,Unhealthy
+17141,India,Pilibanga,500,Hazardous,1,Good,43,Good,0,Good,470,Hazardous
+17146,India,Sikandarpur,186,Unhealthy,5,Good,182,Unhealthy,1,Good,186,Unhealthy
+17161,Indonesia,Tanggulangin,165,Unhealthy,3,Good,111,Unhealthy for Sensitive Groups,1,Good,165,Unhealthy
+17181,India,Sardarshahr,447,Hazardous,1,Good,49,Good,0,Good,355,Hazardous
+17196,South Africa,Robertson,160,Unhealthy,9,Good,5,Good,5,Good,160,Unhealthy
+17200,China,Putai,193,Unhealthy,2,Good,193,Unhealthy,6,Good,128,Unhealthy for Sensitive Groups
+17219,South Africa,Midrand,211,Very Unhealthy,15,Good,12,Good,19,Good,211,Very Unhealthy
+17229,Syrian Arab Republic,Jaramana,167,Unhealthy,1,Good,50,Good,0,Good,167,Unhealthy
+17233,Democratic Republic of the Congo,Kindu,160,Unhealthy,6,Good,43,Good,1,Good,160,Unhealthy
+17249,Pakistan,Paharpur,174,Unhealthy,3,Good,149,Unhealthy for Sensitive Groups,0,Good,174,Unhealthy
+17266,Pakistan,Faqirwali,170,Unhealthy,3,Good,150,Unhealthy,0,Good,170,Unhealthy
+17281,India,Idar,159,Unhealthy,1,Good,35,Good,0,Good,159,Unhealthy
+17286,Pakistan,Diplo,167,Unhealthy,1,Good,35,Good,0,Good,167,Unhealthy
+17287,India,Dirba,178,Unhealthy,4,Good,178,Unhealthy,1,Good,168,Unhealthy
+17295,China,Dangtu,181,Unhealthy,9,Good,2,Good,39,Good,181,Unhealthy
+17297,India,Daosa,172,Unhealthy,3,Good,98,Moderate,3,Good,172,Unhealthy
+17298,Pakistan,Daud Khel,180,Unhealthy,3,Good,113,Unhealthy for Sensitive Groups,2,Good,180,Unhealthy
+17304,India,Dhamtari,154,Unhealthy,2,Good,49,Good,1,Good,154,Unhealthy
+17313,Mexico,Naucalpan,194,Unhealthy,2,Good,40,Good,5,Good,194,Unhealthy
+17339,Indonesia,Randudongkal,188,Unhealthy,11,Good,8,Good,26,Good,188,Unhealthy
+17348,India,Ambahta,158,Unhealthy,3,Good,134,Unhealthy for Sensitive Groups,1,Good,158,Unhealthy
+17365,Nigeria,Awka,154,Unhealthy,8,Good,30,Good,5,Good,154,Unhealthy
+17368,Pakistan,Lalian,173,Unhealthy,2,Good,128,Unhealthy for Sensitive Groups,1,Good,173,Unhealthy
+17393,South Africa,Ekangala,166,Unhealthy,6,Good,13,Good,15,Good,166,Unhealthy
+17397,India,Maurawan,174,Unhealthy,4,Good,70,Moderate,7,Good,174,Unhealthy
+17401,India,Mihona,171,Unhealthy,4,Good,101,Unhealthy for Sensitive Groups,4,Good,171,Unhealthy
+17403,China,Mingshui,167,Unhealthy,6,Good,120,Unhealthy for Sensitive Groups,17,Good,167,Unhealthy
+17411,India,Multai,162,Unhealthy,2,Good,14,Good,9,Good,162,Unhealthy
+17422,China,Yumen,218,Very Unhealthy,0,Good,39,Good,0,Good,218,Very Unhealthy
+17429,India,Gondal,154,Unhealthy,0,Good,29,Good,0,Good,154,Unhealthy
+17431,Senegal,Gossas,161,Unhealthy,2,Good,13,Good,3,Good,161,Unhealthy
+17448,Pakistan,Kharian,158,Unhealthy,3,Good,146,Unhealthy for Sensitive Groups,0,Good,158,Unhealthy
+17451,Democratic Republic of the Congo,Kinshasa,216,Very Unhealthy,21,Good,105,Unhealthy for Sensitive Groups,7,Good,216,Very Unhealthy
+17463,India,Siswa Bazar,154,Unhealthy,4,Good,26,Good,10,Good,154,Unhealthy
+17466,United States of America,West Puente Valley,154,Unhealthy,4,Good,13,Good,25,Good,154,Unhealthy
+17470,China,Xian,307,Hazardous,19,Good,0,Good,48,Good,307,Hazardous
+17482,China,Fangshan,163,Unhealthy,4,Good,163,Unhealthy,6,Good,155,Unhealthy
+17486,Pakistan,Fort Abbas,206,Very Unhealthy,1,Good,67,Moderate,0,Good,206,Very Unhealthy
+17491,Indonesia,Madiun,169,Unhealthy,6,Good,3,Good,20,Good,169,Unhealthy
+17493,India,Maler Kotla,163,Unhealthy,4,Good,40,Good,11,Good,163,Unhealthy
+17500,Indonesia,Margasari,187,Unhealthy,10,Good,8,Good,25,Good,187,Unhealthy
+17507,Viet Nam,Phu Ly,164,Unhealthy,8,Good,26,Good,18,Good,164,Unhealthy
+17516,India,Purna,178,Unhealthy,1,Good,39,Good,2,Good,178,Unhealthy
+17520,India,Raipur,169,Unhealthy,1,Good,30,Good,2,Good,169,Unhealthy
+17530,India,Panchla,192,Unhealthy,9,Good,5,Good,23,Good,192,Unhealthy
+17548,India,Takhatgarh,187,Unhealthy,0,Good,34,Good,0,Good,187,Unhealthy
+17554,China,Tengzhou,165,Unhealthy,3,Good,165,Unhealthy,2,Good,85,Moderate
+17567,Nigeria,Warri,202,Very Unhealthy,16,Good,1,Good,8,Good,202,Very Unhealthy
+17578,Nigeria,Uga,154,Unhealthy,8,Good,19,Good,6,Good,154,Unhealthy
+17583,Nigeria,Onitsha,213,Very Unhealthy,11,Good,8,Good,11,Good,213,Very Unhealthy
+17597,India,Raisen,153,Unhealthy,1,Good,36,Good,0,Good,153,Unhealthy
+17620,China,Yangcun,152,Unhealthy,4,Good,87,Moderate,12,Good,152,Unhealthy
+17621,Nigeria,Yenagoa,164,Unhealthy,8,Good,16,Good,6,Good,164,Unhealthy
+17626,Brazil,Paracambi,163,Unhealthy,7,Good,0,Good,20,Good,163,Unhealthy
+17642,Pakistan,Shujaabad,196,Unhealthy,1,Good,94,Moderate,1,Good,196,Unhealthy
+17645,Iran (Islamic Republic of),Ashtian,190,Unhealthy,3,Good,190,Unhealthy,2,Good,157,Unhealthy
+17650,India,Baragaon,324,Hazardous,1,Good,51,Moderate,1,Good,264,Very Unhealthy
+17651,India,Barpali,164,Unhealthy,1,Good,67,Moderate,0,Good,164,Unhealthy
+17660,Uganda,Bugiri,157,Unhealthy,5,Good,23,Good,1,Good,157,Unhealthy
+17681,Pakistan,Ahmadpur Sial,263,Very Unhealthy,1,Good,58,Moderate,1,Good,263,Very Unhealthy
+17704,India,Gola Bazar,242,Very Unhealthy,4,Good,169,Unhealthy,2,Good,242,Very Unhealthy
+17708,India,Masila,198,Unhealthy,3,Good,94,Moderate,4,Good,198,Unhealthy
+17711,Brazil,Matozinhos,155,Unhealthy,6,Good,0,Good,6,Good,155,Unhealthy
+17713,India,Mauganj,216,Very Unhealthy,1,Good,43,Good,0,Good,216,Very Unhealthy
+17720,Pakistan,Mithi,196,Unhealthy,1,Good,37,Good,0,Good,196,Unhealthy
+17736,India,Malaut,500,Hazardous,1,Good,43,Good,2,Good,487,Hazardous
+17742,India,Katangi,153,Unhealthy,1,Good,38,Good,0,Good,153,Unhealthy
+17755,India,Jhusi,210,Very Unhealthy,1,Good,42,Good,1,Good,210,Very Unhealthy
+17767,India,Kopaganj,224,Very Unhealthy,3,Good,138,Unhealthy for Sensitive Groups,2,Good,224,Very Unhealthy
+17775,Pakistan,Topi,169,Unhealthy,3,Good,163,Unhealthy,1,Good,169,Unhealthy
+17804,India,Baduria,178,Unhealthy,6,Good,91,Moderate,7,Good,178,Unhealthy
+17810,Venezuela (Bolivarian Republic of),Barcelona,163,Unhealthy,4,Good,8,Good,8,Good,163,Unhealthy
+17811,India,Barwaha,153,Unhealthy,1,Good,35,Good,0,Good,153,Unhealthy
+17831,Pakistan,Alipur Chatha,163,Unhealthy,3,Good,163,Unhealthy,2,Good,160,Unhealthy
+17843,China,Baoding,164,Unhealthy,4,Good,164,Unhealthy,4,Good,149,Unhealthy for Sensitive Groups
+17850,Pakistan,Warburton,159,Unhealthy,3,Good,152,Unhealthy,1,Good,159,Unhealthy
+17865,Mexico,Tianguistenco,160,Unhealthy,4,Good,7,Good,15,Good,160,Unhealthy
+17873,China,Tucheng,167,Unhealthy,3,Good,167,Unhealthy,1,Good,123,Unhealthy for Sensitive Groups
+17877,India,Unnao,188,Unhealthy,2,Good,121,Unhealthy for Sensitive Groups,1,Good,188,Unhealthy
+17889,India,Bijnor,168,Unhealthy,3,Good,168,Unhealthy,1,Good,151,Unhealthy
+17897,Chile,Calera,158,Unhealthy,6,Good,0,Good,20,Good,158,Unhealthy
+17901,Pakistan,Gojra,175,Unhealthy,5,Good,71,Moderate,8,Good,175,Unhealthy
+17908,India,Hirakud,156,Unhealthy,2,Good,67,Moderate,2,Good,156,Unhealthy
+17919,India,Jaggayyapeta,161,Unhealthy,3,Good,41,Good,6,Good,161,Unhealthy
+17921,China,Jiuquan,240,Very Unhealthy,1,Good,36,Good,2,Good,240,Very Unhealthy
+17945,India,Rajpipla,162,Unhealthy,0,Good,30,Good,0,Good,162,Unhealthy
+17952,Nigeria,Ozubulu,170,Unhealthy,10,Good,19,Good,9,Good,170,Unhealthy
+17967,India,Renukut,173,Unhealthy,3,Good,108,Unhealthy for Sensitive Groups,1,Good,173,Unhealthy
+17974,China,Rucheng,171,Unhealthy,4,Good,171,Unhealthy,4,Good,141,Unhealthy for Sensitive Groups
+17981,India,Sakti,178,Unhealthy,2,Good,121,Unhealthy for Sensitive Groups,2,Good,178,Unhealthy
+18005,India,Mehnagar,180,Unhealthy,3,Good,171,Unhealthy,1,Good,180,Unhealthy
+18011,India,Munak,166,Unhealthy,2,Good,141,Unhealthy for Sensitive Groups,1,Good,166,Unhealthy
+18012,India,Naenwa,176,Unhealthy,1,Good,43,Good,0,Good,176,Unhealthy
+18015,India,Nihtaur,166,Unhealthy,3,Good,166,Unhealthy,1,Good,140,Unhealthy for Sensitive Groups
+18016,China,Ningbo,205,Very Unhealthy,5,Good,205,Very Unhealthy,4,Good,151,Unhealthy
+18017,Brazil,Niteroi,160,Unhealthy,5,Good,1,Good,23,Good,160,Unhealthy
+18020,India,Khem Karan,156,Unhealthy,2,Good,132,Unhealthy for Sensitive Groups,1,Good,156,Unhealthy
+18022,India,Kiratpur,169,Unhealthy,3,Good,169,Unhealthy,1,Good,141,Unhealthy for Sensitive Groups
+18047,India,Nahan,427,Hazardous,1,Good,106,Unhealthy for Sensitive Groups,1,Good,379,Hazardous
+18055,India,Nilokheri,500,Hazardous,1,Good,46,Good,1,Good,500,Hazardous
+18065,Pakistan,Tando Ghulam Ali,156,Unhealthy,1,Good,43,Good,0,Good,156,Unhealthy
+18075,Mexico,Huauchinango,183,Unhealthy,4,Good,4,Good,10,Good,183,Unhealthy
+18101,India,Pushkar,177,Unhealthy,1,Good,36,Good,0,Good,177,Unhealthy
+18119,India,Satna,193,Unhealthy,1,Good,47,Good,0,Good,193,Unhealthy
+18120,Indonesia,Sawangan,205,Very Unhealthy,5,Good,205,Very Unhealthy,4,Good,171,Unhealthy
+18125,China,Taipei,167,Unhealthy,3,Good,167,Unhealthy,1,Good,124,Unhealthy for Sensitive Groups
+18140,Mexico,Zacatelco,209,Very Unhealthy,4,Good,4,Good,14,Good,209,Very Unhealthy
+18152,China,Gaoyou,188,Unhealthy,4,Good,188,Unhealthy,5,Good,136,Unhealthy for Sensitive Groups
+18160,South Africa,Boksburg,500,Hazardous,49,Good,1,Good,30,Good,500,Hazardous
+18167,India,Bundu,166,Unhealthy,1,Good,53,Moderate,0,Good,166,Unhealthy
+18188,India,Dhulagari,197,Unhealthy,3,Good,94,Moderate,4,Good,197,Unhealthy
+18216,China,Shaping,207,Very Unhealthy,5,Good,207,Very Unhealthy,4,Good,154,Unhealthy
+18218,India,Singur,169,Unhealthy,5,Good,115,Unhealthy for Sensitive Groups,5,Good,169,Unhealthy
+18220,South Africa,Siyabuswa,166,Unhealthy,10,Good,13,Good,11,Good,166,Unhealthy
+18237,India,Kamalganj,360,Hazardous,1,Good,49,Good,1,Good,301,Hazardous
+18240,India,Dig,231,Very Unhealthy,1,Good,43,Good,0,Good,231,Very Unhealthy
+18251,India,Farakka,198,Unhealthy,2,Good,128,Unhealthy for Sensitive Groups,1,Good,198,Unhealthy
+18255,China,Hecun,166,Unhealthy,4,Good,166,Unhealthy,4,Good,140,Unhealthy for Sensitive Groups
+18259,Brazil,Vassouras,152,Unhealthy,5,Good,12,Good,15,Good,152,Unhealthy
+18268,China,Tuku,174,Unhealthy,4,Good,174,Unhealthy,10,Good,154,Unhealthy
+18290,India,Pilani,500,Hazardous,1,Good,39,Good,0,Good,433,Hazardous
+18304,Iran (Islamic Republic of),Qom,214,Very Unhealthy,4,Good,214,Very Unhealthy,7,Good,175,Unhealthy
+18315,India,Pihani,157,Unhealthy,3,Good,119,Unhealthy for Sensitive Groups,1,Good,157,Unhealthy
+18331,Uganda,Kisoro,180,Unhealthy,2,Good,22,Good,1,Good,180,Unhealthy
+18353,India,Lormi,158,Unhealthy,3,Good,37,Good,11,Good,158,Unhealthy
+18365,China,Shalu,155,Unhealthy,4,Good,14,Good,47,Good,155,Unhealthy
+18366,China,Shashi,152,Unhealthy,6,Good,32,Good,20,Good,152,Unhealthy
+18392,South Africa,Bronkhorstspruit,156,Unhealthy,5,Good,15,Good,15,Good,156,Unhealthy
+18396,India,Banapur,152,Unhealthy,3,Good,87,Moderate,1,Good,152,Unhealthy
+18410,India,Aurad,152,Unhealthy,1,Good,41,Good,0,Good,152,Unhealthy
+18435,India,Chhatarpur,168,Unhealthy,3,Good,74,Moderate,3,Good,168,Unhealthy
+18451,China,Linshui,200,Unhealthy,5,Good,200,Unhealthy,7,Good,163,Unhealthy
+18455,South Africa,Mabopane,228,Very Unhealthy,15,Good,14,Good,19,Good,228,Very Unhealthy
+18484,India,Malkangiri,152,Unhealthy,2,Good,47,Good,0,Good,152,Unhealthy
+18494,Colombia,Riohacha,160,Unhealthy,1,Good,22,Good,0,Good,160,Unhealthy
+18496,Viet Nam,Son Tay,194,Unhealthy,4,Good,194,Unhealthy,2,Good,150,Unhealthy
+18503,South Africa,Lebowakgomo,168,Unhealthy,6,Good,24,Good,6,Good,168,Unhealthy
+18564,Sudan,Sinkat,170,Unhealthy,1,Good,24,Good,0,Good,170,Unhealthy
+18573,India,Tajpur,500,Hazardous,1,Good,67,Moderate,1,Good,500,Hazardous
+18583,India,Jaitaran,190,Unhealthy,0,Good,36,Good,0,Good,190,Unhealthy
+18585,India,Jansath,500,Hazardous,1,Good,48,Good,1,Good,500,Hazardous
+18597,India,Ondal,171,Unhealthy,1,Good,105,Unhealthy for Sensitive Groups,1,Good,171,Unhealthy
+18598,India,Palia Kalan,500,Hazardous,2,Good,152,Unhealthy,1,Good,456,Hazardous
+18604,China,Fengkou,173,Unhealthy,10,Good,2,Good,39,Good,173,Unhealthy
+18607,India,Fort Gloster,194,Unhealthy,8,Good,11,Good,19,Good,194,Unhealthy
+18624,Mexico,Tezoyuca,243,Very Unhealthy,2,Good,39,Good,5,Good,243,Very Unhealthy
+18636,India,Suriapet,158,Unhealthy,2,Good,48,Good,3,Good,158,Unhealthy
+18658,Mexico,Huamantla,168,Unhealthy,3,Good,7,Good,9,Good,168,Unhealthy
+18671,India,Lalsot,177,Unhealthy,1,Good,43,Good,0,Good,177,Unhealthy
+18679,China,Luancheng,185,Unhealthy,4,Good,185,Unhealthy,5,Good,154,Unhealthy
+18681,India,Mailani,500,Hazardous,2,Good,116,Unhealthy for Sensitive Groups,1,Good,471,Hazardous
+18685,India,Mandapeta,153,Unhealthy,1,Good,52,Moderate,0,Good,153,Unhealthy
+18691,Pakistan,Zahir Pir,219,Very Unhealthy,1,Good,49,Good,0,Good,219,Very Unhealthy
+18692,Pakistan,Zaida,198,Unhealthy,3,Good,198,Unhealthy,1,Good,135,Unhealthy for Sensitive Groups
+18698,Yemen,Ibb,156,Unhealthy,1,Good,46,Good,0,Good,156,Unhealthy
+18736,Democratic Republic of the Congo,Demba,175,Unhealthy,7,Good,54,Moderate,2,Good,175,Unhealthy
+18737,India,Digapahandi,153,Unhealthy,3,Good,85,Moderate,1,Good,153,Unhealthy
+18742,India,Dharampuri,153,Unhealthy,0,Good,36,Good,0,Good,153,Unhealthy
+18750,Pakistan,Nowshera,202,Very Unhealthy,3,Good,202,Very Unhealthy,2,Good,104,Unhealthy for Sensitive Groups
+18770,India,Baloda,178,Unhealthy,2,Good,103,Unhealthy for Sensitive Groups,3,Good,178,Unhealthy
+18776,Mauritania,Bababe,224,Very Unhealthy,1,Good,24,Good,0,Good,224,Very Unhealthy
+18811,India,Sikar,242,Very Unhealthy,2,Good,32,Good,6,Good,242,Very Unhealthy
+18841,Saudi Arabia,Jizan,172,Unhealthy,3,Good,120,Unhealthy for Sensitive Groups,4,Good,172,Unhealthy
+18844,India,Karjat,166,Unhealthy,5,Good,18,Good,10,Good,166,Unhealthy
+18847,India,Kanodar,182,Unhealthy,1,Good,34,Good,0,Good,182,Unhealthy
+18863,Malaysia,Sekudai,161,Unhealthy,3,Good,4,Good,24,Good,161,Unhealthy
+18883,China,Xinan,153,Unhealthy,6,Good,61,Moderate,16,Good,153,Unhealthy
+18890,India,Shantipur,165,Unhealthy,5,Good,144,Unhealthy for Sensitive Groups,3,Good,165,Unhealthy
+18895,India,Sitamau,185,Unhealthy,1,Good,35,Good,0,Good,185,Unhealthy
+18913,China,Mentougou,156,Unhealthy,4,Good,32,Good,23,Good,156,Unhealthy
+18922,India,Mokama,152,Unhealthy,4,Good,50,Good,5,Good,152,Unhealthy
+18923,India,Mul,167,Unhealthy,2,Good,106,Unhealthy for Sensitive Groups,1,Good,167,Unhealthy
+18928,China,Nanlong,257,Very Unhealthy,16,Good,4,Good,47,Good,257,Very Unhealthy
+18944,China,Pingdingshan,157,Unhealthy,5,Good,54,Moderate,21,Good,157,Unhealthy
+18955,Indonesia,Pasarkemis,249,Very Unhealthy,11,Good,10,Good,49,Good,249,Very Unhealthy
+18964,India,Rath,227,Very Unhealthy,1,Good,48,Good,0,Good,227,Very Unhealthy
+18972,India,Safipur,183,Unhealthy,2,Good,136,Unhealthy for Sensitive Groups,1,Good,183,Unhealthy
+18977,India,Shahganj,181,Unhealthy,3,Good,155,Unhealthy,1,Good,181,Unhealthy
+18983,South Africa,Nelspruit,237,Very Unhealthy,13,Good,3,Good,7,Good,237,Very Unhealthy
+18993,India,Lakhisarai,187,Unhealthy,2,Good,112,Unhealthy for Sensitive Groups,1,Good,187,Unhealthy
+19001,Democratic Republic of the Congo,Lusambo,200,Unhealthy,11,Good,16,Good,7,Good,200,Unhealthy
+19002,India,Madanpur,217,Very Unhealthy,4,Good,99,Moderate,4,Good,217,Very Unhealthy
+19003,India,Madhyamgram,205,Very Unhealthy,4,Good,96,Moderate,4,Good,205,Very Unhealthy
+19006,India,Mandsaur,166,Unhealthy,1,Good,39,Good,0,Good,166,Unhealthy
+19014,India,Talbahat,164,Unhealthy,1,Good,42,Good,0,Good,164,Unhealthy
+19016,India,Tarakeswar,199,Unhealthy,3,Good,96,Moderate,3,Good,199,Unhealthy
+19018,Pakistan,Taunsa,190,Unhealthy,3,Good,187,Unhealthy,3,Good,190,Unhealthy
+19021,Nepal,Tikapur,154,Unhealthy,3,Good,148,Unhealthy for Sensitive Groups,0,Good,154,Unhealthy
+19038,India,Khatauli,500,Hazardous,2,Good,140,Unhealthy for Sensitive Groups,3,Good,442,Hazardous
+19039,India,Kheri,255,Very Unhealthy,4,Good,205,Very Unhealthy,3,Good,255,Very Unhealthy
+19040,India,Kiraoli,264,Very Unhealthy,1,Good,38,Good,1,Good,264,Very Unhealthy
+19079,China,Hebi,184,Unhealthy,6,Good,184,Unhealthy,13,Good,163,Unhealthy
+19080,India,Dehri,323,Hazardous,1,Good,54,Moderate,0,Good,268,Very Unhealthy
+19082,Bangladesh,Dinajpur,222,Very Unhealthy,2,Good,107,Unhealthy for Sensitive Groups,1,Good,222,Very Unhealthy
+19147,Mexico,Cuautla,154,Unhealthy,4,Good,0,Good,14,Good,154,Unhealthy
+19167,China,Zhangdian,207,Very Unhealthy,5,Good,207,Very Unhealthy,6,Good,156,Unhealthy
+19171,India,Teghra,159,Unhealthy,4,Good,127,Unhealthy for Sensitive Groups,1,Good,159,Unhealthy
+19186,South Africa,Vanderbijlpark,275,Very Unhealthy,15,Good,8,Good,20,Good,275,Very Unhealthy
+19189,South Africa,Sasolburg,181,Unhealthy,7,Good,8,Good,19,Good,181,Unhealthy
+19204,China,Chaohu,153,Unhealthy,4,Good,98,Moderate,6,Good,153,Unhealthy
+19211,India,Abu Road,164,Unhealthy,1,Good,31,Good,0,Good,164,Unhealthy
+19217,Pakistan,Darya Khan,173,Unhealthy,3,Good,149,Unhealthy for Sensitive Groups,0,Good,173,Unhealthy
+19222,Mexico,Puente De Ixtla,165,Unhealthy,3,Good,13,Good,18,Good,165,Unhealthy
+19244,India,Shrirampur,225,Very Unhealthy,10,Good,9,Good,23,Good,225,Very Unhealthy
+19248,India,Narwana,165,Unhealthy,4,Good,57,Moderate,9,Good,165,Unhealthy
+19257,India,Kanor,163,Unhealthy,1,Good,35,Good,0,Good,163,Unhealthy
+19258,India,Kanpur,173,Unhealthy,4,Good,161,Unhealthy,1,Good,173,Unhealthy
+19259,Pakistan,Kashmor,175,Unhealthy,1,Good,50,Good,1,Good,175,Unhealthy
+19276,India,Etawah,171,Unhealthy,4,Good,171,Unhealthy,1,Good,170,Unhealthy
+19284,India,Hanumangarh,163,Unhealthy,3,Good,163,Unhealthy,0,Good,158,Unhealthy
+19298,Pakistan,Dullewala,181,Unhealthy,3,Good,107,Unhealthy for Sensitive Groups,3,Good,181,Unhealthy
+19306,Mexico,Tepeji,157,Unhealthy,1,Good,33,Good,2,Good,157,Unhealthy
+19315,India,Uklana Mandi,165,Unhealthy,4,Good,76,Moderate,8,Good,165,Unhealthy
+19326,India,Sundargarh,156,Unhealthy,3,Good,63,Moderate,2,Good,156,Unhealthy
+19370,Indonesia,Kertosono,169,Unhealthy,5,Good,10,Good,15,Good,169,Unhealthy
+19382,Democratic Republic of the Congo,Mbuji Mayi,270,Very Unhealthy,15,Good,43,Good,9,Good,270,Very Unhealthy
+19397,India,Krishnanagar,161,Unhealthy,4,Good,147,Unhealthy for Sensitive Groups,2,Good,161,Unhealthy
+19400,India,Kushalgarh,171,Unhealthy,1,Good,38,Good,0,Good,171,Unhealthy
+19408,India,Navapur,157,Unhealthy,0,Good,26,Good,0,Good,157,Unhealthy
+19416,India,Machhiwara,171,Unhealthy,6,Good,20,Good,23,Good,171,Unhealthy
+19429,Indonesia,Porong,166,Unhealthy,3,Good,11,Good,9,Good,166,Unhealthy
+19443,Mexico,Cunduacan,179,Unhealthy,8,Good,7,Good,11,Good,179,Unhealthy
+19447,India,Agra,183,Unhealthy,6,Good,40,Good,13,Good,183,Unhealthy
+19449,India,Ahmadpur,172,Unhealthy,2,Good,39,Good,2,Good,172,Unhealthy
+19458,India,Badlapur,170,Unhealthy,6,Good,19,Good,12,Good,170,Unhealthy
+19462,China,Ezhou,187,Unhealthy,4,Good,187,Unhealthy,3,Good,147,Unhealthy for Sensitive Groups
+19476,Pakistan,Bhakkar,183,Unhealthy,2,Good,122,Unhealthy for Sensitive Groups,0,Good,183,Unhealthy
+19482,India,Brahmapuri,163,Unhealthy,1,Good,33,Good,2,Good,163,Unhealthy
+19488,Pakistan,Badah,185,Unhealthy,1,Good,76,Moderate,2,Good,185,Unhealthy
+19490,Gambia,Bakau,155,Unhealthy,1,Good,20,Good,1,Good,155,Unhealthy
+19501,India,Chandannagar,173,Unhealthy,5,Good,117,Unhealthy for Sensitive Groups,6,Good,173,Unhealthy
+19509,India,Firozpur,165,Unhealthy,3,Good,111,Unhealthy for Sensitive Groups,4,Good,165,Unhealthy
+19512,Mali,Gao,162,Unhealthy,1,Good,45,Good,0,Good,162,Unhealthy
+19513,Pakistan,Garh Maharaja,174,Unhealthy,5,Good,46,Good,9,Good,174,Unhealthy
+19519,India,Merta,182,Unhealthy,1,Good,34,Good,1,Good,182,Unhealthy
+19531,China,Wufeng,167,Unhealthy,8,Good,1,Good,22,Good,167,Unhealthy
+19540,India,Haldaur,500,Hazardous,1,Good,63,Moderate,1,Good,500,Hazardous
+19546,Viet Nam,Hong Gai,156,Unhealthy,4,Good,41,Good,3,Good,156,Unhealthy
+19547,China,Huaiyin,193,Unhealthy,5,Good,193,Unhealthy,5,Good,155,Unhealthy
+19548,Mexico,Huilango,168,Unhealthy,4,Good,3,Good,18,Good,168,Unhealthy
+19550,India,Iglas,268,Very Unhealthy,1,Good,46,Good,1,Good,268,Very Unhealthy
+19551,Pakistan,Yazman,500,Hazardous,1,Good,43,Good,0,Good,428,Hazardous
+19572,India,Ganganagar,500,Hazardous,1,Good,42,Good,0,Good,424,Hazardous
+19579,Pakistan,Khewra,204,Very Unhealthy,2,Good,154,Unhealthy,1,Good,204,Very Unhealthy
+19588,India,Kaimur,155,Unhealthy,1,Good,40,Good,0,Good,155,Unhealthy
+19592,China,Dingzhou,197,Unhealthy,5,Good,197,Unhealthy,6,Good,159,Unhealthy
+19601,China,Dongkan,209,Very Unhealthy,6,Good,209,Very Unhealthy,3,Good,175,Unhealthy
+19613,India,Kovvur,152,Unhealthy,1,Good,48,Good,0,Good,152,Unhealthy
+19632,Brazil,Miguel Pereira,154,Unhealthy,5,Good,10,Good,18,Good,154,Unhealthy
+19635,India,Moradabad,500,Hazardous,1,Good,69,Moderate,1,Good,500,Hazardous
+19641,South Africa,Soweto,185,Unhealthy,36,Good,10,Good,22,Good,185,Unhealthy
+19653,India,Mundra,153,Unhealthy,0,Good,26,Good,0,Good,153,Unhealthy
+19659,India,Ratangarh,500,Hazardous,0,Good,37,Good,0,Good,471,Hazardous
+19662,Pakistan,Rojhan,188,Unhealthy,1,Good,55,Moderate,0,Good,188,Unhealthy
+19668,India,Taki,170,Unhealthy,3,Good,96,Moderate,2,Good,170,Unhealthy
+19689,India,Adilabad,155,Unhealthy,1,Good,32,Good,0,Good,155,Unhealthy
+19691,India,Allahabad,189,Unhealthy,1,Good,83,Moderate,0,Good,189,Unhealthy
+19700,Mexico,Atlautla,243,Very Unhealthy,5,Good,1,Good,20,Good,243,Very Unhealthy
+19704,Iran (Islamic Republic of),Bafq,155,Unhealthy,1,Good,45,Good,0,Good,155,Unhealthy
+19705,India,Bagru,185,Unhealthy,1,Good,39,Good,0,Good,185,Unhealthy
+19706,India,Balotra,500,Hazardous,0,Good,31,Good,0,Good,398,Hazardous
+19709,India,Barakpur,178,Unhealthy,6,Good,107,Unhealthy for Sensitive Groups,7,Good,178,Unhealthy
+19734,India,Yavatmal,153,Unhealthy,1,Good,31,Good,0,Good,153,Unhealthy
+19737,Iran (Islamic Republic of),Zabol,164,Unhealthy,1,Good,49,Good,0,Good,164,Unhealthy
+19761,India,Akodia,154,Unhealthy,1,Good,38,Good,0,Good,154,Unhealthy
+19768,China,Anlu,178,Unhealthy,4,Good,178,Unhealthy,2,Good,142,Unhealthy for Sensitive Groups
+19774,India,Chhibramau,194,Unhealthy,3,Good,141,Unhealthy for Sensitive Groups,2,Good,194,Unhealthy
+19779,China,Talin,202,Very Unhealthy,3,Good,202,Very Unhealthy,6,Good,143,Unhealthy for Sensitive Groups
+19787,India,Mungeli,160,Unhealthy,1,Good,44,Good,0,Good,160,Unhealthy
+19789,Oman,Muscat,155,Unhealthy,2,Good,155,Unhealthy,5,Good,139,Unhealthy for Sensitive Groups
+19803,China,Linhai,161,Unhealthy,3,Good,161,Unhealthy,1,Good,116,Unhealthy for Sensitive Groups
+19809,India,Talwandi Bhai,198,Unhealthy,2,Good,160,Unhealthy,1,Good,198,Unhealthy
+19813,Mexico,Tequixquiac,156,Unhealthy,2,Good,12,Good,10,Good,156,Unhealthy
+19823,India,Maudaha,198,Unhealthy,1,Good,46,Good,0,Good,198,Unhealthy
+19832,Democratic Republic of the Congo,Tshikapa,392,Hazardous,23,Good,37,Good,18,Good,392,Hazardous
+19854,Brazil,Sao Paulo,198,Unhealthy,10,Good,0,Good,35,Good,198,Unhealthy
+19859,India,Bhadohi,310,Hazardous,1,Good,49,Good,1,Good,257,Very Unhealthy
+19874,China,Aksu,154,Unhealthy,1,Good,46,Good,0,Good,154,Unhealthy
+19877,Mexico,Apan,224,Very Unhealthy,2,Good,8,Good,9,Good,224,Very Unhealthy
+19916,India,Ladnun,500,Hazardous,0,Good,32,Good,0,Good,474,Hazardous
+19919,India,Ikauna,183,Unhealthy,4,Good,163,Unhealthy,1,Good,183,Unhealthy
+19931,India,Un,160,Unhealthy,3,Good,126,Unhealthy for Sensitive Groups,1,Good,160,Unhealthy
+19939,China,Yongchang,153,Unhealthy,2,Good,40,Good,6,Good,153,Unhealthy
+19951,India,Garulia,216,Very Unhealthy,4,Good,96,Moderate,5,Good,216,Very Unhealthy
+19963,India,Begamganj,154,Unhealthy,1,Good,37,Good,0,Good,154,Unhealthy
+19990,China,Xunchang,156,Unhealthy,7,Good,44,Good,17,Good,156,Unhealthy
+20007,India,Kolaras,164,Unhealthy,3,Good,79,Moderate,2,Good,164,Unhealthy
+20012,India,Kunda,179,Unhealthy,4,Good,95,Moderate,6,Good,179,Unhealthy
+20014,India,Lakhnadon,160,Unhealthy,3,Good,45,Good,2,Good,160,Unhealthy
+20015,Indonesia,Lembang,194,Unhealthy,9,Good,12,Good,26,Good,194,Unhealthy
+20048,Mexico,Chalco,270,Very Unhealthy,5,Good,1,Good,25,Good,270,Very Unhealthy
+20049,India,Baldeo,172,Unhealthy,4,Good,171,Unhealthy,1,Good,172,Unhealthy
+20052,India,Bharthana,170,Unhealthy,4,Good,169,Unhealthy,1,Good,170,Unhealthy
+20054,Dominican Republic,Bonao,159,Unhealthy,3,Good,5,Good,11,Good,159,Unhealthy
+20074,Pakistan,Shahpur Chakar,166,Unhealthy,1,Good,43,Good,0,Good,166,Unhealthy
+20075,India,Dhrol,160,Unhealthy,0,Good,29,Good,0,Good,160,Unhealthy
+20107,India,Loyabad,179,Unhealthy,4,Good,150,Unhealthy,2,Good,179,Unhealthy
+20108,China,Macheng,171,Unhealthy,3,Good,171,Unhealthy,2,Good,103,Unhealthy for Sensitive Groups
+20119,India,Karera,201,Very Unhealthy,1,Good,44,Good,0,Good,201,Very Unhealthy
+20125,India,Visnagar,159,Unhealthy,1,Good,32,Good,0,Good,159,Unhealthy
+20144,India,Shahjahanpur,172,Unhealthy,4,Good,172,Unhealthy,2,Good,165,Unhealthy
+20150,Bangladesh,Phultala,158,Unhealthy,4,Good,64,Moderate,4,Good,158,Unhealthy
+20153,China,Shizilu,205,Very Unhealthy,5,Good,205,Very Unhealthy,3,Good,152,Unhealthy
+20188,Malaysia,Serendah,162,Unhealthy,6,Good,9,Good,23,Good,162,Unhealthy
+20196,India,Ludhiana,166,Unhealthy,3,Good,166,Unhealthy,1,Good,162,Unhealthy
+20199,Senegal,Mbour,169,Unhealthy,1,Good,21,Good,2,Good,169,Unhealthy
+20217,India,Vasai,158,Unhealthy,3,Good,28,Good,3,Good,158,Unhealthy
+20224,India,Talgram,167,Unhealthy,4,Good,153,Unhealthy,1,Good,167,Unhealthy
+20233,China,Wanxian,153,Unhealthy,4,Good,153,Unhealthy,3,Good,143,Unhealthy for Sensitive Groups
+20236,India,Sangod,156,Unhealthy,1,Good,45,Good,0,Good,156,Unhealthy
+20253,Mexico,Xoxtla,164,Unhealthy,2,Good,3,Good,12,Good,164,Unhealthy
+20282,Pakistan,Ranipur,167,Unhealthy,1,Good,47,Good,1,Good,167,Unhealthy
+20290,Pakistan,Pakpattan,328,Hazardous,2,Good,107,Unhealthy for Sensitive Groups,1,Good,328,Hazardous
+20303,Pakistan,Sukkur,171,Unhealthy,1,Good,49,Good,1,Good,171,Unhealthy
+20313,India,Titlagarh,158,Unhealthy,1,Good,33,Good,1,Good,158,Unhealthy
+20314,Mexico,Tizayuca,182,Unhealthy,2,Good,18,Good,10,Good,182,Unhealthy
+20315,India,Tohana,226,Very Unhealthy,2,Good,126,Unhealthy for Sensitive Groups,1,Good,226,Very Unhealthy
+20324,India,Umred,170,Unhealthy,1,Good,33,Good,1,Good,170,Unhealthy
+20325,Pakistan,Usta Muhammad,172,Unhealthy,1,Good,76,Moderate,2,Good,172,Unhealthy
+20330,China,Shima,155,Unhealthy,3,Good,155,Unhealthy,3,Good,117,Unhealthy for Sensitive Groups
+20357,India,Keshod,160,Unhealthy,0,Good,25,Good,0,Good,160,Unhealthy
+20368,India,Indri,500,Hazardous,1,Good,47,Good,1,Good,500,Hazardous
+20391,India,Chirawa,187,Unhealthy,2,Good,83,Moderate,0,Good,187,Unhealthy
+20402,India,Betul,176,Unhealthy,1,Good,34,Good,0,Good,176,Unhealthy
+20403,Pakistan,Bhopalwala,153,Unhealthy,2,Good,131,Unhealthy for Sensitive Groups,1,Good,153,Unhealthy
+20404,India,Bhuj,155,Unhealthy,0,Good,28,Good,0,Good,155,Unhealthy
+20414,India,Banswara,175,Unhealthy,1,Good,40,Good,0,Good,175,Unhealthy
+20421,India,Pahasu,164,Unhealthy,4,Good,160,Unhealthy,1,Good,164,Unhealthy
+20424,India,Pathalgaon,162,Unhealthy,2,Good,88,Moderate,0,Good,162,Unhealthy
+20427,Senegal,Pout,184,Unhealthy,2,Good,18,Good,4,Good,184,Unhealthy
+20429,India,Punahana,176,Unhealthy,4,Good,173,Unhealthy,1,Good,176,Unhealthy
+20437,Uzbekistan,Romitan,167,Unhealthy,1,Good,47,Good,0,Good,167,Unhealthy
+20447,India,Baramula,152,Unhealthy,3,Good,37,Good,3,Good,152,Unhealthy
+20469,China,Hanting,165,Unhealthy,7,Good,73,Moderate,16,Good,165,Unhealthy
+20470,India,Haridwar,163,Unhealthy,5,Good,25,Good,12,Good,163,Unhealthy
+20475,Pakistan,Isa Khel,178,Unhealthy,3,Good,115,Unhealthy for Sensitive Groups,2,Good,178,Unhealthy
+20503,India,Lathi,153,Unhealthy,0,Good,28,Good,0,Good,153,Unhealthy
+20506,China,Linping,204,Very Unhealthy,5,Good,204,Very Unhealthy,6,Good,155,Unhealthy
+20531,India,Contai,171,Unhealthy,2,Good,66,Moderate,1,Good,171,Unhealthy
+20532,Dominican Republic,Cotui,154,Unhealthy,4,Good,2,Good,15,Good,154,Unhealthy
+20533,Mexico,Coyotepec,166,Unhealthy,3,Good,11,Good,14,Good,166,Unhealthy
+20541,India,Dhar,154,Unhealthy,1,Good,35,Good,0,Good,154,Unhealthy
+20546,Iraq,Hit,158,Unhealthy,1,Good,47,Good,0,Good,158,Unhealthy
+20555,Brazil,Sao Vicente,252,Very Unhealthy,16,Good,0,Good,47,Good,252,Very Unhealthy
+20567,India,Sasni,500,Hazardous,1,Good,46,Good,1,Good,433,Hazardous
+20569,India,Shaikhpura,185,Unhealthy,1,Good,91,Moderate,1,Good,185,Unhealthy
+20570,India,Shamli,500,Hazardous,4,Good,77,Moderate,9,Good,426,Hazardous
+20581,India,Daboh,166,Unhealthy,4,Good,159,Unhealthy,1,Good,166,Unhealthy
+20582,Pakistan,Pindi Gheb,179,Unhealthy,2,Good,179,Unhealthy,1,Good,153,Unhealthy
+20585,India,Pokaran,500,Hazardous,0,Good,37,Good,0,Good,500,Hazardous
+20599,India,Udpura,155,Unhealthy,1,Good,44,Good,0,Good,155,Unhealthy
+20614,India,Deori,172,Unhealthy,2,Good,57,Moderate,0,Good,172,Unhealthy
+20615,India,Dindori,181,Unhealthy,1,Good,45,Good,0,Good,181,Unhealthy
+20624,Philippines,Mabalacat,153,Unhealthy,2,Good,25,Good,7,Good,153,Unhealthy
+20630,China,Dongdu,152,Unhealthy,3,Good,152,Unhealthy,3,Good,110,Unhealthy for Sensitive Groups
+20637,India,Gumia,156,Unhealthy,3,Good,91,Moderate,2,Good,156,Unhealthy
+20664,Pakistan,Sillanwali,177,Unhealthy,3,Good,177,Unhealthy,1,Good,167,Unhealthy
+20666,India,Siyana,160,Unhealthy,3,Good,127,Unhealthy for Sensitive Groups,1,Good,160,Unhealthy
+20668,India,Satrikh,157,Unhealthy,3,Good,120,Unhealthy for Sensitive Groups,1,Good,157,Unhealthy
+20672,India,Shahpur,155,Unhealthy,3,Good,118,Unhealthy for Sensitive Groups,1,Good,155,Unhealthy
+20675,India,Kemri,170,Unhealthy,4,Good,170,Unhealthy,1,Good,161,Unhealthy
+20677,India,Kichha,156,Unhealthy,3,Good,156,Unhealthy,0,Good,155,Unhealthy
+20679,China,Kuche,157,Unhealthy,1,Good,46,Good,0,Good,157,Unhealthy
+20684,South Africa,Deneysville,176,Unhealthy,8,Good,10,Good,13,Good,176,Unhealthy
+20687,China,Dingtao,200,Unhealthy,4,Good,200,Unhealthy,3,Good,159,Unhealthy
+20693,Congo,Nkayi,155,Unhealthy,7,Good,23,Good,1,Good,155,Unhealthy
+20714,India,Tindwari,174,Unhealthy,4,Good,96,Moderate,5,Good,174,Unhealthy
+20725,Mexico,Puebla,170,Unhealthy,1,Good,34,Good,2,Good,170,Unhealthy
+20726,Indonesia,Pundong,160,Unhealthy,5,Good,16,Good,15,Good,160,Unhealthy
+20737,China,Zhifang,179,Unhealthy,10,Good,6,Good,40,Good,179,Unhealthy
+20740,China,Mudu,166,Unhealthy,6,Good,87,Moderate,17,Good,166,Unhealthy
+20743,Mexico,Nextlalpan,173,Unhealthy,4,Good,8,Good,15,Good,173,Unhealthy
+20779,India,Haldia,153,Unhealthy,3,Good,73,Moderate,2,Good,153,Unhealthy
+20782,China,Huangpi,179,Unhealthy,4,Good,179,Unhealthy,7,Good,155,Unhealthy
+20787,Pakistan,Dipalpur,167,Unhealthy,4,Good,95,Moderate,6,Good,167,Unhealthy
+20791,India,Ellenabad,171,Unhealthy,3,Good,120,Unhealthy for Sensitive Groups,4,Good,171,Unhealthy
+20794,Indonesia,Wonopringgo,163,Unhealthy,6,Good,21,Good,14,Good,163,Unhealthy
+20795,China,Xuanwu,164,Unhealthy,8,Good,49,Good,23,Good,164,Unhealthy
+20801,India,Wani,162,Unhealthy,2,Good,27,Good,12,Good,162,Unhealthy
+20802,Pakistan,Wazirabad,171,Unhealthy,5,Good,34,Good,14,Good,171,Unhealthy
+20828,India,Aligarh,173,Unhealthy,5,Good,39,Good,19,Good,173,Unhealthy
+20829,India,Amanpur,168,Unhealthy,4,Good,28,Good,34,Good,168,Unhealthy
+20838,India,Chhapar,437,Hazardous,1,Good,40,Good,0,Good,325,Hazardous
+20846,Angola,Caxito,285,Very Unhealthy,23,Good,31,Good,14,Good,285,Very Unhealthy
+20873,China,Tsaotun,202,Very Unhealthy,3,Good,202,Very Unhealthy,11,Good,154,Unhealthy
+20875,India,Udayagiri,158,Unhealthy,2,Good,63,Moderate,0,Good,158,Unhealthy
+20880,Senegal,Tivaouane,183,Unhealthy,2,Good,18,Good,3,Good,183,Unhealthy
+20883,India,Jhalawar,165,Unhealthy,1,Good,41,Good,0,Good,165,Unhealthy
+20884,China,Jingcheng,206,Very Unhealthy,6,Good,206,Very Unhealthy,8,Good,157,Unhealthy
+20890,India,Fatehgarh,371,Hazardous,1,Good,48,Good,1,Good,307,Hazardous
+20919,India,Babrala,195,Unhealthy,3,Good,161,Unhealthy,2,Good,195,Unhealthy
+20920,India,Bachhraon,173,Unhealthy,4,Good,173,Unhealthy,2,Good,155,Unhealthy
+20930,India,Visavadar,157,Unhealthy,0,Good,26,Good,0,Good,157,Unhealthy
+20961,Brazil,Mairipora,180,Unhealthy,9,Good,0,Good,27,Good,180,Unhealthy
+20970,India,Nalhati,197,Unhealthy,2,Good,99,Moderate,3,Good,197,Unhealthy
+20984,Brazil,Jacarei,166,Unhealthy,8,Good,0,Good,18,Good,166,Unhealthy
+20985,Nepal,Janakpur,163,Unhealthy,3,Good,114,Unhealthy for Sensitive Groups,1,Good,163,Unhealthy
+20993,Pakistan,Shekhupura,184,Unhealthy,6,Good,40,Good,15,Good,184,Unhealthy
+20995,India,Anupgarh,198,Unhealthy,1,Good,80,Moderate,0,Good,198,Unhealthy
+21009,India,Sunam,500,Hazardous,1,Good,47,Good,0,Good,452,Hazardous
+21026,India,Patancheru,189,Unhealthy,5,Good,22,Good,12,Good,189,Unhealthy
+21029,Malaysia,Pengkalan Kundang,162,Unhealthy,5,Good,12,Good,23,Good,162,Unhealthy
+21041,China,Xianyang,202,Very Unhealthy,4,Good,202,Very Unhealthy,5,Good,132,Unhealthy for Sensitive Groups
+21108,China,Wuxue,158,Unhealthy,4,Good,158,Unhealthy,3,Good,96,Moderate
+21110,Mexico,Xico,157,Unhealthy,2,Good,2,Good,16,Good,157,Unhealthy
+21116,China,Laohekou,162,Unhealthy,7,Good,31,Good,22,Good,162,Unhealthy
+21126,India,Alipur Duar,152,Unhealthy,5,Good,10,Good,11,Good,152,Unhealthy
+21131,China,Dezhou,157,Unhealthy,5,Good,100,Unhealthy for Sensitive Groups,15,Good,157,Unhealthy
+21146,Pakistan,Mankera,192,Unhealthy,3,Good,116,Unhealthy for Sensitive Groups,3,Good,192,Unhealthy
+21150,China,Handan,200,Unhealthy,5,Good,200,Unhealthy,7,Good,163,Unhealthy
+21155,India,Kalyani,171,Unhealthy,5,Good,119,Unhealthy for Sensitive Groups,5,Good,171,Unhealthy
+21163,Pakistan,Sanghar,175,Unhealthy,1,Good,44,Good,0,Good,175,Unhealthy
+21189,Democratic Republic of the Congo,Kikwit,267,Very Unhealthy,16,Good,106,Unhealthy for Sensitive Groups,10,Good,267,Very Unhealthy
+21199,India,Maham,184,Unhealthy,4,Good,184,Unhealthy,1,Good,172,Unhealthy
+21213,China,Hefei,172,Unhealthy,8,Good,16,Good,33,Good,172,Unhealthy
+21221,India,Kantabanji,157,Unhealthy,2,Good,48,Good,1,Good,157,Unhealthy
+21223,India,Karnal,161,Unhealthy,4,Good,58,Moderate,7,Good,161,Unhealthy
+21232,Pakistan,Okara,171,Unhealthy,4,Good,89,Moderate,6,Good,171,Unhealthy
+21238,India,Rajapur,175,Unhealthy,4,Good,105,Unhealthy for Sensitive Groups,5,Good,175,Unhealthy
+21261,Venezuela (Bolivarian Republic of),Altagracia De Orituco,153,Unhealthy,1,Good,13,Good,3,Good,153,Unhealthy
+21278,India,Bihar,178,Unhealthy,4,Good,156,Unhealthy,1,Good,178,Unhealthy
+21293,Pakistan,Daur,169,Unhealthy,1,Good,38,Good,1,Good,169,Unhealthy
+21297,India,Bhadasar,500,Hazardous,1,Good,38,Good,0,Good,500,Hazardous
+21306,Bangladesh,Raypur,166,Unhealthy,2,Good,36,Good,2,Good,166,Unhealthy
+21318,Bangladesh,Bajitpur,174,Unhealthy,2,Good,45,Good,2,Good,174,Unhealthy
+21322,Pakistan,Bhag,168,Unhealthy,1,Good,76,Moderate,0,Good,168,Unhealthy
+21327,Pakistan,Shahpur City,165,Unhealthy,2,Good,154,Unhealthy,1,Good,165,Unhealthy
+21336,Nigeria,Port Harcourt,179,Unhealthy,9,Good,24,Good,8,Good,179,Unhealthy
+21343,Indonesia,Serpong,297,Very Unhealthy,14,Good,10,Good,51,Moderate,297,Very Unhealthy
+21345,India,Samdari,305,Hazardous,1,Good,33,Good,0,Good,265,Very Unhealthy
+21358,Kuwait,Bayan,161,Unhealthy,3,Good,124,Unhealthy for Sensitive Groups,18,Good,161,Unhealthy
+21362,India,Bharwari,179,Unhealthy,4,Good,96,Moderate,6,Good,179,Unhealthy
+21370,Chile,Chiguayante,155,Unhealthy,3,Good,12,Good,7,Good,155,Unhealthy
+21372,India,Chitapur,156,Unhealthy,2,Good,36,Good,3,Good,156,Unhealthy
+21383,Pakistan,Dokri,170,Unhealthy,1,Good,49,Good,1,Good,170,Unhealthy
+21398,China,Wuhu,155,Unhealthy,4,Good,155,Unhealthy,5,Good,100,Unhealthy for Sensitive Groups
+21432,Indonesia,Tulangan,164,Unhealthy,3,Good,10,Good,10,Good,164,Unhealthy
+21433,Bangladesh,Tungi,152,Unhealthy,4,Good,18,Good,12,Good,152,Unhealthy
+21443,United States of America,Whittier,154,Unhealthy,4,Good,12,Good,26,Good,154,Unhealthy
+21447,China,Xiangxiang,185,Unhealthy,13,Good,5,Good,35,Good,185,Unhealthy
+21455,India,Sidhpura,165,Unhealthy,4,Good,153,Unhealthy,3,Good,165,Unhealthy
+21458,China,Changping,161,Unhealthy,5,Good,156,Unhealthy,9,Good,161,Unhealthy
+21462,India,Zaidpur,163,Unhealthy,4,Good,48,Good,8,Good,163,Unhealthy
+21469,India,Bansi,152,Unhealthy,3,Good,152,Unhealthy,1,Good,146,Unhealthy for Sensitive Groups
+21476,India,Pratapgarh,179,Unhealthy,4,Good,94,Moderate,6,Good,179,Unhealthy
+21493,Pakistan,Dunyapur,168,Unhealthy,3,Good,148,Unhealthy for Sensitive Groups,1,Good,168,Unhealthy
+21494,Brazil,Duque De Caxias,268,Very Unhealthy,12,Good,9,Good,37,Good,268,Very Unhealthy
+21503,India,Ambah,169,Unhealthy,4,Good,161,Unhealthy,1,Good,169,Unhealthy
+21509,Mexico,Atenco,198,Unhealthy,4,Good,3,Good,18,Good,198,Unhealthy
+21528,India,Lonavale,156,Unhealthy,4,Good,31,Good,5,Good,156,Unhealthy
+21537,Pakistan,Daultala,170,Unhealthy,5,Good,29,Good,12,Good,170,Unhealthy
+21538,India,Diamond Harbour,156,Unhealthy,4,Good,15,Good,11,Good,156,Unhealthy
+21539,India,Dighwara,169,Unhealthy,5,Good,47,Good,7,Good,169,Unhealthy
+21543,Pakistan,Garhi Khairo,171,Unhealthy,1,Good,44,Good,3,Good,171,Unhealthy
+21545,United States of America,Inkster,154,Unhealthy,4,Good,7,Good,26,Good,154,Unhealthy
+21563,China,Tianmen,178,Unhealthy,4,Good,178,Unhealthy,4,Good,129,Unhealthy for Sensitive Groups
+21600,India,Koraput,157,Unhealthy,1,Good,44,Good,0,Good,157,Unhealthy
+21606,India,Kesabpur,181,Unhealthy,3,Good,94,Moderate,4,Good,181,Unhealthy
+21625,India,Jhajjar,180,Unhealthy,4,Good,180,Unhealthy,2,Good,175,Unhealthy
+21626,Pakistan,Jhawarian,191,Unhealthy,4,Good,191,Unhealthy,1,Good,172,Unhealthy
+21637,Pakistan,Khangarh,189,Unhealthy,3,Good,186,Unhealthy,2,Good,189,Unhealthy
+21639,India,Jhunjhunun,500,Hazardous,1,Good,38,Good,0,Good,433,Hazardous
+21641,China,Jinsha,207,Very Unhealthy,7,Good,207,Very Unhealthy,9,Good,170,Unhealthy
+21678,China,Liyang,163,Unhealthy,4,Good,46,Good,14,Good,163,Unhealthy
+21690,China,Yanan,152,Unhealthy,1,Good,41,Good,0,Good,152,Unhealthy
+21691,Mali,Nara,164,Unhealthy,1,Good,37,Good,0,Good,164,Unhealthy
+21694,India,Nimbahera,159,Unhealthy,1,Good,31,Good,4,Good,159,Unhealthy
+21701,India,Sadabad,182,Unhealthy,6,Good,37,Good,18,Good,182,Unhealthy
+21706,Brazil,Juquitiba,157,Unhealthy,5,Good,2,Good,18,Good,157,Unhealthy
+21717,India,Meghraj,175,Unhealthy,1,Good,37,Good,0,Good,175,Unhealthy
+21731,Iran (Islamic Republic of),Yazd,155,Unhealthy,1,Good,54,Moderate,0,Good,155,Unhealthy
+21732,Viet Nam,Yen Bai,158,Unhealthy,4,Good,158,Unhealthy,1,Good,100,Unhealthy for Sensitive Groups
+21736,Senegal,Ziguinchor,153,Unhealthy,1,Good,25,Good,1,Good,153,Unhealthy
+21749,India,Jaunpur,184,Unhealthy,5,Good,63,Moderate,12,Good,184,Unhealthy
+21750,China,Jining,158,Unhealthy,6,Good,105,Unhealthy for Sensitive Groups,15,Good,158,Unhealthy
+21757,India,Disa,166,Unhealthy,1,Good,30,Good,0,Good,166,Unhealthy
+21767,India,Unhel,152,Unhealthy,1,Good,39,Good,0,Good,152,Unhealthy
+21791,India,Ambikapur,170,Unhealthy,2,Good,46,Good,2,Good,170,Unhealthy
+21793,India,Ashoknagar,158,Unhealthy,3,Good,76,Moderate,2,Good,158,Unhealthy
+21812,India,Saurikh,209,Very Unhealthy,2,Good,137,Unhealthy for Sensitive Groups,1,Good,209,Very Unhealthy
+21816,Pakistan,Sita Road,182,Unhealthy,1,Good,81,Moderate,1,Good,182,Unhealthy
+21818,Senegal,Sokone,162,Unhealthy,2,Good,17,Good,2,Good,162,Unhealthy
+21824,India,Halisahar,173,Unhealthy,5,Good,121,Unhealthy for Sensitive Groups,6,Good,173,Unhealthy
+21829,China,Huangyan,178,Unhealthy,3,Good,178,Unhealthy,2,Good,118,Unhealthy for Sensitive Groups
+21837,India,Jhalu,166,Unhealthy,3,Good,166,Unhealthy,1,Good,152,Unhealthy
+21846,India,Nawada,155,Unhealthy,3,Good,140,Unhealthy for Sensitive Groups,1,Good,155,Unhealthy
+21847,Nepal,Nepalganj,152,Unhealthy,3,Good,152,Unhealthy,0,Good,150,Unhealthy
+21859,Italy,Pianezza,152,Unhealthy,4,Good,17,Good,6,Good,152,Unhealthy
+21867,India,Petlad,162,Unhealthy,1,Good,34,Good,0,Good,162,Unhealthy
+21879,China,Daxian,195,Unhealthy,13,Good,2,Good,31,Good,195,Unhealthy
+21888,Mexico,Cuautitlan Izcalli,210,Very Unhealthy,5,Good,25,Good,11,Good,210,Very Unhealthy
+21892,Pakistan,Daska,155,Unhealthy,3,Good,132,Unhealthy for Sensitive Groups,1,Good,155,Unhealthy
+21898,China,Haibowan,304,Hazardous,1,Good,42,Good,2,Good,298,Very Unhealthy
+21906,Pakistan,Jalalpur Jattan,162,Unhealthy,4,Good,47,Good,8,Good,162,Unhealthy
+21907,Mexico,Jiutepec,153,Unhealthy,2,Good,36,Good,4,Good,153,Unhealthy
+21929,India,Pulwama,158,Unhealthy,4,Good,22,Good,6,Good,158,Unhealthy
+21936,India,Baharampur,158,Unhealthy,4,Good,158,Unhealthy,2,Good,105,Unhealthy for Sensitive Groups
+21937,Sudan,Barbar,182,Unhealthy,2,Good,33,Good,0,Good,182,Unhealthy
+21956,China,Wuchi,178,Unhealthy,2,Good,178,Unhealthy,8,Good,119,Unhealthy for Sensitive Groups
+21968,China,Yichang,167,Unhealthy,8,Good,18,Good,24,Good,167,Unhealthy
+21971,China,Zhangye,200,Unhealthy,1,Good,32,Good,2,Good,200,Unhealthy
+21972,China,Zunyi,170,Unhealthy,8,Good,7,Good,24,Good,170,Unhealthy
+21985,India,Tikamgarh,192,Unhealthy,1,Good,42,Good,0,Good,192,Unhealthy
+21986,Mexico,Tlaxcala,281,Very Unhealthy,4,Good,1,Good,15,Good,281,Very Unhealthy
+21990,India,Upleta,158,Unhealthy,0,Good,26,Good,0,Good,158,Unhealthy
+21992,India,Vartej,153,Unhealthy,0,Good,30,Good,0,Good,153,Unhealthy
+22005,India,Bawana,305,Hazardous,3,Good,119,Unhealthy for Sensitive Groups,3,Good,305,Hazardous
+22007,India,Bina Etawa,176,Unhealthy,1,Good,41,Good,0,Good,176,Unhealthy
+22008,India,Bodh Gaya,188,Unhealthy,2,Good,119,Unhealthy for Sensitive Groups,1,Good,188,Unhealthy
+22023,India,Thasra,157,Unhealthy,1,Good,39,Good,0,Good,157,Unhealthy
+22045,Pakistan,Kunri,167,Unhealthy,0,Good,38,Good,0,Good,167,Unhealthy
+22053,India,Taloda,152,Unhealthy,0,Good,28,Good,0,Good,152,Unhealthy
+22055,Mexico,Tecamac,197,Unhealthy,2,Good,13,Good,12,Good,197,Unhealthy
+22064,South Africa,Ventersburg,156,Unhealthy,8,Good,4,Good,13,Good,156,Unhealthy
+22071,India,Barkhera,500,Hazardous,2,Good,88,Moderate,1,Good,494,Hazardous
+22082,India,Rajgarh,204,Very Unhealthy,1,Good,42,Good,0,Good,204,Very Unhealthy
+22089,India,Mughal Sarai,181,Unhealthy,4,Good,77,Moderate,7,Good,181,Unhealthy
+22102,India,Olpad,155,Unhealthy,1,Good,25,Good,0,Good,155,Unhealthy
+22110,India,Surajgarh,500,Hazardous,1,Good,40,Good,0,Good,464,Hazardous
+22118,India,Jamai,176,Unhealthy,0,Good,33,Good,0,Good,176,Unhealthy
+22134,South Africa,Cullinan,262,Very Unhealthy,16,Good,3,Good,15,Good,262,Very Unhealthy
+22153,Pakistan,Sanjwal,203,Very Unhealthy,3,Good,203,Very Unhealthy,3,Good,109,Unhealthy for Sensitive Groups
+22154,Brazil,Sao Joao De Meriti,187,Unhealthy,10,Good,0,Good,34,Good,187,Unhealthy
+22161,India,Amarwara,154,Unhealthy,0,Good,37,Good,0,Good,154,Unhealthy
+22170,China,Dongtai,159,Unhealthy,3,Good,159,Unhealthy,3,Good,121,Unhealthy for Sensitive Groups
+22187,Indonesia,Gondang,177,Unhealthy,7,Good,9,Good,17,Good,177,Unhealthy
+22195,Pakistan,Jhelum,168,Unhealthy,5,Good,33,Good,11,Good,168,Unhealthy
+22228,India,Kaliyaganj,153,Unhealthy,3,Good,89,Moderate,2,Good,153,Unhealthy
+22249,India,Sonepur,155,Unhealthy,2,Good,49,Good,1,Good,155,Unhealthy
+22259,Russian Federation,Tynda,500,Hazardous,21,Good,8,Good,17,Good,475,Hazardous
+22279,China,Linqu,165,Unhealthy,6,Good,83,Moderate,17,Good,165,Unhealthy
+22280,China,Lujiang,169,Unhealthy,7,Good,9,Good,31,Good,169,Unhealthy
+22283,Indonesia,Jakarta,197,Unhealthy,4,Good,197,Unhealthy,3,Good,155,Unhealthy
+22291,India,Fatehpur Sikri,171,Unhealthy,4,Good,154,Unhealthy,1,Good,171,Unhealthy
+22299,India,Warangal,164,Unhealthy,2,Good,47,Good,5,Good,164,Unhealthy
+22300,India,Wazirganj,157,Unhealthy,4,Good,32,Good,14,Good,157,Unhealthy
+22316,Brazil,Aruja,166,Unhealthy,6,Good,1,Good,18,Good,166,Unhealthy
+22325,Egypt,Akhmim,153,Unhealthy,1,Good,53,Moderate,1,Good,153,Unhealthy
+22329,India,Mursan,175,Unhealthy,4,Good,175,Unhealthy,2,Good,169,Unhealthy
+22332,India,Nimaparha,153,Unhealthy,3,Good,68,Moderate,1,Good,153,Unhealthy
+22358,Mexico,Cuernavaca,194,Unhealthy,5,Good,6,Good,26,Good,194,Unhealthy
+22367,China,Yicheng,153,Unhealthy,3,Good,153,Unhealthy,2,Good,90,Moderate
+22378,India,Karimnagar,179,Unhealthy,3,Good,29,Good,20,Good,179,Unhealthy
+22382,Indonesia,Rancaekek,207,Very Unhealthy,12,Good,3,Good,31,Good,207,Very Unhealthy
+22391,Viet Nam,Thai Binh,173,Unhealthy,8,Good,25,Good,18,Good,173,Unhealthy
+22392,Mexico,Tlalmanalco,197,Unhealthy,4,Good,27,Good,10,Good,197,Unhealthy
+22404,India,Bhilai,160,Unhealthy,3,Good,40,Good,5,Good,160,Unhealthy
+22412,India,Kurud,154,Unhealthy,2,Good,47,Good,1,Good,154,Unhealthy
+22414,India,Latehar,171,Unhealthy,3,Good,51,Moderate,3,Good,171,Unhealthy
+22425,Qatar,Doha,164,Unhealthy,1,Good,164,Unhealthy,2,Good,144,Unhealthy for Sensitive Groups
+22439,Senegal,Sedhiou,177,Unhealthy,1,Good,29,Good,0,Good,177,Unhealthy
+22452,India,Amarpatan,184,Unhealthy,1,Good,53,Moderate,0,Good,184,Unhealthy
+22453,India,Amta,160,Unhealthy,4,Good,102,Unhealthy for Sensitive Groups,4,Good,160,Unhealthy
+22461,China,Binzhou,182,Unhealthy,4,Good,182,Unhealthy,2,Good,135,Unhealthy for Sensitive Groups
+22470,India,Narnaul,497,Hazardous,1,Good,41,Good,0,Good,369,Hazardous
+22474,Saudi Arabia,Tabuk,175,Unhealthy,1,Good,86,Moderate,0,Good,175,Unhealthy
+22475,Chile,Talagante,251,Very Unhealthy,18,Good,0,Good,27,Good,251,Very Unhealthy
+22479,Pakistan,Baffa,165,Unhealthy,3,Good,139,Unhealthy for Sensitive Groups,0,Good,165,Unhealthy
+22483,Pakistan,Raja Jang,163,Unhealthy,3,Good,163,Unhealthy,1,Good,161,Unhealthy
+22492,China,Urumqi,152,Unhealthy,1,Good,68,Moderate,1,Good,152,Unhealthy
+22496,India,Tosham,171,Unhealthy,3,Good,162,Unhealthy,1,Good,171,Unhealthy
+22500,China,Xiaoshan,159,Unhealthy,4,Good,37,Good,11,Good,159,Unhealthy
+22505,India,Toda Raisingh,191,Unhealthy,1,Good,39,Good,0,Good,191,Unhealthy
+22524,India,Panna,203,Very Unhealthy,1,Good,45,Good,0,Good,203,Very Unhealthy
+22526,India,Sendhwa,152,Unhealthy,0,Good,33,Good,0,Good,152,Unhealthy
+22530,India,Kalna,162,Unhealthy,5,Good,114,Unhealthy for Sensitive Groups,4,Good,162,Unhealthy
+22531,India,Khekra,203,Very Unhealthy,4,Good,151,Unhealthy,5,Good,203,Very Unhealthy
+22534,China,Suozhen,156,Unhealthy,4,Good,149,Unhealthy for Sensitive Groups,6,Good,156,Unhealthy
+22541,India,Chichli,152,Unhealthy,1,Good,36,Good,0,Good,152,Unhealthy
+22552,India,Ladwa,152,Unhealthy,3,Good,151,Unhealthy,1,Good,152,Unhealthy
+22560,India,Miranpur,464,Hazardous,4,Good,171,Unhealthy,5,Good,407,Hazardous
+22561,Pakistan,Miro Khan,168,Unhealthy,1,Good,57,Moderate,1,Good,168,Unhealthy
+22577,India,Bahjoi,500,Hazardous,1,Good,53,Moderate,1,Good,447,Hazardous
+22581,Iran (Islamic Republic of),Borazjan,156,Unhealthy,1,Good,45,Good,0,Good,156,Unhealthy
+22599,India,Salaya,153,Unhealthy,0,Good,28,Good,0,Good,153,Unhealthy
+22600,India,Salur,158,Unhealthy,1,Good,46,Good,0,Good,158,Unhealthy
+22602,Indonesia,Teluknaga,188,Unhealthy,4,Good,188,Unhealthy,3,Good,163,Unhealthy
+22608,South Africa,Virginia,160,Unhealthy,4,Good,12,Good,12,Good,160,Unhealthy
+22611,Senegal,Waounde,162,Unhealthy,1,Good,26,Good,1,Good,162,Unhealthy
+22625,India,Bargi,170,Unhealthy,1,Good,37,Good,0,Good,170,Unhealthy
+22630,India,Muri,186,Unhealthy,2,Good,98,Moderate,1,Good,186,Unhealthy
+22646,Pakistan,Chak,166,Unhealthy,1,Good,46,Good,0,Good,166,Unhealthy
+22648,Gambia,Lamin,153,Unhealthy,1,Good,24,Good,1,Good,153,Unhealthy
+22650,Indonesia,Krian,161,Unhealthy,3,Good,137,Unhealthy for Sensitive Groups,1,Good,161,Unhealthy
+22655,China,Ximei,167,Unhealthy,3,Good,167,Unhealthy,3,Good,97,Moderate
+22662,Bangladesh,Madaripur,172,Unhealthy,2,Good,36,Good,4,Good,172,Unhealthy
+22678,Uzbekistan,Zomin,153,Unhealthy,1,Good,40,Good,0,Good,153,Unhealthy
+22682,China,Xuanzhou,156,Unhealthy,3,Good,156,Unhealthy,3,Good,111,Unhealthy for Sensitive Groups
+22691,India,Sojat,178,Unhealthy,1,Good,32,Good,0,Good,178,Unhealthy
+22708,India,Sagauli,253,Very Unhealthy,4,Good,166,Unhealthy,1,Good,253,Very Unhealthy
+22725,Egypt,Tahta,162,Unhealthy,1,Good,44,Good,2,Good,162,Unhealthy
+22742,India,Titagarh,183,Unhealthy,4,Good,106,Unhealthy for Sensitive Groups,4,Good,183,Unhealthy
+22753,India,Chandigarh,166,Unhealthy,5,Good,18,Good,27,Good,166,Unhealthy
+22754,Brazil,Embu Guacu,182,Unhealthy,9,Good,0,Good,29,Good,182,Unhealthy
+22786,India,Faridkot,163,Unhealthy,3,Good,108,Unhealthy for Sensitive Groups,5,Good,163,Unhealthy
+22789,India,Sonipat,216,Very Unhealthy,10,Good,26,Good,32,Good,216,Very Unhealthy
+22791,India,Firozabad,169,Unhealthy,4,Good,164,Unhealthy,1,Good,169,Unhealthy
+22816,Pakistan,Dijkot,169,Unhealthy,2,Good,142,Unhealthy for Sensitive Groups,1,Good,169,Unhealthy
+22823,India,Belaguntha,159,Unhealthy,1,Good,48,Good,0,Good,159,Unhealthy
+22824,India,Bilari,500,Hazardous,4,Good,158,Unhealthy,4,Good,457,Hazardous
+22826,Pakistan,Dadu,166,Unhealthy,1,Good,40,Good,0,Good,166,Unhealthy
+22834,India,Umarkot,159,Unhealthy,1,Good,31,Good,1,Good,159,Unhealthy
+22837,India,Rajakhera,250,Very Unhealthy,1,Good,39,Good,1,Good,250,Very Unhealthy
+22842,India,Sikandarabad,500,Hazardous,2,Good,42,Good,3,Good,500,Hazardous
+22851,India,Mandawar,166,Unhealthy,5,Good,29,Good,13,Good,166,Unhealthy
+22887,India,Amethi,167,Unhealthy,4,Good,167,Unhealthy,1,Good,160,Unhealthy
+22889,India,Barka Kana,153,Unhealthy,3,Good,103,Unhealthy for Sensitive Groups,1,Good,153,Unhealthy
+22895,Bangladesh,Laksham,162,Unhealthy,2,Good,36,Good,3,Good,162,Unhealthy
+22897,India,Manawar,152,Unhealthy,0,Good,31,Good,0,Good,152,Unhealthy
+22918,India,Ambarnath,181,Unhealthy,7,Good,8,Good,17,Good,181,Unhealthy
+22921,China,Yunyang,156,Unhealthy,5,Good,58,Moderate,16,Good,156,Unhealthy
+22924,India,Telhara,155,Unhealthy,2,Good,30,Good,3,Good,155,Unhealthy
+22928,India,Uniara,177,Unhealthy,2,Good,22,Good,7,Good,177,Unhealthy
+22940,India,Guru Har Sahai,171,Unhealthy,2,Good,141,Unhealthy for Sensitive Groups,1,Good,171,Unhealthy
+22944,Pakistan,Daro,165,Unhealthy,1,Good,44,Good,0,Good,165,Unhealthy
+22952,China,Zouxian,187,Unhealthy,4,Good,187,Unhealthy,5,Good,137,Unhealthy for Sensitive Groups
+23000,India,Biswan,152,Unhealthy,3,Good,40,Good,8,Good,152,Unhealthy
+23004,Chile,Calama,184,Unhealthy,0,Good,16,Good,0,Good,184,Unhealthy
+23007,India,Chanderi,162,Unhealthy,3,Good,62,Moderate,3,Good,162,Unhealthy
+23009,China,Yigou,176,Unhealthy,3,Good,176,Unhealthy,4,Good,127,Unhealthy for Sensitive Groups
+23011,India,Umrala,156,Unhealthy,0,Good,34,Good,0,Good,156,Unhealthy
+23013,China,Xiaolan,153,Unhealthy,5,Good,115,Unhealthy for Sensitive Groups,9,Good,153,Unhealthy
+23023,South Africa,Scottsburgh,185,Unhealthy,12,Good,10,Good,15,Good,185,Unhealthy
+23027,Venezuela (Bolivarian Republic of),Guacara,159,Unhealthy,3,Good,4,Good,16,Good,159,Unhealthy
+23047,China,Homei,204,Very Unhealthy,4,Good,204,Very Unhealthy,9,Good,156,Unhealthy
+23050,Pakistan,Kot Diji,179,Unhealthy,1,Good,46,Good,0,Good,179,Unhealthy
+23065,India,Mariahu,166,Unhealthy,4,Good,156,Unhealthy,2,Good,166,Unhealthy
+23073,India,Deori Khas,193,Unhealthy,1,Good,40,Good,0,Good,193,Unhealthy
+23089,China,Xixiang,181,Unhealthy,9,Good,5,Good,44,Good,181,Unhealthy
+23098,Uzbekistan,Termiz,172,Unhealthy,1,Good,49,Good,0,Good,172,Unhealthy
+23113,India,Ajnala,157,Unhealthy,3,Good,157,Unhealthy,1,Good,148,Unhealthy for Sensitive Groups
+23119,Ethiopia,Kembolcha,159,Unhealthy,1,Good,37,Good,0,Good,159,Unhealthy
+23122,India,Rawatbhata,175,Unhealthy,1,Good,39,Good,0,Good,175,Unhealthy
+23128,China,Yingcheng,174,Unhealthy,4,Good,174,Unhealthy,5,Good,128,Unhealthy for Sensitive Groups
+23154,China,Xuchang,202,Very Unhealthy,4,Good,202,Very Unhealthy,3,Good,151,Unhealthy
+23166,Pakistan,Mianwali,159,Unhealthy,2,Good,159,Unhealthy,1,Good,153,Unhealthy
+23181,India,Tharad,188,Unhealthy,1,Good,27,Good,1,Good,188,Unhealthy
+23200,India,Godhra,152,Unhealthy,1,Good,36,Good,0,Good,152,Unhealthy
+23201,Mexico,Tlalancaleca,355,Hazardous,4,Good,4,Good,17,Good,355,Hazardous
+23230,Pakistan,Faruka,178,Unhealthy,2,Good,120,Unhealthy for Sensitive Groups,0,Good,178,Unhealthy
+23261,China,Linqing,178,Unhealthy,3,Good,178,Unhealthy,3,Good,132,Unhealthy for Sensitive Groups
+23268,Pakistan,Sarai Alamgir,181,Unhealthy,2,Good,170,Unhealthy,1,Good,181,Unhealthy
+23293,India,Ramjibanpur,189,Unhealthy,1,Good,85,Moderate,1,Good,189,Unhealthy
+23310,Mexico,Tepoztlan,152,Unhealthy,2,Good,6,Good,15,Good,152,Unhealthy
+23320,India,Keshorai Patan,187,Unhealthy,2,Good,57,Moderate,2,Good,187,Unhealthy
+23322,Malaysia,Rawang,163,Unhealthy,6,Good,8,Good,25,Good,163,Unhealthy
+23340,India,Dhupgari,154,Unhealthy,5,Good,15,Good,11,Good,154,Unhealthy
+23348,Pakistan,Dajal,176,Unhealthy,2,Good,121,Unhealthy for Sensitive Groups,0,Good,176,Unhealthy
+23372,Pakistan,Mian Channun,252,Very Unhealthy,2,Good,135,Unhealthy for Sensitive Groups,1,Good,252,Very Unhealthy
+23396,India,Hazaribag,166,Unhealthy,1,Good,45,Good,1,Good,166,Unhealthy
+23401,India,Tamluk,185,Unhealthy,2,Good,85,Moderate,2,Good,185,Unhealthy
+23409,India,Ghatanji,156,Unhealthy,2,Good,36,Good,2,Good,156,Unhealthy
+23414,Yemen,Lahij,152,Unhealthy,1,Good,44,Good,1,Good,152,Unhealthy
+23429,Mexico,Tlaltelulco,181,Unhealthy,3,Good,2,Good,11,Good,181,Unhealthy
+23455,China,Shaoguan,160,Unhealthy,3,Good,160,Unhealthy,1,Good,79,Moderate
+23458,India,Gursahaiganj,184,Unhealthy,3,Good,154,Unhealthy,2,Good,184,Unhealthy
