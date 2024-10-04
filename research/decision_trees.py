@@ -31,13 +31,17 @@ X_df = data_df[features]
 target = "Go"
 Y_df = data_df[target]
 
-
+print(f"Data type of X_df is {type(X_df)}")
 print(f"Features are : \n {X_df}")
+print(f"Dat type of Y_df is : {type(Y_df)}")
 print(f"Target is : \n {Y_df}")
 
+
+"""
 # applying decision tree
 dtree = DecisionTreeClassifier()
 comedy_tree = dtree.fit(X_df, Y_df)
 
 tree.plot_tree(comedy_tree, feature_names=features)
 plt.show()
+"""
