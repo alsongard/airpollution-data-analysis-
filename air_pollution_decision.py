@@ -4,6 +4,9 @@ from sklearn  import tree # depreated feature
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
 import streamlit as st
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import classification_report
+
 data_df = pd.read_csv("./data/global_air_pollution_data.csv")
 
 print(data_df)
@@ -46,7 +49,7 @@ X_independent = data_df[features]
 print(f"The featurs to be used for decision tree are : \n {X_independent}")
 
 
-X_train, X_test, Y_train, Y_test = train_test_split(X_independent, Y_target, test_size=0.70, random_state=42)
+X_train, X_test, Y_train, Y_test = train_test_split(X_independent, Y_target, test_size=0.3, random_state=42)
 
 
 # lets check each var above
@@ -62,3 +65,10 @@ air_pollution_tree =  dtree.fit(X_train, Y_train)
 plt.figure(figsize=(12,12))
 tree.plot_tree(air_pollution_tree, filled=True, feature_names=features, max_depth=3,node_ids=True,  fontsize=10)
 plt.show()
+
+
+X_test_pred_result = air_pollution_tree.predict(X_test)
+print(f"accuracy of the prediction model : {accuracy_score(X_test_pred_result, Y_test)}")
+
+print(f"The classification report : \n {classification_report(X_test_pred_result, Y_test)}")
+
