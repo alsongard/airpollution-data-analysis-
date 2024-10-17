@@ -115,9 +115,8 @@ st.image("./iris_decision_tree_image_3.png")
 st.write("Accuracy of Decision Tree-Test : 0.9555555555555556")
 
 """
-
 |                |precision |recall    |f1-score  |support |
-|  -------              |    -----      |   -------        |    ------     |-------      |
+|  -------       |    ----- |   -----   |    ---- |------- |
 |Iris-setosa     |1.00      |1.00      |1.00      |  14 |
 |Iris-versicolor |0.94      |0.94      |0.94      |  18 |
 |Iris-virginica  |0.92      |0.92      |0.92      |  13 |
