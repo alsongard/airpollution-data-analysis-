@@ -116,3 +116,6 @@ harzardous_df
 harzardous_co_aqi_min_value = harzardous_df["co_aqi_value"].min()
 harzardous_co_aqi_max_value = harzardous_df["co_aqi_value"].max()
 st.write(f"For areas with Hazardous conditions, minimum co_aqi_value is {harzardous_co_aqi_min_value} and maximum value is {harzardous_co_aqi_max_value}")
+
+# write hazardous data to excel file
+harzardous_df.to_excel("hazardous_countries.xlsx")
