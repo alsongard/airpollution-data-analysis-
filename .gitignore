@@ -1,7 +1,10 @@
-bin/
-etc/
-include/
-lib/
-lib64/
-/pyvenv.cfg
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
 share/
+bin/
+data/
+etc/
+/lib64
+lib/
+include/
+/pyvenv.cfg
