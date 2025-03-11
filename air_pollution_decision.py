@@ -6,6 +6,7 @@ from sklearn.model_selection import train_test_split
 import streamlit as st
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import classification_report
+import joblib
 
 data_df = pd.read_csv("./data/global_air_pollution_data.csv")
 
@@ -52,6 +53,8 @@ print(f"The featurs to be used for decision tree are : \n {X_independent}")
 X_train, X_test, Y_train, Y_test = train_test_split(X_independent, Y_target, test_size=0.3, random_state=42)
 
 
+
+
 # lets check each var above
 print(f" X_train shape is :  {X_train.shape} data type is {type(X_train)} and data is \n {X_train}")
 print(f" X_test shape is : {X_test.shape} data type is {type(X_test)} and data is \n {X_test}")
@@ -61,14 +64,33 @@ print(f" Y_test shape is : {Y_test.shape} data type is {type(Y_test)}  and data 
 
 # Apply decision tree
 dtree = DecisionTreeClassifier()
-air_pollution_tree =  dtree.fit(X_train, Y_train)
+
+
+# checking X_test
+print("X_test information on columns")
+print(X_test.info())
+# print(X_test)  
+# co_aqi_value  ozone_aqi_value  no2_aqi_value  pm2.5_aqi_value
+# 2               37              2              139 
+
+
+air_pollution_tree_model =  dtree.fit(X_train, Y_train)
 plt.figure(figsize=(12,12))
-tree.plot_tree(air_pollution_tree, filled=True, feature_names=features, max_depth=3,node_ids=True,  fontsize=10)
-plt.show()
+tree.plot_tree(air_pollution_tree_model, filled=True, feature_names=features, max_depth=3,node_ids=True,  fontsize=10)
+# plt.show()
 
 
-X_test_pred_result = air_pollution_tree.predict(X_test)
+X_test_pred_result = air_pollution_tree_model.predict(X_test)
 print(f"accuracy of the prediction model : {accuracy_score(X_test_pred_result, Y_test)}")
 
 print(f"The classification report : \n {classification_report(X_test_pred_result, Y_test)}")
 
+
+# save model
+file_name = "air_quality_index_prediction_model.sav"
+joblib.dump(air_pollution_tree_model, file_name)
+
+
+# load model for testing
+loaded_model = joblib.load("air_quality_index_prediction_model.sav")
+print(loaded_model.predict([[2,37,2,139]]))
